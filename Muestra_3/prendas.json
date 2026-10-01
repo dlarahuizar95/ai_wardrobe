@@ -145,8 +145,8 @@
         "composicion_etiqueta": ""
       },
       "estado": "pendiente",
-      "comentario": "El maniquí se ve blanco y sólido. Debe ser maniquí invisible (ghost mannequin): solo la prenda, sin torso visible. Top deportivo negro de manga larga con puños anchos, igual que las fotos.",
-      "nota_maniqui": "El maniquí se ve blanco y sólido. Debe ser maniquí invisible (ghost mannequin): solo la prenda, sin torso visible. Top deportivo negro de manga larga con puños anchos, igual que las fotos."
+      "comentario": "Todavía se ve el torso blanco del maniquí debajo del top. No debe verse NINGUNA parte del maniquí: donde termina el top, abajo solo hay fondo gris.",
+      "nota_maniqui": "Todavía se ve el torso blanco del maniquí debajo del top. No debe verse NINGUNA parte del maniquí: donde termina el top, abajo solo hay fondo gris."
     },
     {
       "id": "P04",

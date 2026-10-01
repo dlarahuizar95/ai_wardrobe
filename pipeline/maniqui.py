@@ -12,9 +12,11 @@ LOG = Path("errores.log")
 REINTENTOS = 2
 
 PROMPT = ("Estas imágenes muestran la misma prenda desde distintos ángulos: {descripcion}. "
-          "Recréala una sola vez sobre un maniquí invisible (ghost mannequin), fondo de estudio gris claro uniforme, "
-          "luz suave, encuadre frontal completo, estilo e-commerce. Conserva exactamente color, patrón, manga, largo, "
-          "cuello y proporciones. No agregues, quites ni cambies nada. Sin modelo, sin texto, sin accesorios extra.")
+          "Recréala una sola vez con la técnica de maniquí invisible (ghost mannequin): la prenda aparece con volumen "
+          "de cuerpo pero NO se ve ningún maniquí. Nada de cabeza, cuello, torso, brazos, cadera, piernas ni base: "
+          "donde termina la prenda solo hay fondo. Fondo de estudio gris claro uniforme, luz suave, encuadre frontal "
+          "completo, estilo e-commerce. Conserva exactamente color, patrón, manga, largo, cuello y proporciones. "
+          "No agregues, quites ni cambies nada. Sin modelo, sin texto, sin accesorios extra.")
 
 def log(msg):
     with LOG.open("a", encoding="utf-8") as f:
