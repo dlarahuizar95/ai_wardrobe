@@ -24,35 +24,36 @@ pagina = r'''<!doctype html>
   select, button, textarea { font:inherit; font-size:14px; border:1px solid var(--gris); background:#fff; border-radius:6px; padding:7px 10px; color:#222 }
   button { cursor:pointer } button:hover { border-color:#999 } button:disabled { opacity:.5; cursor:default }
   #aviso { display:none; background:#fff6d6; color:var(--warn); padding:10px 28px; font-size:14px; border-bottom:1px solid #f0e2a0 }
-  main { display:grid; grid-template-columns:repeat(4,1fr); grid-auto-rows:1fr; gap:20px; padding:24px 28px; max-width:1700px; margin:0 auto }
-  @media (max-width:1200px) { main { grid-template-columns:repeat(3,1fr) } }
-  @media (max-width:900px) { main { grid-template-columns:repeat(2,1fr) } }
-  @media (max-width:560px) { main { grid-template-columns:1fr; padding:16px } }
+  main { display:grid; grid-template-columns:repeat(5,1fr); grid-auto-rows:1fr; gap:14px; padding:18px 28px; max-width:1800px; margin:0 auto }
+  @media (max-width:1400px) { main { grid-template-columns:repeat(4,1fr) } }
+  @media (max-width:1100px) { main { grid-template-columns:repeat(3,1fr) } }
+  @media (max-width:800px) { main { grid-template-columns:repeat(2,1fr) } }
+  @media (max-width:520px) { main { grid-template-columns:1fr; padding:16px } }
   .card { border:1px solid var(--gris); border-radius:10px; overflow:hidden; display:flex; flex-direction:column; background:#fff; position:relative; height:100% }
   .card.aprobada { box-shadow:0 0 0 2px var(--ok) inset }
   .card.cambiada { box-shadow:0 0 0 2px var(--no) inset }
-  .pill { position:absolute; top:10px; left:10px; font-size:12px; padding:3px 8px; border-radius:99px; background:#fff; border:1px solid var(--gris); color:var(--sec) }
+  .pill { position:absolute; top:8px; left:8px; font-size:11px; padding:2px 8px; border-radius:99px; background:rgba(255,255,255,.92); border:1px solid var(--gris); color:var(--sec); z-index:1 }
   .card.aprobada .pill { background:var(--ok); color:#fff; border-color:var(--ok) }
   .card.cambiada .pill { background:var(--no); color:#fff; border-color:var(--no) }
-  .maniqui { background:#f3f3f3; aspect-ratio:4/5; flex:none; position:relative; overflow:hidden }
+  .maniqui { background:#f3f3f3; aspect-ratio:1/1; flex:none; position:relative; overflow:hidden }
   .maniqui img { position:absolute; inset:0; width:100%; height:100%; object-fit:contain }
   .maniqui .velo { position:absolute; inset:0; background:rgba(255,255,255,.75); display:none; align-items:center; justify-content:center; color:var(--sec); font-size:14px }
   .card.trabajando .velo { display:flex }
-  .crops { display:flex; gap:5px; padding:8px 10px 0; overflow-x:auto; height:68px; flex:none; scrollbar-width:none }
-  .crops img { height:52px; width:auto; border-radius:4px; border:1px solid var(--gris); display:block }
-  .meta { padding:10px 12px 0; height:164px; flex:none; overflow:hidden }
-  .chips { display:flex; gap:4px; flex-wrap:wrap; margin-bottom:6px; height:22px; overflow:hidden }
-  .chip { font-size:11px; padding:2px 7px; border-radius:99px; background:#f3f3f3; color:#333; white-space:nowrap }
-  .fila { display:flex; gap:8px; align-items:baseline; margin-bottom:6px; font-size:13px }
-  .id { font-weight:600; font-size:14px } .cat { color:var(--sec); text-transform:capitalize } .lote { color:var(--sec); margin-left:auto } .marca { color:var(--sec) }
-  dl { margin:0; display:grid; grid-template-columns:62px 1fr; row-gap:3px; column-gap:8px; font-size:13px }
+  .crops { display:flex; gap:4px; padding:6px 10px 0; overflow-x:auto; height:50px; flex:none; scrollbar-width:none }
+  .crops img { height:40px; width:auto; border-radius:3px; border:1px solid var(--gris); display:block }
+  .meta { padding:6px 10px 0; height:122px; flex:none; overflow:hidden }
+  .chips { display:flex; gap:4px; flex-wrap:nowrap; margin-bottom:4px; height:20px; overflow:hidden }
+  .chip { font-size:11px; padding:1px 7px; border-radius:99px; background:#f3f3f3; color:#333; white-space:nowrap }
+  .fila { display:flex; gap:6px; align-items:baseline; margin-bottom:3px; font-size:12px }
+  .id { font-weight:600; font-size:13px } .cat { color:var(--sec); text-transform:capitalize } .lote { color:var(--sec); margin-left:auto; font-size:11px } .marca { color:var(--sec) }
+  dl { margin:0; display:grid; grid-template-columns:54px 1fr; row-gap:1px; column-gap:6px; font-size:12px; line-height:1.4 }
   dl div { display:contents } dt { color:var(--sec) }
   dd { margin:0; color:#222; white-space:nowrap; overflow:hidden; text-overflow:ellipsis }
-  dd select { width:100%; padding:3px 6px; font-size:13px }
-  .comentario { margin:0 12px; font-size:12px; color:var(--no); background:#fdf1f0; border-radius:6px; padding:4px 8px; height:24px; line-height:16px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; visibility:hidden }
-  .card.cambiada .comentario { visibility:visible }
-  .acciones { display:flex; gap:6px; padding:8px 12px 12px; margin-top:auto; flex:none }
-  .acciones button { flex:1; font-size:13px; padding:6px 8px }
+  dd select { width:100%; padding:1px 4px; font-size:12px; height:20px }
+  .comentario { position:absolute; left:8px; right:8px; bottom:8px; font-size:11px; color:#fff; background:rgba(179,38,30,.9); border-radius:6px; padding:4px 8px; line-height:14px; max-height:46px; overflow:hidden; display:none; z-index:1 }
+  .card.cambiada .comentario { display:block }
+  .acciones { display:flex; gap:6px; padding:6px 10px 10px; margin-top:auto; flex:none }
+  .acciones button { flex:1; font-size:12px; padding:5px 6px }
   .card.aprobada .ok { background:var(--ok); color:#fff; border-color:var(--ok) }
   .card.cambiada .no { background:var(--no); color:#fff; border-color:var(--no) }
   .corregir { background:#222; color:#fff; border-color:#222 }
@@ -61,7 +62,9 @@ pagina = r'''<!doctype html>
   .form textarea { width:100%; min-height:64px; resize:vertical }
   .form .botones { display:flex; gap:6px } .form .botones button { flex:1; font-size:13px }
   #estado { padding:40px; color:var(--sec); grid-column:1/-1; text-align:center }
-  .msg { font-size:12px; color:var(--sec); padding:4px 12px 0; height:20px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis }
+  .msg { position:absolute; left:8px; top:8px; right:8px; font-size:11px; color:#333; background:rgba(255,255,255,.92); border-radius:6px; padding:3px 8px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; display:none; z-index:1 }
+  .msg:not(:empty) { display:block }
+  .msg { top:36px }
   .filtros { display:flex; gap:6px; margin-left:auto; flex-wrap:wrap; align-items:center }
   .filtros select, .filtros input { font-size:13px; padding:6px 8px; max-width:150px }
   .filtros .limpiar { font-size:13px; color:var(--sec); background:none; border:none; text-decoration:underline; cursor:pointer }
@@ -130,8 +133,9 @@ function tarjeta(p) {
   const est = p.estado || "pendiente";
   return `
 <article class="card ${est === "pendiente" ? "" : est}" data-id="${esc(p.id)}">
-  <span class="pill">${est === "aprobada" ? "Aprobada" : est === "cambiada" ? "Se cambió" : "Pendiente"}</span>
-  <div class="maniqui">${p.maniqui_url ? `<img src="${esc(imgUrl(p))}" loading="lazy">` : ""}<div class="velo">Corrigiendo con Gemini…</div></div>
+  <div class="maniqui">${p.maniqui_url ? `<img src="${esc(imgUrl(p))}" loading="lazy">` : ""}<div class="velo">Corrigiendo con Gemini…</div>
+    <span class="pill">${est === "aprobada" ? "Aprobada" : est === "cambiada" ? "Se cambió" : "Pendiente"}</span>
+    <div class="msg"></div><div class="comentario" title="${esc(p.comentario || "")}">${esc(p.comentario || "")}</div></div>
   <div class="crops">${p.crops.map(c => `<a href="${esc(c.crop_url)}" target="_blank" title="${esc(c.foto)}${c.es_detalle ? " (detalle)" : ""}"><img src="${esc(c.crop_url)}" loading="lazy"></a>`).join("")}</div>
   <div class="meta">
     <div class="fila"><span class="id">${esc(p.codigo)}</span><span class="cat">${esc(etTipo[p.tipo] || p.categoria)}</span><span class="lote">${esc(p.lote)}</span></div>
@@ -143,11 +147,9 @@ function tarjeta(p) {
       <div><dt>Detalles</dt><dd title="${esc(p.detalles || "")}">${esc(p.detalles || "—")}</dd></div>
     </dl>
   </div>
-  <div class="comentario" title="${esc(p.comentario || "")}">${esc(p.comentario || "")}</div>
-  <div class="msg"></div>
   <div class="acciones">
     <button class="ok" onclick="aprobar('${esc(p.id)}')">Aprobar</button>
-    <button class="no" onclick="abrirForm('${esc(p.id)}')">Se cambió la prenda</button>
+    <button class="no" onclick="abrirForm('${esc(p.id)}')">Se cambió</button>
     ${est === "cambiada" && p.comentario ? `<button class="corregir" onclick="corregir('${esc(p.id)}')">Corregir</button>` : ""}
   </div>
   <div class="form">
