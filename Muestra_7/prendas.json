@@ -1,0 +1,1080 @@
+{
+  "prendas": [
+    {
+      "id": "P01",
+      "categoria": "vestido",
+      "descripcion": "Vestido largo de gasa o chifón semitransparente con estampado floral multicolor (azul, magenta, amarillo, blanco) sobre fondo negro, mangas largas y escote fluido.",
+      "marca_talla": "",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "4548A830-0C0F-4C66-9046-1934DA42A41E.jpg",
+          "n": 1,
+          "bbox": [
+            0.059,
+            0.254,
+            1.0,
+            0.825
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido largo de gasa o chifón semitransparente con estampado floral multicolor (azul, magenta, amarillo, blanco) sobre fondo negro, mangas largas y escote fluido.",
+          "crop": "crops/P01/4548A830-0C0F-4C66-9046-1934DA42A41E_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro con estampado floral multicolor en tonos azul, magenta, amarillo y blanco",
+        "estilo": "Vestido largo de corte entallado y fluido",
+        "material": "Gasa o chifón semitransparente",
+        "detalles": "Manga larga, largo maxi, fruncidos laterales y bajo con vuelo",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P02",
+      "categoria": "blusa",
+      "descripcion": "Blusa holgada de manga larga a cuadros beige y blanco, con holanes en el cuello en V, puños elásticos y tiras delgadas de ajuste con adorno de perla.",
+      "marca_talla": "ZARA L",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9261.jpg",
+          "n": 1,
+          "bbox": [
+            0.062,
+            0.123,
+            0.798,
+            0.995
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa de manga larga con patron a cuadros en tonos beige y blanco, cuello en V decorado con holanes, tiras delgadas de ajuste con adorno tipo perla en los extremos y puños elásticos.",
+          "crop": "crops/P02/IMG_9261_1.jpg"
+        },
+        {
+          "foto": "IMG_9262.jpg",
+          "n": 1,
+          "bbox": [
+            0.018,
+            0.222,
+            0.866,
+            0.932
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa holgada a cuadros beige y blanco, de manga larga con puños elásticos, cuello en V con holanes y cordones con tirantes decorativos",
+          "crop": "crops/P02/IMG_9262_1.jpg"
+        },
+        {
+          "foto": "IMG_9263.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.829,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la etiqueta y tela de una prenda ligera con textura y patron de cuadrícula fina en tono beige y crema, colgada en gancho negro",
+          "crop": "crops/P02/IMG_9263_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Beige y blanco a cuadros",
+        "estilo": "Blusa holgada de corte fluido",
+        "material": "Gasa ligera o tela semitransparente",
+        "detalles": "Manga larga con puños elásticos, cuello en V con holanes y tiras delgadas con adorno de perla",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P03",
+      "categoria": "top",
+      "descripcion": "Top corto tipo crop sin mangas de color beige liso, con tirantes anchos elásticos encorrugados y textura tipo lino o algodón ligero.",
+      "marca_talla": "PRIMARK 42",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9264.jpg",
+          "n": 1,
+          "bbox": [
+            0.17,
+            0.241,
+            0.845,
+            0.824
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "top corto tipo crop, sin mangas, de color beige liso con tirantes anchos elásticos encorrugados y textura de aspecto lino o algodón ligero",
+          "crop": "crops/P03/IMG_9264_1.jpg"
+        },
+        {
+          "foto": "IMG_9265.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de cerca de prenda color beige de aspecto textil lino con detalle de elástico o fruncido y tirantes, mostrando etiqueta interior.",
+          "crop": "crops/P03/IMG_9265_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Beige liso",
+        "estilo": "Top corto tipo crop sin mangas de corte holgado",
+        "material": "Lino o algodón ligero",
+        "detalles": "Tirantes anchos elásticos fruncidos y escote recto",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P04",
+      "categoria": "top",
+      "descripcion": "Top lencero satinado de color beige con tirantes delgados ajustables, escote fluido drapeado y largo corto.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9266.jpg",
+          "n": 1,
+          "bbox": [
+            0.2,
+            0.26,
+            0.78,
+            0.82
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top lencero de tirantes delgados en color beige, con escote fluido y drapeado tipo caida, confeccionado en tejido satinado de acabado liso, sin mangas y de largo corto.",
+          "crop": "crops/P04/IMG_9266_1.jpg"
+        },
+        {
+          "foto": "IMG_9267.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de cerca de un top o vestido de satin beige con tirantes delgados ajustables y etiqueta visible",
+          "crop": "crops/P04/IMG_9267_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Beige liso",
+        "estilo": "Top lencero de corte fluido",
+        "material": "Tela satinada",
+        "detalles": "Tirantes delgados, escote drapeado y largo corto",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P05",
+      "categoria": "chamarra",
+      "descripcion": "Chamarra estilo rompevientos de color amarillo con franjas dobles en azul marino en el pecho y mangas, cuello alto, cierre frontal y forro interior de malla blanca.",
+      "marca_talla": "NAUTICA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9268.jpg",
+          "n": 1,
+          "bbox": [
+            0.046,
+            0.184,
+            0.877,
+            0.841
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Chamarra estilo rompevientos de color amarillo con franjas dobles en azul marino en el pecho y mangas, manga larga, forro interior de malla blanca y cierre de cremallera frontal",
+          "crop": "crops/P05/IMG_9268_1.jpg"
+        },
+        {
+          "foto": "IMG_9269.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Chamarra color amarillo de estilo deportivo con cuello alto acanalado azul marino, cierre de cremallera, broches metálicos a presión, forro interior de malla blanca y etiqueta interna de marca.",
+          "crop": "crops/P05/IMG_9269_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Amarillo con franjas dobles en azul marino",
+        "estilo": "Chamarra estilo rompevientos de corte holgado",
+        "material": "Tela sintética de tipo rompevientos con forro interior de malla",
+        "detalles": "Manga larga, cuello alto, cierre frontal de cremallera y bolsillos laterales",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P06",
+      "categoria": "chamarra",
+      "descripcion": "Chamarra impermeable de color amarillo brillante con gorro integrado, cuello alto, logotipo HH en el pecho, jaretas ajustables y forro interno de malla gris claro.",
+      "marca_talla": "HELLY HANSEN M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9272.jpg",
+          "n": 1,
+          "bbox": [
+            0.164,
+            0.091,
+            0.812,
+            0.903
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Chamarra rompevientos de color amarillo brillante, manga larga con puños ajustables, cuello alto con gorro integrado, cierre frontal con solapa, jaretas de ajuste en la cintura y el gorro, y logotipo HH impreso en el pecho.",
+          "crop": "crops/P06/IMG_9272_1.jpg"
+        },
+        {
+          "foto": "IMG_9273.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.172,
+            1.0,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Chamarra impermeable de color amarillo con logo HH grabado en el pecho, cuello alto con cordón ajustable, manga larga y material sintético cortavientos.",
+          "crop": "crops/P06/IMG_9273_1.jpg"
+        },
+        {
+          "foto": "IMG_9274.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista interna cercana del cuello de una chamarra impermeable color amarillo con forro textil de malla gris claro y etiqueta de marca.",
+          "crop": "crops/P06/IMG_9274_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Amarillo brillante liso",
+        "estilo": "Chamarra impermeable con gorro",
+        "material": "Sintético impermeable con forro de malla",
+        "detalles": "Manga larga, cuello alto, gorro con jaretas ajustables, cierre frontal y logotipo en el pecho",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P07",
+      "categoria": "top",
+      "descripcion": "Body acanalado de tirantes anchos en color beige claro, con escote recto y tejido elástico de canalé.",
+      "marca_talla": "M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9275.jpg",
+          "n": 1,
+          "bbox": [
+            0.298,
+            0.12,
+            0.699,
+            0.89
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Body acanalado de tirantes anchos en color beige claro, con escote recto, tejido elástico de canalé y broche en la parte inferior",
+          "crop": "crops/P07/IMG_9275_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Beige claro",
+        "estilo": "Body entallado de tirantes anchos",
+        "material": "Tejido elástico acanalado de nylon y spandex",
+        "detalles": "Escote recto, tirantes anchos y textura de canalé",
+        "composicion": "Poliamida 80% / Elastano 20%",
+        "composicion_etiqueta": "90% nylon 10% spandex"
+      }
+    },
+    {
+      "id": "P08",
+      "categoria": "top",
+      "descripcion": "Body de tirantes medianos y escote holgado drapeado en color verde oliva, elaborado en tela lisa elástica con broches a presión en la entrepierna.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9276.jpg",
+          "n": 1,
+          "bbox": [
+            0.062,
+            0.259,
+            0.842,
+            0.686
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Body de tirantes medianos y escote holgado drapeado, fabricado en tela lisa elástica de color verde oliva, con cierre de broches a presión en la entrepierna",
+          "crop": "crops/P08/IMG_9276_1.jpg"
+        },
+        {
+          "foto": "IMG_9277.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista en acercamiento del escote y etiqueta de un top o blusa de tela sintetica lisa elasticada en color verde oliva",
+          "crop": "crops/P08/IMG_9277_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Verde oliva liso",
+        "estilo": "Body de tirantes con drapeado",
+        "material": "Tela elástica lisa",
+        "detalles": "Tirantes medianos, escote holgado y laterales fruncidos",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P09",
+      "categoria": "top",
+      "descripcion": "Bodysuit de tejido acanalado de color negro, de tirantes anchos, escote recto y corte entallado.",
+      "marca_talla": "QQQ S",
+      "posible_duplicado_de": "",
+      "dudas": "P10 (fotos 9279-9280) era la misma prenda; fusionado.",
+      "apariciones": [
+        {
+          "foto": "IMG_9278.jpg",
+          "n": 1,
+          "bbox": [
+            0.069,
+            0.336,
+            0.664,
+            0.725
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Bodysuit de tejido acanalado de color negro, de tirantes anchos, escote recto, corte entallado y sin mangas",
+          "crop": "crops/P09/IMG_9278_1.jpg"
+        },
+        {
+          "foto": "IMG_9279.jpg",
+          "n": 1,
+          "bbox": [
+            0.03,
+            0.301,
+            0.912,
+            0.732
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "body de tirantes anchos de color negro, en tejido acanalado, sin mangas y con corte tipo leotardo",
+          "crop": "crops/P09/IMG_9279_1.jpg"
+        },
+        {
+          "foto": "IMG_9280.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.032,
+            0.825,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "top acanalado de tirantes anchos en color negro, sin mangas, tejido elastico de canale, escote amplio con marca y talla impresas en el interior",
+          "crop": "crops/P09/IMG_9280_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Bodysuit de tirantes anchos y corte entallado",
+        "material": "Tejido acanalado",
+        "detalles": "Escote recto y corte de pierna alto",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P11",
+      "categoria": "top",
+      "descripcion": "Top tipo bodysuit negro de tirantes delgados, con escote en V pronunciado adornado con encaje de pestañas en los bordes y tela fluida.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9281.jpg",
+          "n": 1,
+          "bbox": [
+            0.303,
+            0.16,
+            0.669,
+            0.842
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top tipo bodysuit negro de tirantes delgados, escote pronunciado en V adornado con detalle de encaje pestañudo en los bordes y tela fluida con pretina elastizada.",
+          "crop": "crops/P11/IMG_9281_1.jpg"
+        },
+        {
+          "foto": "IMG_9282.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a top o prenda superior negra con escote en V adornado con ribete de encaje de pestañas y etiqueta visible de marca ZARA.",
+          "crop": "crops/P11/IMG_9282_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Bodysuit con escote en V pronunciado",
+        "material": "Tela fluida y encaje",
+        "detalles": "Tirantes delgados, borde de encaje de pestañas en el escote y elástico en la cintura",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P12",
+      "categoria": "blusa",
+      "descripcion": "Blusa de encaje transparente negro con detalles calados y capas festoneadas, cuello redondo y forro interior negro.",
+      "marca_talla": "ZARA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9283.jpg",
+          "n": 1,
+          "bbox": [
+            0.135,
+            0.153,
+            0.775,
+            0.865
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa de encaje transparente negro con detalles calados, capas de encaje festoneado, cuello redondo, manga corta y forro interior negro",
+          "crop": "crops/P12/IMG_9283_1.jpg"
+        },
+        {
+          "foto": "IMG_9284.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la zona del cuello y etiqueta de un top de malla semitransparente de color negro, en gancho de madera",
+          "crop": "crops/P12/IMG_9284_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro",
+        "estilo": "Blusa sin mangas de corte recto",
+        "material": "Encaje y malla semitransparente",
+        "detalles": "Cuello redondo, detalles calados, bordes festoneados y forro interior",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P13",
+      "categoria": "vestido",
+      "descripcion": "Vestido liso de color negro sin mangas, elaborado en tela ligera y semitransparente tipo chifón con forro interior opaco.",
+      "marca_talla": "",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9285.jpg",
+          "n": 1,
+          "bbox": [
+            0.235,
+            0.138,
+            0.708,
+            0.903
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido liso de color negro, sin mangas, elaborado en tela liviana y semi-transparente tipo chifon con forro interior opaco",
+          "crop": "crops/P13/IMG_9285_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Vestido de corte recto",
+        "material": "Chifón ligero con forro interior opaco",
+        "detalles": "Sin mangas, cuello en V, largo medio y capa semitransparente",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P14",
+      "categoria": "top",
+      "descripcion": "Top negro liso sin mangas, de cuello alto tipo cisne, confeccionado en material sintético elástico.",
+      "marca_talla": "ZARA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9286.jpg",
+          "n": 1,
+          "bbox": [
+            0.192,
+            0.233,
+            0.809,
+            0.803
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "top negro liso, sin mangas, cuello alto tipo cisne, material sintético elástico, sin botones ni cierres visibles",
+          "crop": "crops/P14/IMG_9286_1.jpg"
+        },
+        {
+          "foto": "IMG_9287.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de cerca de una prenda de color negro liso con remate acanalado y etiqueta interior expuesta",
+          "crop": "crops/P14/IMG_9287_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Top sin mangas de corte ajustado",
+        "material": "Tela sintética elástica",
+        "detalles": "Cuello alto tipo cisne y pinzas laterales en el busto",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P15",
+      "categoria": "top",
+      "descripcion": "Body acanalado de color negro sin mangas, con escote pronunciado en V decorado con encaje y broches en la entrepierna.",
+      "marca_talla": "ZARA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9288.jpg",
+          "n": 1,
+          "bbox": [
+            0.249,
+            0.201,
+            0.748,
+            0.957
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Body acanalado de color negro sin mangas, con escote pronunciado en V decorado con detalles de encaje y cierre de broches en la entrepierna",
+          "crop": "crops/P15/IMG_9288_1.jpg"
+        },
+        {
+          "foto": "IMG_9289.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.141,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de detalle del escote en V de un top acanalado color negro con borde de encaje y etiqueta visible de la marca ZARA.",
+          "crop": "crops/P15/IMG_9289_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Body sin mangas con corte de pierna alto",
+        "material": "Tejido acanalado con encaje",
+        "detalles": "Escote pronunciado en V con encaje, fruncido en busto y broches en entrepierna",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P16",
+      "categoria": "top",
+      "descripcion": "Top tejido de punto acanalado de color crema con rayas horizontales azul marino, manga corta y cuello redondo.",
+      "marca_talla": "ZARA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9290.jpg",
+          "n": 1,
+          "bbox": [
+            0.237,
+            0.106,
+            0.802,
+            0.968
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top tejido de punto acanalado de color crema con rayas horizontales azul marino, manga corta y cuello redondo",
+          "crop": "crops/P16/IMG_9290_1.jpg"
+        },
+        {
+          "foto": "IMG_9291.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.703,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "sweater tejido acanalado de cuello redondo con patron de rayas horizontales azul marino sobre fondo crema",
+          "crop": "crops/P16/IMG_9291_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Crema con rayas horizontales azul marino",
+        "estilo": "Top corto de corte ajustado",
+        "material": "Tejido de punto acanalado",
+        "detalles": "Manga corta y cuello redondo",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P17",
+      "categoria": "top",
+      "descripcion": "Top o playera de manga corta en color gris topo, de cuello redondo, corte recto y tela suave elástica.",
+      "marca_talla": "UNIQLO M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9292.jpg",
+          "n": 1,
+          "bbox": [
+            0.175,
+            0.081,
+            0.778,
+            0.958
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top o playera de manga corta en color gris topo, cuello redondo, corte recto, diseño liso sin estampados ni botones.",
+          "crop": "crops/P17/IMG_9292_1.jpg"
+        },
+        {
+          "foto": "IMG_9293.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.71,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "top de tela lisa color gris, vista interior del cuello con etiqueta impresa, material aparente de poliéster o algodón elástico",
+          "crop": "crops/P17/IMG_9293_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Gris topo liso",
+        "estilo": "Top corto de manga corta y corte recto",
+        "material": "Tela suave y elástica",
+        "detalles": "Cuello redondo, manga corta y bajo curvado",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P18",
+      "categoria": "top",
+      "descripcion": "Top o playera de manga corta de color crema / blanco hueso, de cuello redondo y diseño liso de corte holgado.",
+      "marca_talla": "UNIQLO M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9294.jpg",
+          "n": 1,
+          "bbox": [
+            0.017,
+            0.203,
+            0.907,
+            0.798
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top o playera de manga corta color crema, cuello redondo, diseño liso de corte holgado",
+          "crop": "crops/P18/IMG_9294_1.jpg"
+        },
+        {
+          "foto": "IMG_9295.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento del cuello interior de un top o camiseta lisa de color blanco hueso, tela suave de apariencia sintética, cuello redondo y detalle de etiqueta estampada.",
+          "crop": "crops/P18/IMG_9295_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco hueso liso",
+        "estilo": "Top corto tipo playera de corte holgado",
+        "material": "Tela suave elástica",
+        "detalles": "Manga corta, cuello redondo y dobladillo recto",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P19",
+      "categoria": "top",
+      "descripcion": "Top tipo bodysuit de color blanco, de tirantes anchos, escote cuadrado, elaborado en tela elástica lisa con broches en la entrepierna.",
+      "marca_talla": "CONTOUR",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9296.jpg",
+          "n": 1,
+          "bbox": [
+            0.087,
+            0.272,
+            0.769,
+            0.702
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top tipo bodysuit blanco de tirantes anchos, escote cuadrado, elaborado en tela elástica lisa con broches de presión en la entrepierna",
+          "crop": "crops/P19/IMG_9296_1.jpg"
+        },
+        {
+          "foto": "IMG_9297.jpg",
+          "n": 1,
+          "bbox": [
+            0.108,
+            0.323,
+            0.789,
+            0.748
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Bodysuit liso de color blanco, de tirantes anchos, escote cuadrado, tela elástica y cierre con broches de presión en la entrepierna",
+          "crop": "crops/P19/IMG_9297_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco liso",
+        "estilo": "Bodysuit ajustado de tirantes anchos",
+        "material": "Tela elástica lisa",
+        "detalles": "Escote cuadrado y broches en la entrepierna",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P20",
+      "categoria": "top",
+      "descripcion": "Playera o camiseta lisa de color blanco hueso, manga corta tipo cap, cuello redondo, confeccionada en algodón suave con costura posterior central.",
+      "marca_talla": "a new day",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9298.jpg",
+          "n": 1,
+          "bbox": [
+            0.14,
+            0.191,
+            0.788,
+            0.88
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Camiseta lisa de color blanco, manga corta, cuello redondo, hecha de algodon aparente con linea de costura central posterior.",
+          "crop": "crops/P20/IMG_9298_1.jpg"
+        },
+        {
+          "foto": "IMG_9299.jpg",
+          "n": 1,
+          "bbox": [
+            0.178,
+            0.155,
+            0.781,
+            0.822
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "playera lisa de cuello redondo y manga corta, de tono blanco hueso, confeccionada en algodon",
+          "crop": "crops/P20/IMG_9299_1.jpg"
+        },
+        {
+          "foto": "IMG_9300.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento al cuello de un top de color blanco crema, tejido de punto fino, con etiqueta impresa en tono plateado con el nombre de la marca 'a new day'.",
+          "crop": "crops/P20/IMG_9300_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco hueso",
+        "estilo": "Camiseta casual de corte recto",
+        "material": "Algodon suave",
+        "detalles": "Manga corta tipo cap, cuello redondo, costura posterior central y aberturas laterales en el dobladillo",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P21",
+      "categoria": "top",
+      "descripcion": "Top de tirantes delgados en tono blanco hueso / crema, de cuello recto, corte ajustado y tela de punto suave.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9301.jpg",
+          "n": 1,
+          "bbox": [
+            0.247,
+            0.183,
+            0.734,
+            0.835
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top o camisola de tirantes delgados color blanco hueso/crema, liso, de cuello recto, corte ajustado y tela de punto de algodón suave.",
+          "crop": "crops/P21/IMG_9301_1.jpg"
+        },
+        {
+          "foto": "IMG_9302.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.231,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista en primer plano de la parte superior y cuello de un top de punto acanalado de color blanco, con tirante delgado y etiqueta de marca visible.",
+          "crop": "crops/P21/IMG_9302_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco hueso liso",
+        "estilo": "Top ajustado de tirantes delgados",
+        "material": "Tela de punto suave",
+        "detalles": "Tirantes finos tipo espagueti y cuello recto alto",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P22",
+      "categoria": "top",
+      "descripcion": "Body ajustado de manga larga de color blanco liso, con escote pronunciado en V, confeccionado en tela elástica suave.",
+      "marca_talla": "CONTOUR ARITZIA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9303.jpg",
+          "n": 1,
+          "bbox": [
+            0.077,
+            0.096,
+            0.853,
+            0.902
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "body ajustado de manga larga, color blanco liso, con escote profundo en V, confeccionado en tela elastica suave con broches de presion en la entrepierna",
+          "crop": "crops/P22/IMG_9303_1.jpg"
+        },
+        {
+          "foto": "IMG_9304.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.856,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "acercamiento a cuello de top blanco liso en tela elastica de tacto suave, con vista interior de la etiqueta de la marca y talla",
+          "crop": "crops/P22/IMG_9304_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco liso",
+        "estilo": "Body ajustado de corte entallado",
+        "material": "Tela de punto elástica y suave",
+        "detalles": "Manga larga, escote en V pronunciado y cierre con broches de presión en el tiro",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P23",
+      "categoria": "sweater",
+      "descripcion": "Sweater tejido de punto fino con patrón de rayas horizontales en colores café y crema, de manga larga y cuello redondo.",
+      "marca_talla": "ZARA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9305.jpg",
+          "n": 1,
+          "bbox": [
+            0.09,
+            0.09,
+            0.92,
+            0.96
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "sweater de tejido de punto fino con patron de rayas horizontales en colores cafe y crema, de manga larga y cuello redondo",
+          "crop": "crops/P23/IMG_9305_1.jpg"
+        },
+        {
+          "foto": "IMG_9306.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.74,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Top de tejido de punto con patrón de rayas verticales café y crema, escote acanalado y etiqueta de marca visible.",
+          "crop": "crops/P23/IMG_9306_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Café y crema con patrón de rayas horizontales",
+        "estilo": "Suéter de corte recto",
+        "material": "Tejido de punto fino",
+        "detalles": "Manga larga raglán, cuello redondo y acabados acanalados",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P24",
+      "categoria": "top",
+      "descripcion": "Body metalizado brillante en color dorado champagne, de manga larga, escote cuadrado y tela elástica.",
+      "marca_talla": "BABATON XS",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9307.jpg",
+          "n": 1,
+          "bbox": [
+            0.113,
+            0.171,
+            0.793,
+            0.856
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Body metalizado en color dorado de manga larga, escote cuadrado, elaborado en tela elástica con brillo y broches de presión en la entrepierna",
+          "crop": "crops/P24/IMG_9307_1.jpg"
+        },
+        {
+          "foto": "IMG_9308.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.78,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a cuello drapeado y etiqueta de prenda superior en tela satinada brillante color dorado champagne.",
+          "crop": "crops/P24/IMG_9308_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Dorado champagne metalizado brillante",
+        "estilo": "Body ajustado de corte entallado",
+        "material": "Tela sintetica elastica metalizada",
+        "detalles": "Escote cuadrado, manga larga y broches de presion en la entrepierna",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P25",
+      "categoria": "top",
+      "descripcion": "Bodysuit de manga larga en color gris plateado con tejido elástico brillante/satinado y escote amplio.",
+      "marca_talla": "CONTOUR ARITZIA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9309.jpg",
+          "n": 1,
+          "bbox": [
+            0.11,
+            0.13,
+            0.82,
+            0.85
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Bodysuit de manga larga color gris plateado con textura aterciopelada o suave, escote amplio en cuello y broches ajustables en la entrepierna.",
+          "crop": "crops/P25/IMG_9309_1.jpg"
+        },
+        {
+          "foto": "IMG_9310.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.147,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Top de tela sintética elástica brillante en color gris plateado, escote en V con bordes acabados en bies y detalle de etiqueta de marca y talla en el escote interior",
+          "crop": "crops/P25/IMG_9310_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Gris plateado brillante",
+        "estilo": "Bodysuit ajustado de manga larga",
+        "material": "Tejido elástico satinado",
+        "detalles": "Manga larga, escote cuadrado y cierre de broches en la entrepierna",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    }
+  ],
+  "descartadas": [
+    {
+      "foto": "IMG_9270.jpg",
+      "n": 1,
+      "motivo": "Foto completamente desenfocada y con movimiento que no permite identificar la prenda."
+    }
+  ]
+}
