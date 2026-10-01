@@ -143,7 +143,10 @@
         "detalles": "Manga larga raglan, cuello redondo, puños anchos y laterales fruncidos",
         "composicion": "",
         "composicion_etiqueta": ""
-      }
+      },
+      "estado": "pendiente",
+      "comentario": "El maniquí se ve blanco y sólido. Debe ser maniquí invisible (ghost mannequin): solo la prenda, sin torso visible. Top deportivo negro de manga larga con puños anchos, igual que las fotos.",
+      "nota_maniqui": "El maniquí se ve blanco y sólido. Debe ser maniquí invisible (ghost mannequin): solo la prenda, sin torso visible. Top deportivo negro de manga larga con puños anchos, igual que las fotos."
     },
     {
       "id": "P04",
