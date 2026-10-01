@@ -65,7 +65,9 @@
         "color": "Negro con estampado barroco y geométrico en blanco",
         "estilo": "Pantalón palazzo holgado de tiro alto y pierna ancha",
         "material": "Tela ligera y fluida",
-        "detalles": "Pretina elástica y largo completo"
+        "detalles": "Pretina elástica y largo completo",
+        "composicion": "",
+        "composicion_etiqueta": ""
       }
     },
     {
@@ -146,7 +148,9 @@
         "color": "Terracota óxido liso",
         "estilo": "Culotte de tiro alto y pierna muy ancha",
         "material": "Tela plana mate de vestir",
-        "detalles": "Pliegues frontales, botones decorativos a los lados de la cintura y cierre frontal"
+        "detalles": "Pliegues frontales, botones decorativos a los lados de la cintura y cierre frontal",
+        "composicion": "",
+        "composicion_etiqueta": ""
       }
     },
     {
@@ -253,7 +257,9 @@
         "color": "Verde oliva liso",
         "estilo": "Pantalón de tiro alto y pierna ancha recta",
         "material": "Piel sintética con forro textil afelpado",
-        "detalles": "Largo completo, pretina con presillas y cierre frontal oculto con corchete"
+        "detalles": "Largo completo, pretina con presillas y cierre frontal oculto con corchete",
+        "composicion": "",
+        "composicion_etiqueta": ""
       }
     },
     {
@@ -308,7 +314,9 @@
         "color": "Morado berenjena liso",
         "estilo": "Top ajustado de manga larga",
         "material": "Tela elástica lisa",
-        "detalles": "Cuello cerrado con fruncido central y mangas drapeadas"
+        "detalles": "Cuello cerrado con fruncido central y mangas drapeadas",
+        "composicion": "",
+        "composicion_etiqueta": ""
       }
     },
     {
@@ -337,7 +345,9 @@
         "color": "Negro con estampado de puntos plumeti",
         "estilo": "Falda midi con diseno por capas fruncidas",
         "material": "Tul transparente",
-        "detalles": "Pretina elastica negra y niveles de volantes"
+        "detalles": "Pretina elastica negra y niveles de volantes",
+        "composicion": "",
+        "composicion_etiqueta": ""
       }
     }
   ],

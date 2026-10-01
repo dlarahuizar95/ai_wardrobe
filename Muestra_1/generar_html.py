@@ -2,13 +2,14 @@
 """Paso 5 - HTML. Genera closet.html: una tarjeta por prenda con maniqui, crops, y revision Aprobar / Se cambio la prenda."""
 import json, html
 from pathlib import Path
+from materiales import MATERIALES
 
 prendas = json.load(open("prendas.json", encoding="utf-8"))["prendas"]
 datos = []
 for p in prendas:
     aps = sorted(p["apariciones"], key=lambda a: a.get("es_detalle", False))
     datos.append({"id": p["id"], "categoria": p["categoria"], "descripcion": p["descripcion"],
-                  "marca_talla": p.get("marca_talla", ""), "atributos": p.get("atributos", {}), "maniqui": f"maniqui/{p['id']}.jpg",
+                  "marca_talla": p.get("marca_talla", ""), "atributos": p.get("atributos", {}), "material": p.get("atributos", {}).get("composicion", ""), "maniqui": f"maniqui/{p['id']}.jpg",
                   "maniqui_existe": Path(f"maniqui/{p['id']}.jpg").exists(),
                   "crops": [{"src": a["crop"], "foto": a["foto"], "detalle": a.get("es_detalle", False)} for a in aps]})
 
@@ -17,8 +18,12 @@ for d in datos:
     crops = "".join(f'<a href="{c["src"]}" target="_blank" title="{c["foto"]}{" (detalle)" if c["detalle"] else ""}">'
                     f'<img src="{c["src"]}" loading="lazy"></a>' for c in d["crops"])
     maniqui = f'<img src="{d["maniqui"]}">' if d["maniqui_existe"] else '<div class="sin">Sin imagen generada</div>'
-    campos = "".join(f'<div><dt>{et}</dt><dd>{html.escape(d["atributos"].get(k, "") or "—")}</dd></div>'
-                     for k, et in [("color", "Color"), ("estilo", "Estilo"), ("material", "Material"), ("detalles", "Detalles")])
+    opciones = '<option value="">—</option>' + "".join(
+        f'<option value="{html.escape(m)}"{" selected" if m == d["material"] else ""}>{html.escape(m)}</option>' for m in MATERIALES)
+    campos = (f'<div><dt>Color</dt><dd>{html.escape(d["atributos"].get("color") or "—")}</dd></div>'
+              f'<div><dt>Estilo</dt><dd>{html.escape(d["atributos"].get("estilo") or "—")}</dd></div>'
+              f'<div><dt>Material</dt><dd><select onchange="material(\'{d["id"]}\', this.value)" title="{html.escape(d["atributos"].get("material") or "")}">{opciones}</select></dd></div>'
+              f'<div><dt>Detalles</dt><dd>{html.escape(d["atributos"].get("detalles") or "—")}</dd></div>')
     marca = f'<span class="marca">{html.escape(d["marca_talla"])}</span>' if d["marca_talla"] else ""
     tarjetas.append(f'''
 <article class="card" data-id="{d["id"]}">
@@ -68,6 +73,7 @@ pagina = f'''<!doctype html>
   dl div {{ display:contents }}
   dt {{ color:var(--sec); font-weight:500 }}
   dd {{ margin:0; color:#222 }}
+  dd select {{ font:inherit; font-size:14px; width:100%; padding:4px 6px; border:1px solid var(--gris); border-radius:6px; background:#fff; color:#222 }}
   .acciones {{ display:flex; gap:8px; padding:10px 14px 14px; margin-top:auto }}
   .acciones button {{ flex:1 }}
   .card.aprobada .ok {{ background:var(--ok); color:#fff; border-color:var(--ok) }}
@@ -82,7 +88,12 @@ pagina = f'''<!doctype html>
 <main>{"".join(tarjetas)}</main>
 <script>
 const DATOS = {json.dumps(datos, ensure_ascii=False)};
-const KEY = "closet_muestra1_estado";
+const KEY = "closet_muestra1_estado", KEY_MAT = "closet_muestra1_material";
+let materiales = {{}};
+for (const d of DATOS) materiales[d.id] = d.material || "";
+try {{ Object.assign(materiales, JSON.parse(localStorage.getItem(KEY_MAT) || "{{}}")); }} catch (e) {{}}
+for (const d of DATOS) {{ const sel = document.querySelector(`.card[data-id="${{d.id}}"] select`); if (sel) sel.value = materiales[d.id] || ""; }}
+function material(id, valor) {{ materiales[id] = valor; try {{ localStorage.setItem(KEY_MAT, JSON.stringify(materiales)); }} catch (e) {{}} }}
 let estado = {{}};
 try {{ estado = JSON.parse(localStorage.getItem(KEY) || "{{}}"); }} catch (e) {{ estado = {{}}; }}
 function pintar() {{
@@ -107,7 +118,7 @@ function marcar(id, valor) {{
 function csv(v) {{ v = String(v ?? ""); return /[",\\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; }}
 function exportar() {{
   const filas = [["id", "categoria", "marca_talla", "color", "estilo", "material", "detalles", "estado", "maniqui", "fotos"]];
-  for (const d of DATOS) filas.push([d.id, d.categoria, d.marca_talla, d.atributos.color, d.atributos.estilo, d.atributos.material, d.atributos.detalles, estado[d.id] || "pendiente", d.maniqui, d.crops.map(c => c.foto).join(" ")]);
+  for (const d of DATOS) filas.push([d.id, d.categoria, d.marca_talla, d.atributos.color, d.atributos.estilo, materiales[d.id] || "", d.atributos.detalles, estado[d.id] || "pendiente", d.maniqui, d.crops.map(c => c.foto).join(" ")]);
   const blob = new Blob(["\\ufeff" + filas.map(f => f.map(csv).join(",")).join("\\n")], {{ type: "text/csv;charset=utf-8" }});
   const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "closet_revision.csv"; a.click();
 }}
