@@ -65,8 +65,13 @@ def detectar(client, path):
 def main():
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     fotos = sorted(p for p in CARPETA.iterdir() if p.suffix.lower() in (".jpg", ".jpeg"))
-    salida = []
+    # reanudable: conserva lo ya detectado y salta esas fotos
+    salida = json.load(open(SALIDA, encoding="utf-8")) if Path(SALIDA).exists() else []
+    hechas = {f["foto"] for f in salida if not any("error" in d for d in f["prendas"])}
+    salida = [f for f in salida if f["foto"] in hechas]
     for i, p in enumerate(fotos, 1):
+        if p.name in hechas:
+            continue
         w, h = Image.open(p).size
         prendas = detectar(client, p)
         for n, d in enumerate(prendas, 1):
@@ -78,7 +83,8 @@ def main():
         resumen = " | ".join(f"{d.get('categoria','?')} {d.get('color_principal','')}"
                              + (" [detalle]" if d.get("es_detalle") else "") for d in prendas)
         print(f"[{i}/{len(fotos)}] {p.name}: {resumen}", flush=True)
-    json.dump(salida, open(SALIDA, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+        salida.sort(key=lambda f: f["foto"])
+        json.dump(salida, open(SALIDA, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     total = sum(len(f["prendas"]) for f in salida)
     print(f"\nListo: {SALIDA} ({total} detecciones en {len(fotos)} fotos)")
 

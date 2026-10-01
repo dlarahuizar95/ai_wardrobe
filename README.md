@@ -4,21 +4,25 @@ Pipeline que convierte fotos del closet en un catálogo e-commerce: una imagen s
 
 Cada lote vive en su carpeta (`Muestra_1/`, …) con las fotos originales en HEIC (ignoradas por git) y los JPG de trabajo en `jpg/` (también ignorados).
 
-## Pipeline por lote
+## Estructura
 
 ```
-cd Muestra_1
-set -a; source .env; set +a          # GEMINI_API_KEY, SUPABASE_URL, SUPABASE_SERVICE_KEY
-python detectar.py                   # 1. prendas por foto -> detecciones.json
-python agrupar.py                    # 2. misma prenda física -> prendas.json  (revisar tabla antes de seguir)
-python recortar.py                   # 3. crops/{prenda}/{foto}_{n}.jpg
-python maniqui.py                    # 4. maniqui/{prenda}.jpg con gemini-2.5-flash-image
-python atributos.py                  # 5. Color / Estilo / Material / Detalles -> prendas.json
-python atributos_composicion.py      # 5b. composición textil SOLO si una etiqueta la muestra con % -> dropdown
-python generar_html.py && open closet.html   # 6. página de revisión + Exportar CSV
-python subir_supabase.py             # 7. imágenes a Storage y filas a prendas / apariciones
-python aplicar_revision.py           # 8. sube estado y material desde ~/Downloads/closet_revision.csv
+pipeline/      scripts compartidos (detectar, agrupar, recortar, maniqui, atributos, html, supabase)
+lote.sh        corre el pipeline sobre una carpeta de lote
+.env           GEMINI_API_KEY, SUPABASE_URL, SUPABASE_SERVICE_KEY, SUPABASE_PUBLISHABLE_KEY (no va al repo)
+.venv/         python 3 con pillow, google-genai, httpx
+Muestra_1/     un lote: HEIC originales (ignorados), jpg/, detecciones.json, prendas.json, crops/, maniqui/, closet.html
+Muestra_2/
 ```
+
+## Nuevo lote
+
+1. Crea una carpeta sin espacios (ej. `Lote_3`) y mete ahí los HEIC. El nombre en minúsculas es el `lote` en Supabase y la carpeta en el bucket.
+2. `./lote.sh Lote_3 preparar` convierte a `jpg/` (sips, max 2048 px), detecta prendas por foto y las agrupa. Termina mostrando la tabla de prendas.
+3. Revisa la tabla: categorías, juntar o separar prendas, descartadas. Corrige `prendas.json` si hace falta.
+4. `./lote.sh Lote_3 generar` recorta, genera el maniquí por prenda, saca Color / Estilo / Material / Detalles, llena la composición solo si una etiqueta la muestra con porcentajes, arma `closet.html` y sube todo a Supabase.
+
+La detección es reanudable: si se corta, vuelve a correr `preparar` y sigue donde iba. `maniqui.py` y los de atributos saltan lo ya hecho.
 
 ## Base de datos
 
@@ -26,4 +30,4 @@ python aplicar_revision.py           # 8. sube estado y material desde ~/Downloa
 
 ## Revisión en closet.html
 
-Por prenda: botones Aprobar / Se cambió la prenda y un dropdown de Material con composiciones textiles comunes (`materiales.py`). Empieza en blanco salvo que una etiqueta muestre la composición con porcentajes. Las selecciones se guardan en el navegador; Exportar CSV y luego `aplicar_revision.py` las lleva a Supabase.
+Por prenda: botones Aprobar / Se cambió la prenda y un dropdown de Material con composiciones textiles comunes (`materiales.py`). Empieza en blanco salvo que una etiqueta muestre la composición con porcentajes. Las selecciones se guardan en el navegador; Exportar CSV y luego `python pipeline/aplicar_revision.py` desde la carpeta del lote las lleva a Supabase.
