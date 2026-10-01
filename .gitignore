@@ -14,3 +14,4 @@ __pycache__/
 */errores.log
 # Crops: viven en Supabase Storage, no en el repo (pesan demasiado)
 */crops/
+revision.json

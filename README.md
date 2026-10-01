@@ -34,6 +34,20 @@ Si un maniquí no respeta un detalle, agrega `nota_maniqui` a esa prenda en `pre
 
 `supabase/schema.sql` crea las tablas `prendas` y `apariciones` y el bucket `closet`. El estado de revisión (`pendiente`, `aprobada`, `cambiada`) vive en `prendas.estado`.
 
+## Revisión en mi_closet.html
+
+`./closet.sh` o `python3 server.py` levanta un servidor local en http://localhost:8765 que sirve la página y guarda los cambios en Supabase con la service key, con `revision.json` como espejo local y localStorage solo de respaldo.
+
+Por tarjeta: Aprobar / Se cambió (con comentario y botón Corregir que regenera el maniquí) / No es mía (la oculta); tipo editable con lista cerrada, nombre corto, Material, Fit (bien, incómodo, apretado, flojo, no me queda, desconocido), "Igual a" para enlazar otra prenda, favorito y closet/guardada. Filtros por búsqueda, tipo, color, talla, marca, lote, estado, fit, solo pendientes, favoritas y guardadas. Exportar CSV incluye todas las columnas.
+
+Atajos: clic o flechas para elegir tarjeta, A aprobar, C se cambió, X no es mía, F favorito, G guardada, Esc cerrar.
+
+`pipeline/normalizar.py` saca tipo, color base, talla y marca de las 207 prendas con Gemini (reanudable; `--solo-subir` solo manda a Supabase).
+
+## Base de datos
+
+`supabase/schema.sql` crea las tablas `prendas` y `apariciones` y el bucket `closet`. El estado de revisión (`pendiente`, `aprobada`, `cambiada`) vive en `prendas.estado`.
+
 ## Revisión en closet.html
 
 Por prenda: botones Aprobar / Se cambió la prenda y un dropdown de Material con composiciones textiles comunes (`materiales.py`). Empieza en blanco salvo que una etiqueta muestre la composición con porcentajes. Las selecciones se guardan en el navegador; Exportar CSV y luego `python pipeline/aplicar_revision.py` desde la carpeta del lote las lleva a Supabase.

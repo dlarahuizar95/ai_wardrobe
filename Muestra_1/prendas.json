@@ -72,7 +72,10 @@
         "color_base": "negro",
         "marca": "Blu Pepper",
         "talla": "M"
-      }
+      },
+      "nombre": null,
+      "estado": "pendiente",
+      "favorito": false
     },
     {
       "id": "P02",
@@ -159,7 +162,8 @@
         "color_base": "naranja",
         "marca": "",
         "talla": ""
-      }
+      },
+      "estado": "pendiente"
     },
     {
       "id": "P03",
