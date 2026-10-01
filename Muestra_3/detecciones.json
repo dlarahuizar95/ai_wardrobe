@@ -1,0 +1,2676 @@
+[
+  {
+    "foto": "IMG_9311.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.165,
+          0.046,
+          0.99,
+          0.925
+        ],
+        "categoria": "top",
+        "color_principal": "crema",
+        "descripcion": "Top de manga larga color crema con textura arrugada en patrón de rombos, cuello redondo y orillas con acabado festoneado u ondulado.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9312.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.165,
+          0.059,
+          0.922,
+          0.887
+        ],
+        "categoria": "top",
+        "color_principal": "crema",
+        "descripcion": "Top de manga larga en color crema con textura arrugada/fruncida (estilo crinkle/popcorn), cuello redondo y acabados ondulados en puños y dobladillo inferior.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9313.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.198,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "blanco hueso",
+        "descripcion": "Vista de cerca de prenda superior de tela ligera con textura rugosa/arrugada en patron geometrico, color blanco hueso, mostrando la etiqueta interna en el escote.",
+        "es_detalle": true,
+        "etiqueta_texto": "MNG EUR-USA M MEX M MADE IN MOROCCO",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9314.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.194,
+          0.228,
+          0.843,
+          0.78
+        ],
+        "categoria": "top",
+        "color_principal": "blanco",
+        "descripcion": "top tejido de punto texturizado en color blanco hueso, con patron acanalado relieve, cuello ancho, tiritas internas de colgado y manga corta estilizada",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9315.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "blanco",
+        "descripcion": "Top de punto texturizado en color blanco con patron en relieve tipo gofre o trenzado, tirantes finos blancos de cinta satinada, cuello con vista interior y etiqueta negra visible",
+        "es_detalle": true,
+        "etiqueta_texto": "USA S MEX 26 MADE IN TURKEY",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9316.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.18,
+          0.17,
+          0.89,
+          0.9
+        ],
+        "categoria": "top",
+        "color_principal": "negro",
+        "descripcion": "Top deportivo de manga larga color negro liso, cuello redondo, telas elásticas sintéticas con detalles de costuras anatómicas y puños anchos.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9317.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento al cuello y vista interior de una prenda deportiva negra de tela de algodón o jersey sintético lisa",
+        "es_detalle": true,
+        "etiqueta_texto": "OFFLINE by Aerie M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9318.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.135,
+          0.187,
+          0.952,
+          0.825
+        ],
+        "categoria": "top",
+        "color_principal": "verde claro",
+        "descripcion": "Bodysuit de manga larga con hombros descubiertos, de color verde claro pastel, confeccionado en tejido de punto de algodon liso, con broches de presion en la parte inferior.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9319.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.1121,
+          0.1132,
+          0.8505,
+          0.9984
+        ],
+        "categoria": "vestido",
+        "color_principal": "negro",
+        "descripcion": "Vestido o prenda de una pieza ajustada de manga larga en color negro, con diseno de paneles geometricos en contraste con tela de malla transparente (mesh), cuello alto y detalle del logo impreso en la parte superior del hombro.",
+        "es_detalle": false,
+        "etiqueta_texto": "MUGLER",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9320.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.068,
+          1.0,
+          0.947
+        ],
+        "categoria": "top",
+        "color_principal": "negro",
+        "descripcion": "Top de manga larga en color negro, confeccionado con paneles lisos y recortes de malla transparente, cuello alto y estampado del logo 'MUGLER' en el pecho.",
+        "es_detalle": false,
+        "etiqueta_texto": "MUGLER",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9321.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "negro",
+        "descripcion": "top de manga larga negro con recortes y paneles de malla transparente combinados con tela opaca sintetica elastica, de corte ajustado y diseño geometrico",
+        "es_detalle": false,
+        "etiqueta_texto": "MUG",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9322.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento a detalle de prenda ajustada color negro con paneles de malla transpirable, estampado con la palabra MUGLER y etiqueta de origen visible.",
+        "es_detalle": true,
+        "etiqueta_texto": "MUGLER",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9323.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.207,
+          0.061,
+          0.846,
+          0.922
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris oscuro",
+        "descripcion": "Sweater de tejido de punto en tono gris oscuro, con acabados acanalados en los bordes y escote holgado.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9324.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.187,
+          0.027,
+          0.923,
+          0.98
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "Sweater tejido de punto grueso en color gris oscuro, corte suelto con cuello en V, manga larga y textura acanalada en detalles.",
+        "es_detalle": false,
+        "etiqueta_texto": "JG Basic",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9325.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "acercamiento de cuello v de sweater de tejido de punto en color gris con textura acanalada",
+        "es_detalle": true,
+        "etiqueta_texto": "J.J. Basics",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9337.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.141,
+          0.178,
+          0.835,
+          0.938
+        ],
+        "categoria": "blusa",
+        "color_principal": "verde oliva",
+        "descripcion": "Blusa de manga larga de tela satinada color verde oliva, estilo drapeado y cruzado con caida fluida",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9338.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.206,
+          0.222,
+          0.832,
+          0.88
+        ],
+        "categoria": "blusa",
+        "color_principal": "verde olivo",
+        "descripcion": "Blusa o vestido de satin color verde olivo, lisa, fruncida/drapeada al centro, de manga larga y vuelo asimétrico",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9339.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.163,
+          0.224,
+          0.881,
+          0.898
+        ],
+        "categoria": "blusa",
+        "color_principal": "negro",
+        "descripcion": "blusa tipo camisa semitransparente de manga larga en color negro con acabo destellante dorado, cuello camisero, botones frontales y bolsillos en el pecho",
+        "es_detalle": false,
+        "etiqueta_texto": "GUESS",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9340.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Vista de acercamiento al cuello y etiqueta de prenda color negro con textura ligeramente reluciente o jaspeada en gancho de ropa.",
+        "es_detalle": true,
+        "etiqueta_texto": "GUESS Los Angeles, MADE IN CHINA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9341.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.089,
+          0.117,
+          0.941,
+          0.947
+        ],
+        "categoria": "camisa",
+        "color_principal": "negro",
+        "descripcion": "camisa lisa color negro de manga larga, cuello camisero, botonadura frontal con botones negros y material de aspecto ligero y suave",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9342.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.1,
+          0.08,
+          0.97,
+          0.95
+        ],
+        "categoria": "camisa",
+        "color_principal": "negro",
+        "descripcion": "Camisa de manga larga color negro liso, cuello camisero, botonadura frontal de botones negros y acabado satinado/suave.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9343.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento al cuello y zona interior de una prenda lisa de color negro con gancho de aterciopelo y cuerda/lazo de sujeción.",
+        "es_detalle": true,
+        "etiqueta_texto": "M MEX 28 MADE IN CHINA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9344.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.081,
+          0.045,
+          0.905,
+          0.935
+        ],
+        "categoria": "camisa",
+        "color_principal": "azul claro",
+        "descripcion": "camisa de manga larga de tela satinada color azul claro liso, con cuello camisero y puños ajustados",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9345.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "azul claro",
+        "descripcion": "Vista de cerca del cuello e interior de una camisa azul claro lisa, mostrando la etiqueta de la marca.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28 MADE IN CAMBODIA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9346.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.03,
+          0.03,
+          0.85,
+          0.96
+        ],
+        "categoria": "camisa",
+        "color_principal": "azul claro",
+        "descripcion": "camisa de manga larga de color azul claro, diseño liso, cuello camisero, bolsillo de parche en el pecho, botones frontales transparentes/blancos y puños con boton",
+        "es_detalle": false,
+        "etiqueta_texto": "MANGO",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9347.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.25,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "azul claro",
+        "descripcion": "Camisa de vestir azul celeste liso, de tela delgada tipo algodón, con cuello tradicional, abotonadura frontal con botones claros y etiqueta interna de marca MAP visible.",
+        "es_detalle": true,
+        "etiqueta_texto": "MAP MEX L",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9348.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.116,
+          0.091,
+          0.874,
+          0.847
+        ],
+        "categoria": "camisa",
+        "color_principal": "azul",
+        "descripcion": "Camisa a rayas verticales delgadas en tono azul y blanco, de manga larga, cuello camisero, con botones frontales y logotipo bordado de la marca en el pecho izquierdo.",
+        "es_detalle": false,
+        "etiqueta_texto": "TOMMY HILFIGER M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9349.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.347,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "azul",
+        "descripcion": "Vista de detalle del cuello de una camisa a rayas finas azules y blancas, confeccionada en mezcla de algodón y lino, con etiqueta TOMMY HILFIGER en el interior.",
+        "es_detalle": true,
+        "etiqueta_texto": "TOMMY HILFIGER M Cotton Linen",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9350.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.147,
+          0.051,
+          0.919,
+          0.875
+        ],
+        "categoria": "camisa",
+        "color_principal": "azul",
+        "descripcion": "Camisa de manga larga con patron de rayas verticales en color azul y blanco, cuello camisero clasico, botones frontales blancos y confeccionada en material ligero con apariencia de lino.",
+        "es_detalle": false,
+        "etiqueta_texto": "UNIQLO L",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9351.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.155,
+          0.07,
+          0.91,
+          0.875
+        ],
+        "categoria": "camisa",
+        "color_principal": "azul",
+        "descripcion": "Camisa de manga larga con patrón de rayas finas azul y blanco, cuello camisero tradicional, botones frontales y textura aparente de lino.",
+        "es_detalle": false,
+        "etiqueta_texto": "UNIQLO",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9352.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.21,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "azul",
+        "descripcion": "Camisa de rayas verticales azul y blanco, vista de cerca del cuello y la etiqueta, con un botón blanco visible y material aparente de lino o algodón.",
+        "es_detalle": true,
+        "etiqueta_texto": "UNIQLO L",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9353.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.052,
+          0.13,
+          0.966,
+          0.838
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "Camisa de manga larga blanca con patron de finas rayas verticales oscuras, cuello camisero, botones frontales y en puños, material ligero de algodon arrugado",
+        "es_detalle": false,
+        "etiqueta_texto": "MNG",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9354.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.07,
+          0.01,
+          0.99,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "Camisa de manga larga color blanco con estampa de rayas delgadas verticales, cuello camisero, botones de pasta blancos y un bolsillo frontal en el pecho",
+        "es_detalle": false,
+        "etiqueta_texto": "MNG",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9355.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.329,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "Acercamiento al cuello de camisa de tela blanca con finas rayas verticales en tono azul oscuro o negro, colgada en gancho de terciopelo negro y etiqueta visible",
+        "es_detalle": true,
+        "etiqueta_texto": "MNG EUR L USA L MEX G MADE IN CAMBODIA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9356.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.081,
+          0.136,
+          0.97,
+          0.96
+        ],
+        "categoria": "blusa",
+        "color_principal": "rosa",
+        "descripcion": "blusa de satin de tono rosa fucsia, lisa, de manga larga con puños botonados, cuello camisero con solapa y botones frontales al tono",
+        "es_detalle": false,
+        "etiqueta_texto": "PRIMARK",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9357.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "rosa",
+        "descripcion": "Acercamiento al cuello de una camisa o blusa de satén rosa fucsia con acabado brillante, cuello camisero y etiqueta de marca visible en el interior.",
+        "es_detalle": true,
+        "etiqueta_texto": "PRIMARK UK/IRL 8 EUR 36 USA 4 IT 40 MADE IN TURKEY",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9358.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.068,
+          0.082,
+          0.916,
+          0.958
+        ],
+        "categoria": "camisa",
+        "color_principal": "rosa",
+        "descripcion": "Camisa de manga larga de lino a rayas finas color rosa y blanco, con cuello camisero y botones frontales",
+        "es_detalle": false,
+        "etiqueta_texto": "UNIQLO",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9359.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.118,
+          0.126,
+          0.898,
+          0.925
+        ],
+        "categoria": "camisa",
+        "color_principal": "rosa",
+        "descripcion": "Camisa de manga larga de lino o algodon ligero con patron de rayas delgadas rosa y blanco, cuello de solapa con botones frontales blancos y puño abotonado",
+        "es_detalle": false,
+        "etiqueta_texto": "UNIQLO S",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9360.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.065,
+          0.258,
+          1.0,
+          0.819
+        ],
+        "categoria": "shorts",
+        "color_principal": "rosa",
+        "descripcion": "Shorts holgados con estampado de rayas verticales rosa y blanco, pretina elástica con jareta ajustable, elaborado en tejido ligero de aspecto fresco.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.803,
+          0.058,
+          1.0,
+          0.267
+        ],
+        "categoria": "incierto",
+        "color_principal": "gris",
+        "descripcion": "Prenda de tela doblada en tono gris jaspeado.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9361.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.306,
+          0.046,
+          0.862,
+          1.0
+        ],
+        "categoria": "shorts",
+        "color_principal": "rosa",
+        "descripcion": "shorts de pijama o descanso con patron de rayas verticales finas en blanco y rosa, pretina elastica con cordon ajustable, confeccionados en tela ligera tipo lino o algodon",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.122,
+          0.751,
+          0.318,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "sudadera o prenda superior de manga larga de color gris jaspeado con cuello alto y cierre",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9362.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.091,
+          0.052,
+          0.985,
+          0.948
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "Camisa blanca de lino, lisa, de manga larga, cuello camisero y abotonadura frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9363.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.11,
+          0.06,
+          0.99,
+          0.96
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "Camisa de lino de manga larga en color blanco, abierta al frente con botones, cuello clasico y acabado de textura ligera.",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9364.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.352,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "Acercamiento a cuello de camisa blanca de lino en gancho negro, con etiqueta interior visible",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR S USA S MEX 26",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9365.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.033,
+          0.095,
+          0.855,
+          0.908
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "Camisa de lino en color blanco, lisa, manga larga con puños, cuello camisero, con botones frontales y apariencia de tela ligera y arrugada.",
+        "es_detalle": false,
+        "etiqueta_texto": "UNIQLO M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9366.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.158,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "Acercamiento al cuello y la etiqueta interior de una camisa de lino blanco de manga y corte no del todo visibles, con textura aparente de lino de color blanco sólido.",
+        "es_detalle": true,
+        "etiqueta_texto": "UNIQLO M MADE IN CHINA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9367.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.09,
+          0.09,
+          0.91,
+          0.95
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "camisa de manga larga color blanco hueso, cuello camisero, botonadura frontal con botones claros, corte holgado y tejido ligero",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9368.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.07,
+          0.07,
+          0.92,
+          0.88
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "camisa lisa de color blanco de manga corta con bastilla doblada, cuello camisero y abotonadura frontal con botones al tono",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA EUR S USA S MEX 26",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9369.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "camisa blanca lisa de manga corta o larga, vista de acercamiento del cuello con botones crema y etiqueta interna de marca ZARA",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR S USA S MEX 26",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9370.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.116,
+          0.116,
+          0.929,
+          0.912
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "camisa de manga larga lisa en color blanco, cuello camisero, confeccionada en algodon, con botones frontales y puños doblados",
+        "es_detalle": false,
+        "etiqueta_texto": "next tailored fit",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9371.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.078,
+          0.116,
+          0.902,
+          0.907
+        ],
+        "categoria": "camisa",
+        "color_principal": "blanco",
+        "descripcion": "Camisa de vestir blanca de manga larga, diseño liso, tejido plano, con cuello camisero, botones frontales y puños enrollados.",
+        "es_detalle": false,
+        "etiqueta_texto": "next tailored fit 16 41cm",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9372.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "blazer",
+        "color_principal": "blanco",
+        "descripcion": "Acercamiento al cuello e interior de un blazer blanco con solapa y etiqueta negra",
+        "es_detalle": true,
+        "etiqueta_texto": "next",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9373.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.15,
+          0.02,
+          0.99,
+          0.88
+        ],
+        "categoria": "blusa",
+        "color_principal": "azul claro",
+        "descripcion": "Blusa semitransparente de manga larga color azul claro, diseño liso de tela traslúcida con cuello camisero, frente abierto con tiras ajustables para amarrar, cintura fruncida y manga larga acampanada.",
+        "es_detalle": false,
+        "etiqueta_texto": "Abercrombie & Fitch | XS",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9374.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.151,
+          0.065,
+          0.998,
+          0.88
+        ],
+        "categoria": "blusa",
+        "color_principal": "azul claro",
+        "descripcion": "Blusa translúcida de tono azul claro pastel, manga larga, cuello estructurado tipo camisa, corte frontal abierto con tiras ajustables para amarrar, confeccionada en tejido semitransparente ligero de aspecto vaporoso.",
+        "es_detalle": false,
+        "etiqueta_texto": "Abercrombie & Fitch | XS",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9375.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.252,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "blusa",
+        "color_principal": "azul claro",
+        "descripcion": "Acercamiento al cuello y parte superior interna de una blusa de gasa o tela semitransparente color azul claro, lisa, en gancho de madera.",
+        "es_detalle": true,
+        "etiqueta_texto": "Abercrombie & Fitch XS MADE IN INDIA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9376.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.201,
+          0.191,
+          0.843,
+          0.887
+        ],
+        "categoria": "falda",
+        "color_principal": "blanco",
+        "descripcion": "falda larga estilo boho de tela ligera translucida color blanco con estampado geometrico multicolor en tonos azul, naranja y amarillo, con pretina elastica cafe y encaje blanco bordado",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.706,
+          0.126,
+          1.0,
+          0.323
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera de manga larga color gris claro con cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9377.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.138,
+          0.172,
+          0.887,
+          0.923
+        ],
+        "categoria": "falda",
+        "color_principal": "blanco",
+        "descripcion": "Falda larga de estilo bohemio color blanco hueso con estampado geométrico de patrón étnico multicolor (azul, naranja, amarillo y verde) y tiras horizontales de encaje calado blanco.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.702,
+          0.128,
+          1.0,
+          0.282
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Chamarra de tela de algodón o sudadera gris con cierre frontal, manga larga y gorro, doblada en la parte inferior.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9378.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.098,
+          1.0,
+          1.0
+        ],
+        "categoria": "vestido",
+        "color_principal": "blanco",
+        "descripcion": "Prenda larga de tela semitransparente blanca con estampado geometrico multicolor estilo bohemio, pretina elástica café con detalles bordados y franjas de encaje blanco",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.852,
+          0.082,
+          1.0,
+          0.334
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Prenda de tela de algodon o punto en color gris jaspeado visible en la esquina inferior",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9379.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.18,
+          0.133,
+          0.822,
+          0.893
+        ],
+        "categoria": "pantalon",
+        "color_principal": "beige",
+        "descripcion": "pantalón holgado de color beige con patrón de rayas verticales en color blanco y negro, con pretina elástica",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.706,
+          0.148,
+          1.0,
+          0.359
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra deportiva de felpa gris con cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9380.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.188,
+          0.198,
+          0.871,
+          0.873
+        ],
+        "categoria": "pantalon",
+        "color_principal": "beige",
+        "descripcion": "Pantalón amplio con patrón de rayas verticales negras y blancas sobre fondo beige, cintura elástica",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.722,
+          0.223,
+          0.998,
+          0.35
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "Prenda superior o sudadera gris doblada",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9381.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.07,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "beige",
+        "descripcion": "Pantalón holgado de tela ligera en tono beige con estampado de rayas verticales delgadas en color negro y blanco, cuenta con pretina y cierre frontal visible.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9382.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.071,
+          0.161,
+          0.999,
+          0.898
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "falda corta de gasa o chifon negro con estampado de pequeños puntos o manchas blancas, diseno en capas con holanes",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.767,
+          0.131,
+          1.0,
+          0.338
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "sudadera o top deportivo ligero de color gris claro con cierre",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9383.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.076,
+          0.088,
+          0.825,
+          1.0
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "Falda corta de capas con olanes, tela ligera semi-transparente con estampado de manchas/puntos en blanco sobre fondo negro, elástico en la cintura",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.085,
+          0.785,
+          0.267,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o top de algodón gris claro con detalle de cordón y gorro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9384.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.08,
+          1.0,
+          1.0
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "Falda midi o larga de tela ligera semitransparente con estampado de manchas o lunares irregulares blancos sobre fondo negro, con pretina elástica fruncida.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.84,
+          0.11,
+          1.0,
+          0.39
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Prenda de punto color gris claro, de cuello o manga visible parcialmente en la parte inferior.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9385.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.135,
+          0.0,
+          0.897,
+          0.97
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "pantalon holgado de lino en color verde claro arrugado, con cintura elastica y pierna ancha",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.245,
+          0.558,
+          0.913,
+          0.998
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "prenda de tela ligera en color negro con estampado de puntos blancos",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.194,
+          0.747,
+          0.323,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "sudadera o top de algodon gris doblado",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9386.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.068,
+          0.12,
+          0.908,
+          0.818
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde olivo",
+        "descripcion": "Pantalón holgado de tela liviana tipo lino en color verde olivo claro, de tiro alto con jareta de amarre en la pretina y pierna ancha recta",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.582,
+          0.208,
+          1.0,
+          0.822
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "Pantalón fluido con estampado de manchas o puntos blancos sobre fondo negro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.702,
+          0.106,
+          1.0,
+          0.274
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o top deportivo ligero de color gris jaspeado con gorro y cuello con cierre",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9387.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.122,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "caqui",
+        "descripcion": "pantalón holgado de tela ligera tipo lino color caqui con elástico y cordón en la cintura",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.881,
+          0.252,
+          1.0,
+          0.435
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "prenda de color gris jaspeado",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.906,
+          0.428,
+          1.0,
+          0.771
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "prenda con estampado de manchas o puntos negros y blancos",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9388.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.15,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde olivo",
+        "descripcion": "Acercamiento a la pretina elástica de un pantalón casual color verde olivo de textura aparente de lino, con etiqueta interior de tela.",
+        "es_detalle": true,
+        "etiqueta_texto": "ONSD EUR S USA S MEX CH MADE IN CAMBODIA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9389.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.063,
+          0.255,
+          0.995,
+          0.887
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "falda midi de color negro, corte ampliado por niveles/escalonado, con botonadura frontal de botones metalicos plateados y textura tipo piel o sintetico",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.688,
+          0.217,
+          1.0,
+          0.388
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera de felpa/polar color gris claro con cierre frontal de cremallera",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9390.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.117,
+          0.108,
+          0.716,
+          0.927
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "falda midi o larga con olanes escalonados, vista de botones metálicos frontales, material aparente piel o vinipiel negro con acabado rugoso",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.051,
+          0.707,
+          0.271,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "sudadera o chamarra corta gris claro con cierre metálico frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9391.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.11,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "Falda de material tipo piel/cuerina negra, lisa con botones de presión metálicos plateados al frente, pretina elástica y fruncidos/plisados.",
+        "es_detalle": true,
+        "etiqueta_texto": "EUR M USA S",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9392.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.388,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento a la pretina de una prenda de apariencia piel sintética en color negro, con botón metálico a presión, forro de tela interior y etiqueta textil visible.",
+        "es_detalle": true,
+        "etiqueta_texto": "Stradivarius EUR 36 USA 4 MEX 26 UK 8",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9393.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.222,
+          0.109,
+          0.898,
+          0.941
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "pantalón holgado de tela ligera en color negro, tiro alto y pierna ancha",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.226,
+          0.675,
+          0.386,
+          0.998
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "playera o top de tela suave en color gris jaspeado",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9394.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.35,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Vista de cerca del cuello o pretina de una prenda en color negro liso, con etiqueta interior, broche de gancho y cierre.",
+        "es_detalle": true,
+        "etiqueta_texto": "Lulus S",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9395.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "gris oscuro",
+        "descripcion": "Pantalón liso de color gris oscuro con acabado ligeramente satinado, confeccionado en tela suave y fluida tipo satén, con costura central visible y etiqueta de talla en la pretina.",
+        "es_detalle": true,
+        "etiqueta_texto": "S",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9396.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          0.706,
+          0.86
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Prenda lisa de color negro, de tela ligera y fluida con acabado suave y costuras internas visibles",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.556,
+          0.005,
+          0.998,
+          0.272
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o chamarra ligera de color gris claro, de tela de algodón, con cierre frontal y bordado decorativo",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.783,
+          0.158,
+          1.0,
+          0.597
+        ],
+        "categoria": "incierto",
+        "color_principal": "café",
+        "descripcion": "Prenda doblada de color café oscuro de textura aterciopelada y ribete de aspecto sintético",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9397.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          0.771,
+          0.939
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "pantalón holgado de tela fluida lisa en color negro, corte ancho con pretina lisa",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.584,
+          0.0,
+          0.998,
+          0.207
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra deportiva de tejido fleece en color gris con cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.835,
+          0.05,
+          0.998,
+          0.528
+        ],
+        "categoria": "bolsa",
+        "color_principal": "café",
+        "descripcion": "bolso de mano en acabado terciopelo o gamuza café oscuro con asas oscuras",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9398.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.098,
+          0.178,
+          0.947,
+          0.871
+        ],
+        "categoria": "pantalon",
+        "color_principal": "crema",
+        "descripcion": "Pantalón plisado de pierna ancha color crema, de tela ligera y fluida tipo gasa, con cintura elástica",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.741,
+          0.171,
+          1.0,
+          0.384
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Chamarra de algodón en color gris claro con cierre frontal y capuchón",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9399.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.168,
+          0.088,
+          0.864,
+          0.923
+        ],
+        "categoria": "pantalon",
+        "color_principal": "crema",
+        "descripcion": "pantalon plisado de pierna ancha color crema o beige claro, con pretina elastica y tela liviana tipo gasa",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.182,
+          0.73,
+          0.383,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "sweater o chamarra ligera color gris jaspeado con capucha y cordones",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9400.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.222,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "beige",
+        "descripcion": "pantalon plisado de pierna ancha tipo palazzo en color beige crema con pretina elástica y forro interior corto",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.871,
+          0.348,
+          1.0,
+          0.556
+        ],
+        "categoria": "incierto",
+        "color_principal": "gris",
+        "descripcion": "prenda doblada de color gris melange cerca del borde inferior",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9401.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.22,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "beige",
+        "descripcion": "pantalon plisado holgado de tiro alto en tono beige crema, pretina elästica lisa y tela ligera con forro interno corto",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.351,
+          0.868,
+          0.56,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "prenda de color gris doblada en la parte inferior",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9402.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.252,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "falda",
+        "color_principal": "beige",
+        "descripcion": "Acercamiento a la pretina elástica y etiqueta de una falda plisada color beige, con forro interior de tela suave y tela exterior delgada con plisado fino",
+        "es_detalle": true,
+        "etiqueta_texto": "english rose L",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9403.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.174,
+          0.147,
+          0.938,
+          0.933
+        ],
+        "categoria": "pantalon",
+        "color_principal": "blanco hueso",
+        "descripcion": "pantalon holgado de lino en color blanco hueso, liso, largo, con pretina elastica ajustada con cordon",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.169,
+          0.742,
+          0.398,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera ligera de color gris con gorro y cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9404.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.12,
+          0.134,
+          0.923,
+          0.963
+        ],
+        "categoria": "pantalon",
+        "color_principal": "blanco hueso",
+        "descripcion": "Pantalon holgado de tela ligera tipo lino en color crema o blanco hueso, pretina elastica con cordon ajustable, corte amplio y largo completo.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.136,
+          0.762,
+          0.35,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o chamarra gris con cierre de ziper parcial visible.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9405.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.116,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "beige",
+        "descripcion": "pantalón de lino color crema o beige claro con pretina elástica, cordón ajustable en la cintura y ajuste holgado",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9406.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.22,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "beige",
+        "descripcion": "Vista de cerca de pretina elástica con cordón ajustable de prenda elaborada en tejido de lino color crudo o beige claro",
+        "es_detalle": true,
+        "etiqueta_texto": "EUR S USA S MEX CH MADE IN CAMBODIA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9407.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.108,
+          0.129,
+          0.908,
+          0.923
+        ],
+        "categoria": "pantalon",
+        "color_principal": "rojo",
+        "descripcion": "pantalon de pierna ancha con patron de degradado estilo acuarela en tonos rojo, rosa, naranja y cafe, pretina elastica y caida fluida",
+        "es_detalle": false,
+        "etiqueta_texto": "MNG",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.741,
+          0.149,
+          1.0,
+          0.388
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "sudadera o chamarra gris jaspeado con capucha y agujetas ajustables",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9408.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.048,
+          0.106,
+          0.906,
+          0.862
+        ],
+        "categoria": "pantalon",
+        "color_principal": "naranja",
+        "descripcion": "pantalon holgado con estampado abstracto degradado en tonos naranja, rosa, rojo y marron, de tejido ligero y satinado, con cintura elastica",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.728,
+          0.126,
+          1.0,
+          0.314
+        ],
+        "categoria": "incierto",
+        "color_principal": "gris",
+        "descripcion": "prenda de color gris claro doblada con hebillas o tirantes visibles",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9409.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.15,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "terracota",
+        "descripcion": "Pantalon holgado de tela ligera tipo satinada con patron de franjas degradadas estilo tie-dye en tonos terracota, cafe, naranja y rosa, con pretina elastica en la cintura",
+        "es_detalle": false,
+        "etiqueta_texto": "MNG",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9410.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          0.771,
+          0.814
+        ],
+        "categoria": "incierto",
+        "color_principal": "rojo",
+        "descripcion": "Acercamiento de banda elástica con etiqueta de marca en prenda de tela satinada con estampado abstracto/tie-dye en tonos rojo, rosa, marrón y naranja.",
+        "es_detalle": true,
+        "etiqueta_texto": "MNG EUR-USA M MEX M Italian Fabric MADE IN TURKEY",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9411.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.111,
+          0.171,
+          0.941,
+          0.906
+        ],
+        "categoria": "pantalon",
+        "color_principal": "azul",
+        "descripcion": "Pantalón holgado de pierna ancha con resorte en la cintura, estampado geométrico circular retro en azul, mostaza y negro, en tela ligera y fluida",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.172,
+          0.762,
+          0.407,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o chaqueta deportiva de color gris con cierre frontal completo y gorro con forro blanco interior",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9412.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.153,
+          0.108,
+          0.895,
+          0.957
+        ],
+        "categoria": "pantalon",
+        "color_principal": "azul claro",
+        "descripcion": "Pantalón holgado de corte ancho con pretina elástica y estampado geométrico de círculos en azul claro, ocre, blanco y negro, confeccionado en tejido fluido.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.749,
+          0.16,
+          1.0,
+          0.407
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o chamarra corta de color gris con cierre metálico frontal y capucha.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9413.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.046,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "azul",
+        "descripcion": "pantalón holgado de tela ligera con estampado geométrico de círculos en tonos azul, mostaza y detalles en blanco y negro, con cintura elástica fruncida",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9414.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.107,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "azul",
+        "descripcion": "Vista en detalle de pretina elástica fruncida en tela satinada con patrón geométrico abstracto en tonos azul brillante, café mostaza, negro y blanco, con etiqueta interior visible.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA WOMAN EUR M USA M MEX 28",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9415.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.063,
+          0.203,
+          0.985,
+          0.908
+        ],
+        "categoria": "pantalon",
+        "color_principal": "gris oscuro",
+        "descripcion": "pantalón holgado y de tiro alto en tejido de lana o mezcla gris oscuro jaspeado, con cintura elástica o fruncida",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.71,
+          0.198,
+          1.0,
+          0.388
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "sudadera o prenda deportiva de manga larga en color gris claro con cierre frontal de cremallera",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9416.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.118,
+          0.076,
+          0.825,
+          0.923
+        ],
+        "categoria": "pantalon",
+        "color_principal": "gris oscuro",
+        "descripcion": "pantalon holgado de tela gruesa de lana o franela sintetica gris oscuro, con pretina elastizada y pliegues en la cintura",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.077,
+          0.697,
+          0.34,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "sudadera o chamarra deportiva de polar gris claro con cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9417.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.12,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "gris oscuro",
+        "descripcion": "acercamiento a zona de cintura y tiro de pantalón gris oscuro, textura acanalada/sarga con elástico en la pretina posterior",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9418.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "gris",
+        "descripcion": "Acercamiento a la pretina elastizada de una prenda de tela gruesa jaspeada en color gris oscuro con etiqueta interna visible",
+        "es_detalle": true,
+        "etiqueta_texto": "algo bonito",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9419.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.312,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "gris oscuro",
+        "descripcion": "acercamiento a la pretina de un pantalón gris oscuro, con elástico en la parte posterior, presillas para cinturón y tejido plano con textura de sarga",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9420.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.173,
+          0.158,
+          0.887,
+          0.908
+        ],
+        "categoria": "falda",
+        "color_principal": "azul",
+        "descripcion": "Falda larga con estampado abstracto de rayas diagonales tipo atigrado/ikat en tonos azul marino y azul claro, con pliegues leves",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.171,
+          0.795,
+          0.354,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o prenda de manga larga de color gris claro con cierre metálico visible",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9421.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.203,
+          0.103,
+          0.881,
+          0.817
+        ],
+        "categoria": "falda",
+        "color_principal": "azul",
+        "descripcion": "falda larga de punto fluido con estampado abstracto o atigrado en tono azul marino y azul claro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.806,
+          0.098,
+          1.0,
+          0.309
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "top o sudadera ligera gris melange con media cremallera en el cuello",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9422.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.21,
+          0.04,
+          0.78,
+          0.84
+        ],
+        "categoria": "falda",
+        "color_principal": "azul",
+        "descripcion": "falda larga con patron abstracto o tie-dye en tonos azul claro, morado y azul marino, sin botones ni cierres visibles",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.05,
+          0.8,
+          0.24,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "top de tela deportiva o algodon de color gris jaspeado, doblado",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9423.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.36,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "azul",
+        "descripcion": "Acercamiento a la pretina de color morado oscuro con estampado tie-dye en tonos azul y morado, con etiqueta de marca",
+        "es_detalle": true,
+        "etiqueta_texto": "MNG EUR-USA S-M MEX CH-M",
+        "n": 1
+      }
+    ]
+  }
+]
