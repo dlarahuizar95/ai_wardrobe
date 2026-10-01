@@ -25,7 +25,10 @@ def referencias(prenda):
     return [Image.open(a["crop"]).convert("RGB") for a in aps[:3]]
 
 def generar(client, prenda):
-    partes = referencias(prenda) + [PROMPT.format(descripcion=prenda["descripcion"])]
+    texto = PROMPT.format(descripcion=prenda["descripcion"])
+    if prenda.get("nota_maniqui"):
+        texto += " DETALLE OBLIGATORIO: " + prenda["nota_maniqui"]
+    partes = referencias(prenda) + [texto]
     resp = client.models.generate_content(
         model=MODEL, contents=partes,
         config=types.GenerateContentConfig(response_modalities=["IMAGE"]),

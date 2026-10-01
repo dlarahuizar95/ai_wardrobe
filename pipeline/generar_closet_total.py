@@ -1,0 +1,142 @@
+#!/usr/bin/env python3
+"""Pagina acumulada de TODO el closet. Lee prendas y apariciones desde Supabase al abrirse (llave publica, solo lectura).
+Correr desde la raiz del repo: python pipeline/generar_closet_total.py  -> mi_closet.html"""
+import os
+from pathlib import Path
+from materiales import MATERIALES
+import json
+
+URL = os.environ["SUPABASE_URL"].rstrip("/")
+KEY = os.environ["SUPABASE_PUBLISHABLE_KEY"]
+
+pagina = f'''<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Mi closet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {{ --gris:#e5e5e5; --texto:#111; --sec:#666; --ok:#1f7a3a; --no:#b3261e; }}
+  * {{ box-sizing:border-box }}
+  body {{ margin:0; background:#fff; color:var(--texto); font:15px/1.45 -apple-system, "Helvetica Neue", Inter, Arial, sans-serif }}
+  header {{ position:sticky; top:0; background:#fff; border-bottom:1px solid var(--gris); padding:12px 28px; display:flex; align-items:center; gap:18px; flex-wrap:wrap; z-index:2 }}
+  header h1 {{ font-size:18px; font-weight:600; margin:0 }}
+  .conteo {{ display:flex; gap:16px; color:var(--sec); font-size:14px }}
+  .conteo b {{ color:var(--texto) }}
+  .filtros {{ display:flex; gap:8px; margin-left:auto }}
+  select, button {{ font:inherit; font-size:14px; border:1px solid var(--gris); background:#fff; border-radius:6px; padding:7px 10px; cursor:pointer; color:#222 }}
+  button:hover {{ border-color:#999 }}
+  main {{ display:grid; grid-template-columns:repeat(4,1fr); gap:20px; padding:24px 28px; max-width:1700px; margin:0 auto }}
+  @media (max-width:1200px) {{ main {{ grid-template-columns:repeat(3,1fr) }} }}
+  @media (max-width:900px) {{ main {{ grid-template-columns:repeat(2,1fr) }} }}
+  @media (max-width:560px) {{ main {{ grid-template-columns:1fr; padding:16px }} }}
+  .card {{ border:1px solid var(--gris); border-radius:10px; overflow:hidden; display:flex; flex-direction:column; background:#fff }}
+  .card.aprobada {{ box-shadow:0 0 0 2px var(--ok) inset }}
+  .card.cambiada {{ box-shadow:0 0 0 2px var(--no) inset }}
+  .maniqui {{ background:#f3f3f3; aspect-ratio:4/5; display:flex; align-items:center; justify-content:center }}
+  .maniqui img {{ width:100%; height:100%; object-fit:contain }}
+  .crops {{ display:flex; gap:5px; padding:8px 10px 0; overflow-x:auto }}
+  .crops img {{ height:60px; width:auto; border-radius:4px; border:1px solid var(--gris); display:block }}
+  .meta {{ padding:10px 12px 4px }}
+  .fila {{ display:flex; gap:8px; align-items:baseline; margin-bottom:6px; font-size:13px }}
+  .id {{ font-weight:600; font-size:14px }}
+  .cat {{ color:var(--sec); text-transform:capitalize }}
+  .lote {{ color:var(--sec); margin-left:auto }}
+  .marca {{ color:var(--sec) }}
+  dl {{ margin:0; display:grid; grid-template-columns:auto 1fr; row-gap:3px; column-gap:10px; font-size:13px }}
+  dl div {{ display:contents }}
+  dt {{ color:var(--sec) }}
+  dd {{ margin:0; color:#222 }}
+  dd select {{ width:100%; padding:3px 6px; font-size:13px }}
+  .acciones {{ display:flex; gap:6px; padding:8px 12px 12px; margin-top:auto }}
+  .acciones button {{ flex:1; font-size:13px; padding:6px 8px }}
+  .card.aprobada .ok {{ background:var(--ok); color:#fff; border-color:var(--ok) }}
+  .card.cambiada .no {{ background:var(--no); color:#fff; border-color:var(--no) }}
+  #estado {{ padding:40px; color:var(--sec); grid-column:1/-1; text-align:center }}
+</style></head>
+<body>
+<header>
+  <h1>Mi closet</h1>
+  <div class="conteo"><span>Prendas <b id="c-total">0</b></span><span>Aprobadas <b id="c-ok">0</b></span><span>Cambiadas <b id="c-no">0</b></span><span>Pendientes <b id="c-pend">0</b></span></div>
+  <div class="filtros">
+    <select id="f-lote"><option value="">Todos los lotes</option></select>
+    <select id="f-cat"><option value="">Todas las categorías</option></select>
+    <select id="f-est"><option value="">Todos los estados</option><option value="pendiente">Pendientes</option><option value="aprobada">Aprobadas</option><option value="cambiada">Cambiadas</option></select>
+    <button onclick="exportar()">Exportar CSV</button>
+  </div>
+</header>
+<main id="grid"><div id="estado">Cargando desde Supabase…</div></main>
+<script>
+const URL_SB = "{URL}", KEY_SB = "{KEY}";
+const MATERIALES = {json.dumps(MATERIALES, ensure_ascii=False)};
+const H = {{ "apikey": KEY_SB, "Authorization": "Bearer " + KEY_SB }};
+const K_EST = "mi_closet_estado", K_MAT = "mi_closet_material";
+let prendas = [], estado = {{}}, materiales = {{}};
+try {{ estado = JSON.parse(localStorage.getItem(K_EST) || "{{}}"); materiales = JSON.parse(localStorage.getItem(K_MAT) || "{{}}"); }} catch (e) {{}}
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}}[c]));
+
+async function cargar() {{
+  const [rp, ra] = await Promise.all([
+    fetch(`${{URL_SB}}/rest/v1/prendas?select=*&order=lote,codigo`, {{ headers: H }}),
+    fetch(`${{URL_SB}}/rest/v1/apariciones?select=prenda_id,foto,n,es_detalle,crop_url&order=prenda_id,es_detalle,foto`, {{ headers: H }}),
+  ]);
+  if (!rp.ok || !ra.ok) {{ document.getElementById("estado").textContent = "No se pudo leer Supabase (" + rp.status + "/" + ra.status + ")"; return; }}
+  prendas = await rp.json();
+  const aps = await ra.json();
+  for (const p of prendas) {{
+    p.crops = aps.filter(a => a.prenda_id === p.id);
+    if (estado[p.id] === undefined && p.estado && p.estado !== "pendiente") estado[p.id] = p.estado;
+    if (materiales[p.id] === undefined) materiales[p.id] = p.material || "";
+  }}
+  const lotes = [...new Set(prendas.map(p => p.lote))], cats = [...new Set(prendas.map(p => p.categoria))].sort();
+  document.getElementById("f-lote").innerHTML += lotes.map(l => `<option value="${{esc(l)}}">${{esc(l)}}</option>`).join("");
+  document.getElementById("f-cat").innerHTML += cats.map(c => `<option value="${{esc(c)}}">${{esc(c)}}</option>`).join("");
+  pintar();
+}}
+function visibles() {{
+  const fl = document.getElementById("f-lote").value, fc = document.getElementById("f-cat").value, fe = document.getElementById("f-est").value;
+  return prendas.filter(p => (!fl || p.lote === fl) && (!fc || p.categoria === fc) && (!fe || (estado[p.id] || "pendiente") === fe));
+}}
+function pintar() {{
+  const lista = visibles();
+  document.getElementById("grid").innerHTML = lista.length ? lista.map(p => `
+<article class="card ${{estado[p.id] || ""}}" data-id="${{esc(p.id)}}">
+  <div class="maniqui">${{p.maniqui_url ? `<img src="${{esc(p.maniqui_url)}}" loading="lazy">` : ""}}</div>
+  <div class="crops">${{p.crops.map(c => `<a href="${{esc(c.crop_url)}}" target="_blank" title="${{esc(c.foto)}}${{c.es_detalle ? " (detalle)" : ""}}"><img src="${{esc(c.crop_url)}}" loading="lazy"></a>`).join("")}}</div>
+  <div class="meta">
+    <div class="fila"><span class="id">${{esc(p.codigo)}}</span><span class="cat">${{esc(p.categoria)}}</span>${{p.marca_talla ? `<span class="marca">${{esc(p.marca_talla)}}</span>` : ""}}<span class="lote">${{esc(p.lote)}}</span></div>
+    <dl>
+      <div><dt>Color</dt><dd>${{esc(p.color || "—")}}</dd></div>
+      <div><dt>Estilo</dt><dd>${{esc(p.estilo || "—")}}</dd></div>
+      <div><dt>Material</dt><dd><select onchange="material('${{esc(p.id)}}', this.value)"><option value="">—</option>${{MATERIALES.map(m => `<option value="${{esc(m)}}"${{m === materiales[p.id] ? " selected" : ""}}>${{esc(m)}}</option>`).join("")}}</select></dd></div>
+      <div><dt>Detalles</dt><dd>${{esc(p.detalles || "—")}}</dd></div>
+    </dl>
+  </div>
+  <div class="acciones">
+    <button class="ok" onclick="marcar('${{esc(p.id)}}','aprobada')">Aprobar</button>
+    <button class="no" onclick="marcar('${{esc(p.id)}}','cambiada')">Se cambió la prenda</button>
+  </div>
+</article>`).join("") : '<div id="estado">Nada con esos filtros</div>';
+  let ok = 0, no = 0;
+  for (const p of prendas) {{ if (estado[p.id] === "aprobada") ok++; else if (estado[p.id] === "cambiada") no++; }}
+  document.getElementById("c-total").textContent = prendas.length;
+  document.getElementById("c-ok").textContent = ok;
+  document.getElementById("c-no").textContent = no;
+  document.getElementById("c-pend").textContent = prendas.length - ok - no;
+}}
+function marcar(id, valor) {{
+  if (estado[id] === valor) delete estado[id]; else estado[id] = valor;
+  try {{ localStorage.setItem(K_EST, JSON.stringify(estado)); }} catch (e) {{}}
+  pintar();
+}}
+function material(id, valor) {{ materiales[id] = valor; try {{ localStorage.setItem(K_MAT, JSON.stringify(materiales)); }} catch (e) {{}} }}
+function csv(v) {{ v = String(v ?? ""); return /[",\\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; }}
+function exportar() {{
+  const filas = [["id", "lote", "codigo", "categoria", "marca_talla", "color", "estilo", "material", "detalles", "estado", "maniqui"]];
+  for (const p of prendas) filas.push([p.id, p.lote, p.codigo, p.categoria, p.marca_talla, p.color, p.estilo, materiales[p.id] || "", p.detalles, estado[p.id] || "pendiente", p.maniqui_url]);
+  const blob = new Blob(["\\ufeff" + filas.map(f => f.map(csv).join(",")).join("\\n")], {{ type: "text/csv;charset=utf-8" }});
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "mi_closet_revision.csv"; a.click();
+}}
+for (const id of ["f-lote", "f-cat", "f-est"]) document.getElementById(id).addEventListener("change", pintar);
+cargar();
+</script>
+</body></html>'''
+Path("mi_closet.html").write_text(pagina, encoding="utf-8")
+print("mi_closet.html generado")

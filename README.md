@@ -24,6 +24,12 @@ Muestra_2/
 
 La detección es reanudable: si se corta, vuelve a correr `preparar` y sigue donde iba. `maniqui.py` y los de atributos saltan lo ya hecho.
 
+## Closet completo
+
+`python pipeline/generar_closet_total.py` (desde la raíz, con el `.env` cargado) genera `mi_closet.html`: una sola página con todas las prendas de todos los lotes, leídas desde Supabase al abrirse. Filtros por lote, categoría y estado; mismos botones y dropdown de Material; Exportar CSV y `aplicar_revision.py` lo sube.
+
+Si un maniquí no respeta un detalle, agrega `nota_maniqui` a esa prenda en `prendas.json`, borra su archivo en `maniqui/` y corre `maniqui.py`: regenera solo esa.
+
 ## Base de datos
 
 `supabase/schema.sql` crea las tablas `prendas` y `apariciones` y el bucket `closet`. El estado de revisión (`pendiente`, `aprobada`, `cambiada`) vive en `prendas.estado`.
