@@ -1,0 +1,2368 @@
+[
+  {
+    "foto": "IMG_8943.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.243,
+          1.0,
+          0.877
+        ],
+        "categoria": "abrigo",
+        "color_principal": "rosa",
+        "descripcion": "Abrigo estilo trench coat de color rosa pálido, de manga larga, cuello de solapa amplia, doble abotonadura con botones metálicos plateados con grabado, detalles de solapa en hombros y holanes plisados en la parte inferior del faldón.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8944.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "abrigo",
+        "color_principal": "rosa",
+        "descripcion": "vista interior y del cuello de un abrigo rosa claro con forro satinado al tono, botones metálicos plateados con grabado de la marca, broches a presión en el cuello y etiqueta principal de tela cosida en el interior",
+        "es_detalle": true,
+        "etiqueta_texto": "BURBERRY LONDON HIMALAYA USA 4 ITA 38",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8945.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.366,
+          0.058,
+          0.76,
+          1.0
+        ],
+        "categoria": "vestido",
+        "color_principal": "vino",
+        "descripcion": "Vestido largo de fiesta en color vino o rojo borgoña, confeccionado en gasa fluida, con escote en V profundo drapeado, cintura fruncida y mangas largas abullonadas con puño ajustado.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8946.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "rojo oscuro",
+        "descripcion": "Acercamiento a tela lisa color vino con cierre lateral invisible del mismo tono y etiqueta de composición e instrucciones de lavado.",
+        "es_detalle": true,
+        "etiqueta_texto": "MAJESTE, talla P",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8947.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.115,
+          0.363,
+          0.938,
+          0.638
+        ],
+        "categoria": "vestido",
+        "color_principal": "rosa",
+        "descripcion": "vestido corto tejido de punto acanalado color rosa claro, sin mangas, con escote en V profundo y falda con diseño plisado",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8948.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          0.94
+        ],
+        "categoria": "sweater",
+        "color_principal": "rosa",
+        "descripcion": "rosa, tejido acanalado de punto, acercamiento a la etiqueta de marca LPA talla M",
+        "es_detalle": true,
+        "etiqueta_texto": "LPA M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8949.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.136,
+          0.143,
+          0.975,
+          0.88
+        ],
+        "categoria": "abrigo",
+        "color_principal": "negro",
+        "descripcion": "Abrigo largo de color negro liso, manga larga, cuello corto de estilo mandarín sin solapa tradicional, forro interior satinado negro, cierre con un botón central y dos bolsillos laterales con solapa.",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8950.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "blazer",
+        "color_principal": "negro",
+        "descripcion": "Vista de cerca de la parte interior del cuello de un blazer negro, mostrando forro satinado negro y etiqueta de marca",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA, EUR L USA L MEX 30",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8951.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.145,
+          0.337,
+          0.941,
+          0.701
+        ],
+        "categoria": "vestido",
+        "color_principal": "azul",
+        "descripcion": "vestido de mezclilla azul con tirantes, escote en V profundo y costuras en contraste verticales",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8952.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          0.998,
+          0.832
+        ],
+        "categoria": "top",
+        "color_principal": "azul claro",
+        "descripcion": "Top de mezclilla azul claro en acabado lavado, con tirantes anchos, detalles de bordes deshilachados y costuras visibles",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR S USA S MEX 26",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          0.388
+        ],
+        "categoria": "incierto",
+        "color_principal": "borgoña",
+        "descripcion": "Prenda de tela ligera de color borgoña o tinto colgada en un gancho negro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8953.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.21,
+          0.39,
+          0.85,
+          0.67
+        ],
+        "categoria": "vestido",
+        "color_principal": "amarillo",
+        "descripcion": "Vestido largo de color amarillo mostaza, de tela elastizada con textura fruncida, mangas largas y escote holgado, colgado en gancho",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8954.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "naranja",
+        "descripcion": "Acercamiento a la vista interna y etiqueta de una prenda textil de color naranja con textura jacquard o relieve labrado.",
+        "es_detalle": true,
+        "etiqueta_texto": "H&M EUR 42 US M CA M MX M CN 170/96A",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8955.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.2,
+          0.34,
+          0.91,
+          0.58
+        ],
+        "categoria": "vestido",
+        "color_principal": "amarillo",
+        "descripcion": "vestido largo de fiesta color amarillo brillante, sin mangas, escote cruzado con detalle drapeado, en tela ligera y fluida tipo gasa con forro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8956.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "vestido",
+        "color_principal": "amarillo",
+        "descripcion": "Acercamiento a prenda de color amarillo con textura plisada o arrugada, tirante delgado interior y etiqueta visible.",
+        "es_detalle": true,
+        "etiqueta_texto": "Lovers and Friends M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8957.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.332,
+          0.13,
+          0.648,
+          0.901
+        ],
+        "categoria": "vestido",
+        "color_principal": "negro",
+        "descripcion": "vestido largo de color negro liso, sin mangas, tirantes anchos, escote redondo, corte recto",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8958.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          0.79,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento al cuello o borde con forro crema y etiqueta interior dorada de una prenda negra",
+        "es_detalle": true,
+        "etiqueta_texto": "H&M EUR 38 US 8",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8959.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.161,
+          0.266,
+          0.898,
+          0.638
+        ],
+        "categoria": "vestido",
+        "color_principal": "amarillo",
+        "descripcion": "Vestido largo de color amarillo mostaza con patron floral brocado, detalles de holanes en los tirantes y el ruedo",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8960.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "mostaza",
+        "descripcion": "Acercamiento a la etiqueta de una prenda de tejido calado con patron jacquard en color amarillo mostaza, con etiqueta visible de la marca ZARA.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8961.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.116,
+          0.278,
+          1.0,
+          0.785
+        ],
+        "categoria": "vestido",
+        "color_principal": "marrón",
+        "descripcion": "Vestido largo sin mangas en tono taupe o marrón grisáceo, confeccionado en tela fluida tipo gasa, con pechera detallada en pliegues y olanes texturizados y escote en V.",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA BASIC",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.283,
+          0.72,
+          0.832,
+          0.812
+        ],
+        "categoria": "pantalon",
+        "color_principal": "beige",
+        "descripcion": "Pantalón textil doblado en tono beige claro con detalle de presilla en la cintura.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.271,
+          0.685,
+          0.465,
+          0.722
+        ],
+        "categoria": "top",
+        "color_principal": "rosa",
+        "descripcion": "Prenda de tela lisa doblada en color rosa brillante.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8962.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Acercamiento del interior y escote de una prenda en tono gris topo con acabado satinado y detalles fruncidos con textura exterior, forro liso, colgada en gancho negro.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA BASIC MADE IN MOROCCO EUR M USA M MEX 28",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8963.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.12,
+          0.23,
+          0.98,
+          0.72
+        ],
+        "categoria": "abrigo",
+        "color_principal": "beige",
+        "descripcion": "abrigo o saco largo de color beige/cafe claro, liso, cubierto con una funda protectora de plastico transparente, doblado dentro del guardarropa",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.81,
+          0.67,
+          0.99,
+          0.83
+        ],
+        "categoria": "bolsa",
+        "color_principal": "negro",
+        "descripcion": "bolsa de mano de color negro, lisa, con asa larga",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8964.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.101,
+          0.268,
+          0.938,
+          0.718
+        ],
+        "categoria": "abrigo",
+        "color_principal": "beige",
+        "descripcion": "Gabardina estilo trench coat largo de color beige claro, lisa, de manga larga con tiras en los puños, cuello con solapa amplia, botones oscuros contrastantes, cinturón a juego y solapa de tormenta.",
+        "es_detalle": false,
+        "etiqueta_texto": "MICHAEL",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8965.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.305,
+          1.0,
+          1.0
+        ],
+        "categoria": "abrigo",
+        "color_principal": "beige",
+        "descripcion": "Acercamiento a cuello y etiqueta de abrigo estilo gabardina en tono beige, con cuello de solapa, cadena metálica plateada decorativa en la parte posterior del cuello y etiqueta interior visible.",
+        "es_detalle": true,
+        "etiqueta_texto": "MICHAEL MICHAEL KORS",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8966.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.158,
+          0.398,
+          0.883,
+          0.615
+        ],
+        "categoria": "vestido",
+        "color_principal": "rojo",
+        "descripcion": "vestido largo de color rojo liso, con tirantes delgados, escote recto con detalles fruncidos y falda fluida de tela ligera",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8967.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.398,
+          0.123,
+          0.638,
+          0.88
+        ],
+        "categoria": "vestido",
+        "color_principal": "rojo",
+        "descripcion": "Vestido largo de tirantes delgados color rojo, confeccionado en tela ligera plisada con textura arrugada, detalles de holanes en el escote y sin botones ni cierres visibles",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8968.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "rojo",
+        "descripcion": "Acercamiento a una prenda color rojo con pliegues y tejido liso, mostrando la etiqueta de la marca en la parte interior.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA Woman / Basic Collection, M / USA M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8969.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.36,
+          0.0,
+          0.7,
+          0.99
+        ],
+        "categoria": "vestido",
+        "color_principal": "durazno",
+        "descripcion": "Vestido largo liso de tirantes delgados, con escote recto fruncido, corte holgado y panel de olán en el bajo, de tela fluida tipo viscosa",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8970.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "rosa",
+        "descripcion": "Vista de cerca del costado interior y tirante de una prenda lisa de color rosa salmón, con tela suave y etiqueta blanca cosida",
+        "es_detalle": true,
+        "etiqueta_texto": "UNIQLO M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8971.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.308,
+          0.152,
+          0.68,
+          0.868
+        ],
+        "categoria": "vestido",
+        "color_principal": "multicolor",
+        "descripcion": "Vestido midi o largo de tela ligera con estampado de rayas de varios colores (naranja, verde, azul, beige) sobre fondo blanco, manga corta tipo caida y escote en V con nudo o cruzado en el pecho.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8972.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.32,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "multicolor",
+        "descripcion": "Acercamiento a tejido estructurado con patron de rayas horizontales texturizadas en tonos naranja, azul, verde y burdeos sobre fondo crema/blanco",
+        "es_detalle": true,
+        "etiqueta_texto": "SPRINGFIELD, EUR/ITA XS, MEX 24, USA XS",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8974.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.083,
+          0.363,
+          0.941,
+          0.722
+        ],
+        "categoria": "vestido",
+        "color_principal": "negro",
+        "descripcion": "Vestido largo de tela ligera con estampado floral en tonos morado, amarillo, rosa y blanco sobre fondo negro, corte holgado con pliegues",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8975.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento a la etiqueta interna sobre forro negro de una prenda con borde de estampado floral",
+        "es_detalle": true,
+        "etiqueta_texto": "ASTR THE LABEL, M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8976.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.294,
+          0.181,
+          0.65,
+          0.896
+        ],
+        "categoria": "vestido",
+        "color_principal": "negro",
+        "descripcion": "vestido largo sin mangas de color negro grisaceo, cuello en V con bordes de encaje calado y textura de alforzas o pliegues",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8977.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento al escote de un top o blusa de color negro con detalles de encaje bordado calado y etiquetas internas visibles.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA BASIC EUR M USA M MEX 28",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8978.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.407,
+          0.155,
+          0.627,
+          0.923
+        ],
+        "categoria": "vestido",
+        "color_principal": "verde oliva",
+        "descripcion": "Vestido largo de color verde oliva, sin mangas con tirantes anchos, escote en V, corte imperio con detalle de fruncido elastico en el pecho, hecho de tela jersey o algodon suave, de estilo casual.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8979.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.16,
+          0.308,
+          0.893,
+          0.638
+        ],
+        "categoria": "vestido",
+        "color_principal": "gris",
+        "descripcion": "Vestido tipo overol largo de color gris jaspeado, con tirantes, corte en la cintura y falda amplias",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8980.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.31,
+          0.12,
+          0.81,
+          0.99
+        ],
+        "categoria": "pantalon",
+        "color_principal": "gris",
+        "descripcion": "Overol o pantalón de peto gris veteado con tirantes ajustables, corte holgado y cintura entallada con pliegues",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8981.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento a la vista interior de prenda con patron tipo espiga/tweed en color negro y blanco, forro textil liso obscuro, plaquita metalica de marca y etiqueta de tela delgada",
+        "es_detalle": true,
+        "etiqueta_texto": "Free People S/P",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8982.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.38,
+          0.28,
+          0.65,
+          0.88
+        ],
+        "categoria": "vestido",
+        "color_principal": "blanco",
+        "descripcion": "vestido largo de color blanco, de diseño liso, guardado en funda protectora de plástico dentro de un clóset",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8983.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.217,
+          0.183,
+          0.817,
+          1.0
+        ],
+        "categoria": "vestido",
+        "color_principal": "blanco",
+        "descripcion": "vestido largo blanco con tirantes delgados, escote recto, corte a la cintura y falda plisada, envuelto en protector de plastico transparente",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8984.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.08,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "blanco",
+        "descripcion": "acercamiento a prenda blanca de tela lisa y plisada protegida por empaque de plástico transparente",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8985.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.23,
+          0.25,
+          1.0,
+          0.98
+        ],
+        "categoria": "incierto",
+        "color_principal": "blanco",
+        "descripcion": "Vista de cerca del borde o cuello de una prenda blanca con etiqueta de marca ZARA",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8986.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.268,
+          0.264,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "blanco",
+        "descripcion": "Acercamiento a etiqueta de prenda de color blanco liso, tela de algodon o mezcla con costuras visibles en el borde.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8987.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.125,
+          0.317,
+          1.0,
+          0.68
+        ],
+        "categoria": "vestido",
+        "color_principal": "rosa",
+        "descripcion": "vestido largo de color rosa fucsia, liso, con mangas cortas abullonadas, escote profundo recortado y falda holgada con paneles",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8988.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.05,
+          0.3,
+          1.0,
+          0.74
+        ],
+        "categoria": "vestido",
+        "color_principal": "rosa",
+        "descripcion": "Vestido largo de color rosa fucsia liso, estilo playero o veraniego, con mangas cortas abombadas, escote profundo fruncido, detalles de tirantes delgados cruzados en la espalda y falda holgada con pliegues.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8989.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.08,
+          0.306,
+          0.944,
+          0.723
+        ],
+        "categoria": "vestido",
+        "color_principal": "beige",
+        "descripcion": "Vestido largo de tirantes anchos con olanes, corte por bloques de color beige, amarillo y verde oscuro, escote recto y falda amplia en niveles de tela ligera.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8990.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.125,
+          0.334,
+          0.898,
+          0.686
+        ],
+        "categoria": "vestido",
+        "color_principal": "crema",
+        "descripcion": "Vestido midi de tirantes color crema, escote en V, sin mangas, elaborado en tejido liviano tipo lino con textura arrugada y costuras decorativas",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8991.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "beige",
+        "descripcion": "acercamiento a etiqueta en prenda de tela color crema o beige claro con textura fluida y costuras visibles",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28 MADE IN MOROCCO",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8992.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.082,
+          0.348,
+          0.978,
+          0.638
+        ],
+        "categoria": "vestido",
+        "color_principal": "naranja",
+        "descripcion": "Vestido largo sin mangas con escote y cintura elásticos fruncidos, patrón de rayas multicolores (naranja, crema, gris y negro) sobre tela ligera.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.812,
+          0.562,
+          0.998,
+          0.672
+        ],
+        "categoria": "zapatos",
+        "color_principal": "negro",
+        "descripcion": "Zapatos cerrados de color negro situados al fondo del armario.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.751,
+          0.644,
+          0.988,
+          0.821
+        ],
+        "categoria": "bolsa",
+        "color_principal": "negro",
+        "descripcion": "Bolsa o bolso de mano de piel aparente en color negro con correas.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8993.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.11,
+          1.0,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "multicolor",
+        "descripcion": "Acercamiento a la etiqueta interior de un top con estampado de rayas verticales y horizontales multicolor (naranja, azul, crema, negro) con nido de abeja fruncido.",
+        "es_detalle": true,
+        "etiqueta_texto": "FATE S",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8994.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.328,
+          0.137,
+          0.653,
+          0.923
+        ],
+        "categoria": "vestido",
+        "color_principal": "azul",
+        "descripcion": "Vestido largo sin mangas con estampado paisley en tonos azul, blanco y negro, confeccionado en tela ligera y fluida",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.618,
+          0.752,
+          0.814,
+          0.985
+        ],
+        "categoria": "bolsa",
+        "color_principal": "negro",
+        "descripcion": "Bolsa de mano de piel o material sintético color negro con asa larga",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.556,
+          0.871,
+          0.653,
+          0.998
+        ],
+        "categoria": "zapatos",
+        "color_principal": "negro",
+        "descripcion": "Calzado cerrado de color negro ubicado al fondo del armario",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8995.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.109,
+          0.347,
+          0.928,
+          0.659
+        ],
+        "categoria": "vestido",
+        "color_principal": "blanco",
+        "descripcion": "vestido largo con estampado floral multicolor en tonos morado, verde, azul y rosa, sin mangas, escote redondo y detalle de olán en el pecho",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8996.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.076,
+          0.388,
+          0.932,
+          0.589
+        ],
+        "categoria": "vestido",
+        "color_principal": "dorado",
+        "descripcion": "Vestido largo plisado de tirantes delgados con escote en V, textura arrugada/plisada y tono beige dorado brillante",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.233,
+          0.555,
+          0.852,
+          0.672
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Prenda de ropa oscura o funda de vestimenta guardada dentro de una bolsa plastica transparente",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.758,
+          0.648,
+          0.998,
+          0.862
+        ],
+        "categoria": "bolsa",
+        "color_principal": "negro",
+        "descripcion": "Bolsa de mano lisa de color negro con asa fina",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      },
+      {
+        "bbox": [
+          0.867,
+          0.571,
+          0.994,
+          0.68
+        ],
+        "categoria": "zapatos",
+        "color_principal": "negro",
+        "descripcion": "Calzado o botines de color negro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 4
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8997.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.338,
+          0.99,
+          0.702
+        ],
+        "categoria": "vestido",
+        "color_principal": "beige",
+        "descripcion": "Vestido largo de tirantes finos y escote en V profundo, con patron tie-dye en tonos beige y caqui, confeccionado en tela fluida y ligera",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8998.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.161,
+          0.325,
+          0.898,
+          0.655
+        ],
+        "categoria": "vestido",
+        "color_principal": "cafe",
+        "descripcion": "vestido largo de tono cafe claro o terracota, cuello drapeado estilo halter, sin mangas, de tela lisa suave con forro interior",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_8999.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "bronce",
+        "descripcion": "Acercamiento a cuello y forro interior de prenda con tela brillante/satinada de tono cobre o bronce metalizado, con vista de la etiqueta interior blanca",
+        "es_detalle": true,
+        "etiqueta_texto": "BAOBAB S",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9001.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.37,
+          0.125,
+          0.655,
+          0.811
+        ],
+        "categoria": "vestido",
+        "color_principal": "verde",
+        "descripcion": "vestido largo de color verde brillante, liso, envuelto en una bolsa de plástico de tintorería",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.657,
+          0.272,
+          0.824,
+          0.793
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "prenda de color negro envuelta en plástico protector de tintorería",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9002.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.113,
+          0.207,
+          0.852,
+          0.812
+        ],
+        "categoria": "zapatos",
+        "color_principal": "café",
+        "descripcion": "Botas altas de cuero estilo motociclista o gótico en tono café desgastado, con múltiples correas con hebillas metálicas y ojetes a lo largo de la caña.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9003.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.24,
+          0.382,
+          0.835,
+          0.702
+        ],
+        "categoria": "zapatos",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento a la apertura de bota de lluvia de color negro, con forro interior de patron a cuadros beige, gris y rojo, y correa lateral con hebilla dorada",
+        "es_detalle": true,
+        "etiqueta_texto": "BURBERRY",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.43,
+          0.799,
+          0.906,
+          1.0
+        ],
+        "categoria": "shorts",
+        "color_principal": "negro",
+        "descripcion": "Shorts ajustados de color negro liso",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9004.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.218,
+          0.098,
+          0.78,
+          0.874
+        ],
+        "categoria": "zapatos",
+        "color_principal": "negro",
+        "descripcion": "bota alta estilo equitación de color negro, lisa de goma con tiras decorativas en la caña y forro interior de tela a cuadros",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9005.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.08,
+          0.2,
+          1.0,
+          0.81
+        ],
+        "categoria": "zapatos",
+        "color_principal": "negro",
+        "descripcion": "Bota alta de piel sintética o cuero liso en color negro, con tres correas decorativas y hebillas metálicas en color dorado cerca del borde superior, cierre invisible a lo largo de la caña y suela gruesa",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9011.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.222,
+          0.996,
+          0.967
+        ],
+        "categoria": "blusa",
+        "color_principal": "beige",
+        "descripcion": "blusa plisada satinada en tono beige rosa, con cuello en V profundo, manga corta y cintura elástica corrugada tipo nido de abeja",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9012.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.403,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "beige",
+        "descripcion": "top plisado de tela ligera con acabado satinado metálico tono champagne/oro rosa, cuello en V, sin mangas visibles, se observa etiqueta interna",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9014.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.08,
+          0.2,
+          0.98,
+          0.91
+        ],
+        "categoria": "chamarra",
+        "color_principal": "beige",
+        "descripcion": "Chamarra corta de pelo sintético afelpado con patrón de bloques estilo ajedrez en colores café claro y crema, de manga larga, cuello redondo sin solapa y forro interior liso.",
+        "es_detalle": false,
+        "etiqueta_texto": "KISS & LOVE COLLECTION L/XL",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9015.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.08,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "abrigo",
+        "color_principal": "beige",
+        "descripcion": "Acercamiento al cuello e interior de una prenda de piel sintética de pelo suave en tonos beige y blanco crema, con forro interno de tela satinada clara y etiqueta amarilla cosida.",
+        "es_detalle": true,
+        "etiqueta_texto": "KISS & LOVE COLLECTION L/XL",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9016.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.147,
+          0.063,
+          0.958,
+          0.952
+        ],
+        "categoria": "chamarra",
+        "color_principal": "azul",
+        "descripcion": "Chamarra estilo bomber bicolor de mezclilla azul y tela azul marino, manga larga con puños elasticados, cuello camisero azul marino, cierre frontal con botones metálicos dorados, pretina elástica y bolsillos laterales.",
+        "es_detalle": false,
+        "etiqueta_texto": "38",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9017.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.081,
+          0.142,
+          0.956,
+          0.918
+        ],
+        "categoria": "chamarra",
+        "color_principal": "azul",
+        "descripcion": "Chamarra de mezclilla azul claro con bloques de tela color azul marino, manga larga con puños elásticos, cuello camisero, botones metálicos dorados en el frente y pretina elástica.",
+        "es_detalle": false,
+        "etiqueta_texto": "38",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9018.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "azul marino",
+        "descripcion": "Acercamiento al cuello interior de prenda de mezclilla azul marino con etiqueta bordada de marca y pestaña con talla, costuras en tono contraste café",
+        "es_detalle": true,
+        "etiqueta_texto": "MEXICO-ITALIA 38",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9019.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.05,
+          0.16,
+          0.98,
+          0.93
+        ],
+        "categoria": "chamarra",
+        "color_principal": "negro",
+        "descripcion": "Chamarra acolchada con patron de rombos, manga larga, cuello doblado, cierre frontal de botones de presion metalicos, bolsillos tipo parche en el frente y cordones ajustables en el dobladillo inferior.",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA MAN L",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9020.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.22,
+          1.0,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "negro",
+        "descripcion": "Chamarra acolchada de color negro o gris oscuro con cuello doblado, boton de presion metalico y etiqueta interior expuesta",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA MAN, EUR L, USA L, MEX 42",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9021.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.09,
+          0.22,
+          0.91,
+          0.88
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra acolchada puffer en color gris claro, manga larga, cuello corto, cierre frontal de cremallera metalica, costuras horizontales acolchadas y material sintetico de aspecto brillante suave",
+        "es_detalle": false,
+        "etiqueta_texto": "GEOX",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9022.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Vista interior y detalle de chamarra acolchada gris, con forro textil con textura brillante, cremallera gruesa de plástico y etiqueta interna de tela con logotipo bordado.",
+        "es_detalle": true,
+        "etiqueta_texto": "GEOX 46 40 42 12 10",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9023.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.198,
+          0.113,
+          1.0,
+          0.905
+        ],
+        "categoria": "chamarra",
+        "color_principal": "azul mezclilla",
+        "descripcion": "Chamarra de mezclilla azul claro desgastado con mangas largas y gorro estilo sudadera en color gris claro, cierre frontal con botones metálicos, bolsillos de parche con solapa en el pecho y bolsillos laterales.",
+        "es_detalle": false,
+        "etiqueta_texto": "AMERICAN EAGLE",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9024.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.174,
+          0.187,
+          0.88,
+          0.95
+        ],
+        "categoria": "chamarra",
+        "color_principal": "azul y gris",
+        "descripcion": "chamarra de mezclilla azul desgastada combinada con mangas y gorro de sudadera gris jaspeado, botones metalicos frontales, bolsillos con solapa en pecho y bolsillos laterales",
+        "es_detalle": false,
+        "etiqueta_texto": "AMERICAN EAGLE",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9025.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.172,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "azul",
+        "descripcion": "Chamarra de mezclilla azul claro desgastado con detalles de sudadera de gorro color gris claro en el cuello, parche de cuero en el interior con marca, costuras amarillas contrastantes y botones metálicos",
+        "es_detalle": true,
+        "etiqueta_texto": "AMERICAN EAGLE",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9026.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.155,
+          0.081,
+          0.902,
+          0.957
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Chamarra de pelo sintético afelpado color gris topo, manga larga, solapa amplia, forro interior liso a juego y cierre frontal.",
+        "es_detalle": false,
+        "etiqueta_texto": "MNG",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9027.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "abrigo",
+        "color_principal": "gris",
+        "descripcion": "Acercamiento al cuello e interior de abrigo o chaleco de pelo sintético gris con forro textil satinado en tono café grisáceo y etiqueta de la marca.",
+        "es_detalle": true,
+        "etiqueta_texto": "MNG EU-USA M/MEX M MADE IN CHINA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9028.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "abrigo",
+        "color_principal": "gris",
+        "descripcion": "Acercamiento a collarín y etiqueta de abrigo de peluche/pelo sintético gris con forro interno satinado en color beige-grisáceo",
+        "es_detalle": true,
+        "etiqueta_texto": "MNG EU-USA M/MEX M MADE IN CHINA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9029.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.146,
+          0.123,
+          0.913,
+          0.972
+        ],
+        "categoria": "blazer",
+        "color_principal": "gris",
+        "descripcion": "Saco blazer gris claro con patron de cuadros tipo ventana, manga larga, solapa con muesca, cierre de dos botones frontales, bolsillos con solapa y forro interior satinado.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9030.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "blazer",
+        "color_principal": "gris",
+        "descripcion": "Vista interior de un blazer de vestir color gris con patron de cuadros claros, forro satinado gris azulado, bolsillo interno con boton y etiqueta rectangular cosida de la marca CALDERONI",
+        "es_detalle": true,
+        "etiqueta_texto": "CALDERONI",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9031.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          0.99
+        ],
+        "categoria": "blazer",
+        "color_principal": "azul",
+        "descripcion": "Vista interior de blazer con forro satinado color azul grisaceo, bolsillo interno con boton, tela exterior de tono gris claro con patron de cuadros discretos, etiqueta cosida",
+        "es_detalle": true,
+        "etiqueta_texto": "CALDERONI",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9032.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.161,
+          0.018,
+          0.903,
+          0.98
+        ],
+        "categoria": "abrigo",
+        "color_principal": "gris",
+        "descripcion": "abrigo corto de lana bouclé textura gruesa en color gris, manga larga, cuello redondo sin solapa, cierre frontal con tres botones oscuros",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9033.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "abrigo",
+        "color_principal": "gris",
+        "descripcion": "Abrigo de paño o lana gruesa con textura bouclé en color gris oscuro, cuenta con forro interior satinado gris, hilera de botones al frente y etiqueta interna de la marca ZARA.",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9034.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.243,
+          1.0,
+          1.0
+        ],
+        "categoria": "abrigo",
+        "color_principal": "gris",
+        "descripcion": "Acercamiento del cuello y la etiqueta de un abrigo tejido bouclé de textura afelpada en color gris oscuro, con forro interior negro, botón oscuro y percha negra.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9035.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.071,
+          0.138,
+          0.975,
+          0.85
+        ],
+        "categoria": "blazer",
+        "color_principal": "crema",
+        "descripcion": "Blazer o chamarra corta de tweed en tono crema/blanco hueso con sutiles destellos brillantes, manga larga, botones metálicos plateados con relieve, cuello con solapa y forro interior blanco.",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA EUR XS USA XS MEX 24",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9036.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "blazer",
+        "color_principal": "crema",
+        "descripcion": "Acercamiento a saco o blazer estilo tweed en color crema o blanco hueso con lentejuelas discretas, botones metálicos plateados grabados, forro interior a juego y etiqueta visible de marca.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9037.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.123,
+          0.16,
+          0.923,
+          0.96
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris oscuro",
+        "descripcion": "Chamarra de mezclilla gris oscuro deslavado con manga larga, cuello camisero, bolsillos de parche en el pecho, detalles de tachuelas/remaches metálicos plateados y bordes deshilachados.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9038.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.14,
+          0.187,
+          0.902,
+          0.976
+        ],
+        "categoria": "chamarra",
+        "color_principal": "fucsia",
+        "descripcion": "Chamarra de esquí estilo vintage con diseño en bloques de color fucsia, naranja neón y morado, manga larga, cuello alto con cierre, puños y cintura elásticos con cordones de ajuste y bolsillos con cierre.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9039.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.187,
+          0.136,
+          0.893,
+          0.912
+        ],
+        "categoria": "chamarra",
+        "color_principal": "rosa",
+        "descripcion": "chamarra retro de esquí estilo bloque de color en rosa, naranja y morado, manga larga, cuello alto, bolsillos con cierre y ajustadores en la cintura",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9040.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "rosa",
+        "descripcion": "Chamarra estilo retro de esquí en bloques de color rosa fucsia, naranja y detalles en morado, con forro interno acolchado de color morado y etiqueta visible en el cuello.",
+        "es_detalle": true,
+        "etiqueta_texto": "PROFILE",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9041.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.218,
+          0.25,
+          0.808,
+          0.772
+        ],
+        "categoria": "top",
+        "color_principal": "crema",
+        "descripcion": "Top tejido sin mangas de punto grueso color crema, de cuello redondo, estilo chaleco o tank top con textura de estambre grueso y detalles trenzados.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9042.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.08,
+          1.0,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "crema",
+        "descripcion": "Acercamiento al cuello de un sweater de tejido de punto grueso en color crema con acabado de trenza",
+        "es_detalle": true,
+        "etiqueta_texto": "LOVESHACKFANCY",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9043.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "beige",
+        "descripcion": "Acercamiento a cuello de sweater tejido de punto grueso (chunky) en color crema o beige, con acabado de trenzado y etiqueta de marca cosida en la parte posterior del cuello.",
+        "es_detalle": true,
+        "etiqueta_texto": "LOVESHACKFANCY",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9044.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.16,
+          0.11,
+          0.96,
+          0.85
+        ],
+        "categoria": "chamarra",
+        "color_principal": "negro",
+        "descripcion": "chamarra de piel color negro, lisa, manga larga, cuello con solapa, forro interior negro, vista con botones a presión y bolsillos laterales",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9045.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          0.94
+        ],
+        "categoria": "chamarra",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento del forro interior negro de tela sintetica y borde exterior de piel sintetica con botones de presion metalicos",
+        "es_detalle": true,
+        "etiqueta_texto": "M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9046.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.158,
+          1.0,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris oscuro",
+        "descripcion": "Acercamiento al cuello e interior de chamarra de piel sintética en color gris oscuro/negro, con forro textil interior tono sobre tono y etiqueta de talla M visible",
+        "es_detalle": true,
+        "etiqueta_texto": "M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9047.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.098,
+          0.19,
+          0.952,
+          0.918
+        ],
+        "categoria": "blazer",
+        "color_principal": "crema",
+        "descripcion": "Blazer corto de color crema o blanco hueso con patron de rayas verticales oscuras tipo raya diplomatica, manga larga, cuello con solapa, bolsillos con tapa y botones frontales.",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9048.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.258,
+          1.0,
+          1.0
+        ],
+        "categoria": "blazer",
+        "color_principal": "crema",
+        "descripcion": "Blazer o saco color crema con estampado pinstripe de lineas delgadas oscuras, cuello de solapa, boton claro visible en la parte superior derecha y forro interno claro. Acercamiento a la solapa y etiqueta interna.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9049.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.184,
+          0.068,
+          0.887,
+          0.981
+        ],
+        "categoria": "chamarra",
+        "color_principal": "verde oliva",
+        "descripcion": "Chamarra tipo sobrecamisa de franela gruesa con patron de cuadros grandes en tonos verde oliva, crema y beige, manga larga, cuello de solapa, bolsillos en el pecho y broches de presion metallicos.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9050.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.166,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "verde",
+        "descripcion": "Camisa de franela o chamarra ligera a cuadros en tonos verde oliva, crema y cafe, vista en un acercamiento al cuello y etiqueta, tejido grueso de apariencia suave.",
+        "es_detalle": true,
+        "etiqueta_texto": "FOR THE REPUBLIC",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9051.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.18,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "verde",
+        "descripcion": "Acercamiento a etiqueta de camisa o sobrecamisa pesada a cuadros en color verde, beige y blanco, de tela gruesa de textura suave tipo franela o lana",
+        "es_detalle": true,
+        "etiqueta_texto": "FOR THE REPUBLIC M/M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9052.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.245,
+          0.233,
+          0.849,
+          0.793
+        ],
+        "categoria": "camisa",
+        "color_principal": "rosa",
+        "descripcion": "Camisa tipo sobrecamisa de manga larga de pana de color rosa, con cuello camisero y bolsillo de parche en el pecho.",
+        "es_detalle": false,
+        "etiqueta_texto": "MONKI",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9053.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.187,
+          0.155,
+          0.928,
+          0.838
+        ],
+        "categoria": "camisa",
+        "color_principal": "rosa",
+        "descripcion": "Camisa tipo sobrecamisa de pana en color rosa empolvado, de manga larga, corte holgado, cuello camisero, un bolsillo de parche en el pecho y cierre frontal con botones blancos.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9054.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.31,
+          1.0,
+          1.0
+        ],
+        "categoria": "camisa",
+        "color_principal": "rosa",
+        "descripcion": "camisa de pana color rosa viejo con cuello, etiqueta interior visible y textura acanalada de pana",
+        "es_detalle": true,
+        "etiqueta_texto": "MOMOKROM",
+        "n": 1
+      }
+    ]
+  }
+]
