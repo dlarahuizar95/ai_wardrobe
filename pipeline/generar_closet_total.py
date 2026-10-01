@@ -34,13 +34,13 @@ pagina = r'''<!doctype html>
   .pill { position:absolute; top:10px; left:10px; font-size:12px; padding:3px 8px; border-radius:99px; background:#fff; border:1px solid var(--gris); color:var(--sec) }
   .card.aprobada .pill { background:var(--ok); color:#fff; border-color:var(--ok) }
   .card.cambiada .pill { background:var(--no); color:#fff; border-color:var(--no) }
-  .maniqui { background:#f3f3f3; aspect-ratio:4/5; flex:none; display:flex; align-items:center; justify-content:center; position:relative }
-  .maniqui img { width:100%; height:100%; object-fit:contain }
+  .maniqui { background:#f3f3f3; aspect-ratio:4/5; flex:none; position:relative; overflow:hidden }
+  .maniqui img { position:absolute; inset:0; width:100%; height:100%; object-fit:contain }
   .maniqui .velo { position:absolute; inset:0; background:rgba(255,255,255,.75); display:none; align-items:center; justify-content:center; color:var(--sec); font-size:14px }
   .card.trabajando .velo { display:flex }
   .crops { display:flex; gap:5px; padding:8px 10px 0; overflow-x:auto; height:68px; flex:none; scrollbar-width:none }
   .crops img { height:52px; width:auto; border-radius:4px; border:1px solid var(--gris); display:block }
-  .meta { padding:10px 12px 4px; height:168px; flex:none; overflow:hidden }
+  .meta { padding:10px 12px 0; height:164px; flex:none; overflow:hidden }
   .chips { display:flex; gap:4px; flex-wrap:wrap; margin-bottom:6px; height:22px; overflow:hidden }
   .chip { font-size:11px; padding:2px 7px; border-radius:99px; background:#f3f3f3; color:#333; white-space:nowrap }
   .fila { display:flex; gap:8px; align-items:baseline; margin-bottom:6px; font-size:13px }
