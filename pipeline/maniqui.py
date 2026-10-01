@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Paso 4 - MANIQUI. Una imagen e-commerce por prenda con Gemini (gemini-2.5-flash-image) a partir de hasta 3 crops."""
-import os, io, json, time, datetime
+import os, io, json, time, datetime, sys
 from pathlib import Path
 from PIL import Image
 from google import genai
@@ -42,6 +42,9 @@ def generar(client, prenda):
 def main():
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     prendas = json.load(open("prendas.json", encoding="utf-8"))["prendas"]
+    if "--solo" in sys.argv:                      # python maniqui.py --solo P05
+        solo = sys.argv[sys.argv.index("--solo") + 1]
+        prendas = [p for p in prendas if p["id"] == solo]
     ok = fallo = saltado = 0
     for p in prendas:
         destino = SALIDA / f"{p['id']}.jpg"
