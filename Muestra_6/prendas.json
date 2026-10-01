@@ -1,0 +1,2249 @@
+{
+  "prendas": [
+    {
+      "id": "P01",
+      "categoria": "vestido",
+      "descripcion": "Vestido corto estilo túnica de color azul marino liso, de manga larga con puños fruncidos, cuello alto con abertura lateral y botones decorativos tipo perla, parte posterior con costura central visible.",
+      "marca_talla": "ZARA BASIC",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9157.jpg",
+          "n": 1,
+          "bbox": [
+            0.055,
+            0.105,
+            0.897,
+            0.849
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto estilo túnica de color azul marino liso, de manga larga con puños fruncidos, cuello alto con abertura lateral y botones decorativos tipo perla en el hombro, confeccionado en tela tipo poliéster sin forro visible.",
+          "crop": "crops/P01/IMG_9157_1.jpg"
+        },
+        {
+          "foto": "IMG_9158.jpg",
+          "n": 1,
+          "bbox": [
+            0.116,
+            0.157,
+            0.862,
+            0.806
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa de manga larga lisa color azul marino, con cuello redondo, costura visible en la parte posterior y botones de perla de adorno en los puños.",
+          "crop": "crops/P01/IMG_9158_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Azul marino liso",
+        "estilo": "Vestido corto estilo túnica de corte holgado",
+        "material": "Poliéster fluido de aspecto crepé",
+        "detalles": "Manga larga con puños, cuello asimétrico y botones tipo perla",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P02",
+      "categoria": "vestido",
+      "descripcion": "Vestido corto de manga larga en color verde menta con patrón de pequeños lunares blancos, escote en V cruzado, talle marcado con cinta para amarrar y falda en capas con volantes.",
+      "marca_talla": "",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9159.jpg",
+          "n": 1,
+          "bbox": [
+            0.001,
+            0.224,
+            0.835,
+            0.836
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto de manga larga en color verde menta con patron de pequeños lunares blancos, escote en V cruzado, talle marcado con cinta para amarrar y falda en capas con volantes",
+          "crop": "crops/P02/IMG_9159_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Verde menta con estampado de pequeños lunares blancos",
+        "estilo": "Vestido corto cruzado con falda en capas",
+        "material": "Gasa ligera de poliéster",
+        "detalles": "Manga larga, escote en V, talle ajustado con lazo y falda escalonada con volantes",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P03",
+      "categoria": "vestido",
+      "descripcion": "Vestido corto de tirantes anchos en tono rosa palo, escote en V con detalle de tres botones frontales, confeccionado en tela con textura arrugada de apariencia de algodón o doble gasa, y falda corta con diseño en niveles.",
+      "marca_talla": "PULL&BEAR",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9160.jpg",
+          "n": 1,
+          "bbox": [
+            0.107,
+            0.22,
+            0.845,
+            0.817
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "vestido corto de tirantes anchos en tono rosa palo, escote en V con detalle de tres botones frontales, confeccionado en tela con textura arrugada de apariencia de algodón o doble gasa, y falda corta con diseño en niveles",
+          "crop": "crops/P03/IMG_9160_1.jpg"
+        },
+        {
+          "foto": "IMG_9161.jpg",
+          "n": 1,
+          "bbox": [
+            0.165,
+            0.072,
+            0.835,
+            0.923
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto sin mangas en color rosa pálido o palo de rosa, con cuello redondo, corte evasé y faldón escalonado de niveles en tejido con textura arrugada tipo doble gasa.",
+          "crop": "crops/P03/IMG_9161_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Rosa palo liso",
+        "estilo": "Vestido corto holgado de tirantes anchos y corte en niveles",
+        "material": "Tejido arrugado aparente de algodón o doble gasa",
+        "detalles": "Escote en V con tres botones frontales y falda escalonada",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P04",
+      "categoria": "blusa",
+      "descripcion": "Blusa holgada de manga larga en tono rosa viejo o palo de rosa, textura suave ligeramente satinada, con detalles de olanes decorativos a lo largo de las mangas y cuello redondo cerrado.",
+      "marca_talla": "ZARA",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9162.jpg",
+          "n": 1,
+          "bbox": [
+            0.098,
+            0.158,
+            0.877,
+            0.862
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa holgada color rosa palo/palo de rosa, textura suave satinada, manga larga con olanes decorativos a lo largo de las mangas, cuello redondo cerrado, sin botones ni cierres visibles.",
+          "crop": "crops/P04/IMG_9162_1.jpg"
+        },
+        {
+          "foto": "IMG_9163.jpg",
+          "n": 1,
+          "bbox": [
+            0.062,
+            0.082,
+            0.955,
+            0.838
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa holgada de manga larga en tono rosa viejo o palo de rosa, con tela suave de acabado ligeramente satinado, detalles de olanes o volantes en las mangas y cuello redondo.",
+          "crop": "crops/P04/IMG_9163_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Rosa viejo liso",
+        "estilo": "Blusa holgada de corte recto",
+        "material": "Tela fluida ligeramente satinada",
+        "detalles": "Manga larga con olanes decorativos a los lados y cuello redondo",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P05",
+      "categoria": "vestido",
+      "descripcion": "Vestido corto de tono gris oscuro deslavado/desgastado, escote en V/campesino elástico, mangas abullonadas tres cuartos con elástico en puños, jareta con cordón ajustable en la cintura y falda fluida plisada.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9164.jpg",
+          "n": 1,
+          "bbox": [
+            0.103,
+            0.233,
+            0.839,
+            0.858
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto de tono gris oscuro con acabado desgastado, cuello en V, mangas de largo tres cuartos con puños elásticos, cintura fruncida y falda con pliegues.",
+          "crop": "crops/P05/IMG_9164_1.jpg"
+        },
+        {
+          "foto": "IMG_9165.jpg",
+          "n": 1,
+          "bbox": [
+            0.092,
+            0.248,
+            0.835,
+            0.852
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto de tono gris oscuro deslavado, con escote en V, mangas abullonadas de estilo tres cuartos con puños elásticos, pretina elástica en la cintura y falda plisada de caida fluida.",
+          "crop": "crops/P05/IMG_9165_1.jpg"
+        },
+        {
+          "foto": "IMG_9166.jpg",
+          "n": 1,
+          "bbox": [
+            0.02,
+            0.0,
+            1.0,
+            0.98
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Detalle de parte superior de prenda negra lisa con tela fruncida, cinta de colgar fina y etiqueta de tela visible.",
+          "crop": "crops/P05/IMG_9166_1.jpg"
+        },
+        {
+          "foto": "IMG_9167.jpg",
+          "n": 1,
+          "bbox": [
+            0.14,
+            0.2,
+            0.84,
+            0.78
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto liso de color negro desgastado, escote campesino elástico, mangas tres cuartos abullonadas con elástico en puños, jareta con cordón ajustable en la cintura y tejido ligero aparente de algodón o viscosa.",
+          "crop": "crops/P05/IMG_9167_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Gris oscuro deslavado",
+        "estilo": "Vestido corto acampanado con cintura ajustada",
+        "material": "Tela suave de algodón con acabado mate",
+        "detalles": "Escote en V, mangas tres cuartos abullonadas y elástico con jareta en la cintura",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P06",
+      "categoria": "vestido",
+      "descripcion": "Vestido corto o blusón liso de color negro, corte holgado, manga larga, escote en V posterior/frontal adornado con cuello de encaje floral calado y tela con textura crepé.",
+      "marca_talla": "ZARA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9168.jpg",
+          "n": 1,
+          "bbox": [
+            0.148,
+            0.233,
+            0.869,
+            0.801
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto de color negro, corte holgado, manga larga, cuello redondo adornado con detalles de encaje, tejido liso y fluido.",
+          "crop": "crops/P06/IMG_9168_1.jpg"
+        },
+        {
+          "foto": "IMG_9169.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.07,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Prenda de tejido de punto de color negro con encaje floral calado en el cuello, vista de cerca.",
+          "crop": "crops/P06/IMG_9169_1.jpg"
+        },
+        {
+          "foto": "IMG_9170.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de detalle de blusa o top color negro con borde de encaje floral en el cuello y tela con textura crepé",
+          "crop": "crops/P06/IMG_9170_1.jpg"
+        },
+        {
+          "foto": "IMG_9171.jpg",
+          "n": 1,
+          "bbox": [
+            0.142,
+            0.181,
+            0.878,
+            0.781
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto o blusón liso de manga larga, color negro, con escote en V y detalle de encaje bordado en el posterior del cuello.",
+          "crop": "crops/P06/IMG_9171_1.jpg"
+        },
+        {
+          "foto": "IMG_9172.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de detalle de prenda de color negro, de tela texturizada rugosa con borde de encaje tejido calado y tirante delgado.",
+          "crop": "crops/P06/IMG_9172_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Vestido corto de corte holgado",
+        "material": "Tela con textura crepe y encaje",
+        "detalles": "Manga larga, largo corto y detalle de encaje floral calado en el cuello",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P07",
+      "categoria": "blazer",
+      "descripcion": "Blazer largo cruzado con estampado de pata de gallo en tonos negro y blanco, manga larga, escote en V sin solapa, botones metálicos decorativos en color plateado y forro interior negro.",
+      "marca_talla": "ZARA TRF M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9173.jpg",
+          "n": 1,
+          "bbox": [
+            0.099,
+            0.158,
+            0.919,
+            0.84
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blazer largo cruzado con estampado de pata de gallo en tonos negro y blanco, manga larga, escote en V sin solapa, botones metálicos decorativos en color plateado y forro interior negro.",
+          "crop": "crops/P07/IMG_9173_1.jpg"
+        },
+        {
+          "foto": "IMG_9174.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento al interior de una prenda de color negro con etiqueta cosida y acabado de tela sintetica lisa o forro",
+          "crop": "crops/P07/IMG_9174_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro y blanco con estampado de pata de gallo",
+        "estilo": "Blazer largo cruzado",
+        "material": "Tejido estructurado con forro interior",
+        "detalles": "Manga larga, escote en V sin solapa y botones metálicos plateados",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P08",
+      "categoria": "vestido",
+      "descripcion": "Vestido corto negro sin mangas, confeccionado en tejido de punto acanalado, con solapa de cuello polo y escote en V profundo.",
+      "marca_talla": "ZARA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9175.jpg",
+          "n": 1,
+          "bbox": [
+            0.252,
+            0.117,
+            0.725,
+            0.941
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto negro sin mangas, confeccionado en tejido de punto acanalado, con solapa de cuello y escote en V profundo",
+          "crop": "crops/P08/IMG_9175_1.jpg"
+        },
+        {
+          "foto": "IMG_9176.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento al cuello y etiqueta de un top o sweater de tejido acanalado en color gris oscuro, con costura central y escote profundo.",
+          "crop": "crops/P08/IMG_9176_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Vestido corto de corte evasé",
+        "material": "Tejido de punto acanalado",
+        "detalles": "Sin mangas, cuello polo y escote en V profundo",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P09",
+      "categoria": "vestido",
+      "descripcion": "Vestido de tirantes delgados con estampado de rayas verticales en tonos verde lima, verde oscuro y verde claro, detalles de tirantes anudados en cinta morada multicolor y tejido ligero de aspecto lino/algodón.",
+      "marca_talla": "",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9177.jpg",
+          "n": 1,
+          "bbox": [
+            0.221,
+            0.288,
+            1.0,
+            0.852
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "top tipo halter de tirantes delgados con patron de rayas en tonos verde, lima y turquesa, detalles de cinta morada con nudos en el escote, tejido de aspecto ligero",
+          "crop": "crops/P09/IMG_9177_1.jpg"
+        },
+        {
+          "foto": "IMG_9178.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.138,
+            0.823,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido de tirantes de corte recto con estampado de rayas horizontales en tonalidades de verde (verde lima, verde oscuro y verde claro), tirantes delgados anudados con patrón morado multicolor, hecho de tejido aparente de lino o algodón.",
+          "crop": "crops/P09/IMG_9178_1.jpg"
+        },
+        {
+          "foto": "IMG_9179.jpg",
+          "n": 1,
+          "bbox": [
+            0.328,
+            0.138,
+            0.702,
+            0.797
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto o top de tirantes delgados ajustables con nudo en morado y crema, diseño de franjas horizontales en tonos verde menta, verde limón y verde césped, de tejido liviano",
+          "crop": "crops/P09/IMG_9179_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Rayas verticales en tonos verde lima, verde oscuro y azul menta",
+        "estilo": "Vestido holgado de tirantes",
+        "material": "Tejido ligero con apariencia de lino",
+        "detalles": "Tirantes anudados con cinta morada teñida y escote drapeado",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P10",
+      "categoria": "vestido",
+      "descripcion": "Vestido corto plisado sin mangas de tono crema/blanco hueso con estampado floral en tonos rosa y marrón, cuello alto redondo con detalle de olanes/encaje calado.",
+      "marca_talla": "",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9180.jpg",
+          "n": 1,
+          "bbox": [
+            0.129,
+            0.228,
+            0.85,
+            0.778
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa plisada sin mangas de tono crema con estampado floral de color rosa y cafe, cuello redondo con adorno de encaje calado, confeccionada en tejido fluido tipo gasa.",
+          "crop": "crops/P10/IMG_9180_1.jpg"
+        },
+        {
+          "foto": "IMG_9181.jpg",
+          "n": 1,
+          "bbox": [
+            0.177,
+            0.134,
+            0.733,
+            0.915
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto plisado sin mangas de color blanco hueso con estampado floral en tonos rosa y marron, cuello alto redondo con detalle de olanes y forro interno aparente",
+          "crop": "crops/P10/IMG_9181_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco hueso con estampado floral en tonos rosa y marrón",
+        "estilo": "Vestido corto plisado sin mangas de corte A",
+        "material": "Chifón de poliéster ligero plisado",
+        "detalles": "Cuello alto redondo con encaje calado en el borde y sin mangas",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P11",
+      "categoria": "vestido",
+      "descripcion": "Vestido corto o túnica de manga larga en color negro, con cuello redondo y panel frontal y bajo plisado de gasa con estampado abstracto/rayas en blanco y negro.",
+      "marca_talla": "",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9182.jpg",
+          "n": 1,
+          "bbox": [
+            0.043,
+            0.198,
+            0.912,
+            0.832
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido o túnica de manga larga en color negro, con panel frontal plisado de gasa con estampado abstracto en tonos blanco, gris y negro, cuello redondo.",
+          "crop": "crops/P11/IMG_9182_1.jpg"
+        },
+        {
+          "foto": "IMG_9183.jpg",
+          "n": 1,
+          "bbox": [
+            0.265,
+            0.138,
+            0.797,
+            0.896
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto o blusa larga de color negro con manga larga, cuello redondo y un bajo con capa inferior estampada en blanco y negro.",
+          "crop": "crops/P11/IMG_9183_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro con estampado abstracto plisado en blanco y negro",
+        "estilo": "Vestido corto o túnica de corte recto",
+        "material": "Tela sintética elástica con panel superpuesto de gasa o chifón",
+        "detalles": "Manga larga, cuello redondo y capa frontal plisada con bajo asimétrico",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P12",
+      "categoria": "pantalon",
+      "descripcion": "Pantalón amplio estilo culotte de color negro, de tela ligera y fluida con pliegues en la parte superior y pretina elástica.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9184.jpg",
+          "n": 1,
+          "bbox": [
+            0.178,
+            0.034,
+            0.767,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón amplio estilo culotte de color negro, de tela ligera y fluida con pliegues en la parte superior y pretina elastizada.",
+          "crop": "crops/P12/IMG_9184_1.jpg"
+        },
+        {
+          "foto": "IMG_9185.jpg",
+          "n": 1,
+          "bbox": [
+            0.19,
+            0.04,
+            0.79,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalon holgado tipo culotte de color negro, de tela ligera y fluida con pretina elastica posterior y pliegues",
+          "crop": "crops/P12/IMG_9185_1.jpg"
+        },
+        {
+          "foto": "IMG_9186.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.666,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina interior de una prenda lisa de tela oscura con etiqueta cosida y cordón",
+          "crop": "crops/P12/IMG_9186_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Pantalón amplio estilo culotte",
+        "material": "Tela ligera y fluida",
+        "detalles": "Pliegues en la parte superior y pretina ajuste cómodo",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P13",
+      "categoria": "falda",
+      "descripcion": "Falda plisada de color negro, de largo midi, con pretina elástica en la cintura, confeccionada en tejido ligero y vaporoso.",
+      "marca_talla": "MADE IN CHINA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9187.jpg",
+          "n": 1,
+          "bbox": [
+            0.157,
+            0.272,
+            0.813,
+            0.837
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "falda plisada de color negro, de largo midi, con pretina elástica y tela ligera aparente",
+          "crop": "crops/P13/IMG_9187_1.jpg"
+        },
+        {
+          "foto": "IMG_9188.jpg",
+          "n": 1,
+          "bbox": [
+            0.113,
+            0.237,
+            0.845,
+            0.865
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Falda plisada de color negro con pretina elástica en la cintura, confeccionada en tejido ligero y vaporoso.",
+          "crop": "crops/P13/IMG_9188_1.jpg"
+        },
+        {
+          "foto": "IMG_9189.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.76,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "azul marino, liso, pretina elástica con pliegues fruncidos, detalle de etiqueta interna visible held by hand",
+          "crop": "crops/P13/IMG_9189_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro",
+        "estilo": "Falda plisada de largo midi",
+        "material": "Tejido ligero y vaporoso",
+        "detalles": "Pretina elástica en la cintura y pliegues verticales",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P14",
+      "categoria": "vestido",
+      "descripcion": "Vestido corto plisado de gasa en color taupe/grisáceo, sin mangas, con escote en V y pechera fruncida con textura satinada/aterciopelada y falda fluida con forro interior.",
+      "marca_talla": "ZARA BASIC M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9190.jpg",
+          "n": 1,
+          "bbox": [
+            0.075,
+            0.261,
+            0.912,
+            0.787
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Vestido corto plisado de gasa en color taupe/grisáceo, sin mangas, con escote en V y detalle pechera fruncida con textura satinada, falda fluida con forro interior.",
+          "crop": "crops/P14/IMG_9190_1.jpg"
+        },
+        {
+          "foto": "IMG_9191.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de detalle de blusa o top color malva/púrpura satinado con detalles de franjas aterciopeladas en el cuello y cuello interior suave con textura fina.",
+          "crop": "crops/P14/IMG_9191_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Gris taupe unicolor",
+        "estilo": "Vestido corto de corte imperio y falda fluida",
+        "material": "Gasa de chifón con pechera de satén aparente",
+        "detalles": "Sin mangas, pechera fruncida con textura satinada y faldón plisado",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P15",
+      "categoria": "top",
+      "descripcion": "Top halter de tejido de punto fino en tono beige claro melange, largo medio, estilo acanalado sin mangas.",
+      "marca_talla": "",
+      "posible_duplicado_de": "P16",
+      "dudas": "Similar corte halter que la prenda 16 pero en tono beige melange en lugar de gris plateado hilado metálico.",
+      "apariciones": [
+        {
+          "foto": "IMG_9192.jpg",
+          "n": 1,
+          "bbox": [
+            0.296,
+            0.122,
+            0.547,
+            0.86
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "top halter de punto fino en tono beige claro melange, largo medio, estilo tejido acanalado sin mangas",
+          "crop": "crops/P15/IMG_9192_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Beige claro melange",
+        "estilo": "Top halter de corte fluido",
+        "material": "Tejido de punto fino",
+        "detalles": "Cuello halter, sin mangas y largo medio",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P16",
+      "categoria": "top",
+      "descripcion": "Top estilo halter de tejido de punto fino color gris plateado con destellos brillantes de hilo metalizado, de corte ajustado sin mangas.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "P15",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9193.jpg",
+          "n": 1,
+          "bbox": [
+            0.273,
+            0.033,
+            0.724,
+            0.998
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top tipo halter de tejido de punto fino color gris plateado con destellos brillantes de hilo metalizado, de corte ajustado, sin mangas y cuello halter",
+          "crop": "crops/P16/IMG_9193_1.jpg"
+        },
+        {
+          "foto": "IMG_9194.jpg",
+          "n": 1,
+          "bbox": [
+            0.265,
+            0.024,
+            0.708,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top de tejido de punto fino gris con acabado hilado metalizado plateado, escote profundo tipo halter con tirantes anchos, sin mangas y corte holgado.",
+          "crop": "crops/P16/IMG_9194_1.jpg"
+        },
+        {
+          "foto": "IMG_9195.jpg",
+          "n": 1,
+          "bbox": [
+            0.23,
+            0.0,
+            1.0,
+            0.96
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a etiqueta interna en una prenda de tejido de punto calado en tono gris claro brillante con hilos metalicos plateados",
+          "crop": "crops/P16/IMG_9195_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Gris plateado con destellos brillantes",
+        "estilo": "Top estilo halter de corte ajustado",
+        "material": "Tejido de punto fino con hilo metalizado",
+        "detalles": "Escote en V profundo, cuello halter y sin mangas",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P17",
+      "categoria": "abrigo",
+      "descripcion": "Abrigo largo de color café con forro interior a cuadros en tonos blanco, negro y beige, manga larga con puños doblados, cuello camisero tradicional y cierre frontal con botones oscuros.",
+      "marca_talla": "Andy & Lucy Paris M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9196.jpg",
+          "n": 1,
+          "bbox": [
+            0.01,
+            0.197,
+            0.914,
+            0.865
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Abrigo largo de color café con forro interior a cuadros en tonos blanco, negro y beige, manga larga con puños doblados mostrando el patrón a cuadros, cuello camisero tradicional, cierre frontal con botones oscuros y bolsillos diagonales.",
+          "crop": "crops/P17/IMG_9196_1.jpg"
+        },
+        {
+          "foto": "IMG_9197.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.83,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista interior de chamarra de color café con forro estampado de cuadros en tonos blanco, gris y beige, etiqueta visible con texto.",
+          "crop": "crops/P17/IMG_9197_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Café con forro interior a cuadros en blanco, negro y beige",
+        "estilo": "Abrigo largo de corte recto",
+        "material": "Gabardina o mezcla de algodón aparente",
+        "detalles": "Cuello camisero, manga larga con puños doblados, bolsillos y botones frontales",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P18",
+      "categoria": "top",
+      "descripcion": "Top plisado de manga corta en tono beige nude, con cuello en V, detalle elástico abullonado con olanes en la cintura y cierre metálico largo.",
+      "marca_talla": "ZARA",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9198.jpg",
+          "n": 1,
+          "bbox": [
+            0.129,
+            0.179,
+            0.902,
+            0.906
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top plisado de manga corta en tono beige nude, con cuello en V, detalle elástico abullonado con olanes en la cintura y cierre metálico largo.",
+          "crop": "crops/P18/IMG_9198_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Beige nude liso",
+        "estilo": "Top corto plisado con ajuste entallado en la cintura",
+        "material": "Terciopelo plisado aparente",
+        "detalles": "Cuello en V, manga corta, cierre metálico frontal y elástico con olanes",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P19",
+      "categoria": "camisa",
+      "descripcion": "Camisa de mezclilla azul con mangas largas, botones metálicos dorados en el frente, detalles de olanes en los hombros y pecho, y pespunte en hilo contraste.",
+      "marca_talla": "ZARA XS",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9199.jpg",
+          "n": 1,
+          "bbox": [
+            0.12,
+            0.112,
+            0.84,
+            0.935
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Camisa de mezclilla azul con mangas largas, botones dorados en el frente, detalles de olanes en los hombros y pecho, y cuello con acabado sencillo.",
+          "crop": "crops/P19/IMG_9199_1.jpg"
+        },
+        {
+          "foto": "IMG_9200.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento de prenda de mezclilla azul con cuello, pespunte en hilo dorado en contraste, botones metálicos dorados e interior con etiqueta negra de la marca ZARA.",
+          "crop": "crops/P19/IMG_9200_1.jpg"
+        },
+        {
+          "foto": "IMG_9201.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento del cuello y la parte superior de una prenda de mezclilla azul medio con botones metálicos dorados de diseño orgánico, costuras contrastantes en hilo amarillo y etiqueta interna negra.",
+          "crop": "crops/P19/IMG_9201_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Azul de mezclilla",
+        "estilo": "Camisa de corte recto",
+        "material": "Mezclilla de algodón",
+        "detalles": "Manga larga, botones metálicos dorados y olanes en el pecho",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P20",
+      "categoria": "top",
+      "descripcion": "Top corto de tirantes anchos en color verde lima, escote recto, confeccionado en tejido ligero aparente de lino con pretina elástica.",
+      "marca_talla": "PRIMARK 42 / 10",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9203.jpg",
+          "n": 1,
+          "bbox": [
+            0.228,
+            0.0,
+            0.823,
+            0.957
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top corto de tirantes anchos en color verde lima, cuello/escote recto, sin mangas, confeccionado en tejido plano ligero sin estampados.",
+          "crop": "crops/P20/IMG_9203_1.jpg"
+        },
+        {
+          "foto": "IMG_9204.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.894,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de cerca de prenda de tela ligera tipo lino color verde oliva con pretina elástica y etiqueta interna",
+          "crop": "crops/P20/IMG_9204_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Verde lima",
+        "estilo": "Top corto de tirantes anchos",
+        "material": "Tejido ligero aparente de lino",
+        "detalles": "Escote recto, sin mangas y tirantes elásticos",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P21",
+      "categoria": "top",
+      "descripcion": "Top de tirantes delgados con argollas decorativas en la base, escote sutil, corte recto en tejido sarga diagonal tono rosa terracota deslavado.",
+      "marca_talla": "TOPSHOP 42 / 10",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9205.jpg",
+          "n": 1,
+          "bbox": [
+            0.125,
+            0.103,
+            0.824,
+            0.95
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top de tirantes delgados con hebillas/aros decorativos en la base, escote sutil, corte recto, tela lisa de tono rosa terracota deslavado",
+          "crop": "crops/P21/IMG_9205_1.jpg"
+        },
+        {
+          "foto": "IMG_9206.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a prenda en tejido sarga diagonal de color terracota con forro tono naranja, etiqueta interna de tela de la marca TOPSHOP y detalle de argolla sintética estilo carey en el borde inferior izquierdo.",
+          "crop": "crops/P21/IMG_9206_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Rosa terracota deslavado",
+        "estilo": "Top de tirantes de corte recto",
+        "material": "Tejido de sarga diagonal",
+        "detalles": "Tirantes delgados con argollas decorativas y escote sutil en V",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P22",
+      "categoria": "top",
+      "descripcion": "Top sin mangas de color crema o beige claro, corte holgado, cuello redondo, confeccionado en tejido de lino o algodón.",
+      "marca_talla": "CUIDADO CON EL PERRO CH",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9207.jpg",
+          "n": 1,
+          "bbox": [
+            0.11,
+            0.09,
+            0.81,
+            0.95
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "top sin mangas de color crema o beige claro, corte holgado, cuello redondo, confeccionado en tejido natural tipo lino",
+          "crop": "crops/P22/IMG_9207_1.jpg"
+        },
+        {
+          "foto": "IMG_9208.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento al cuello y etiqueta de prenda de tela tejida de lino o algodón en color beige crema",
+          "crop": "crops/P22/IMG_9208_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco hueso liso",
+        "estilo": "Blusa sin mangas de corte recto y holgado",
+        "material": "Tejido aparente de lino o algodón",
+        "detalles": "Cuello redondo, sin mangas y ligera abertura posterior en el cuello",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P23",
+      "categoria": "sweater",
+      "descripcion": "Chaleco/sweater de tejido de punto blanco crema sin mangas, cuello redondo acanalado, pretina y sisas acanaladas con diseño central de naranjas y hojas verdes en punto jacquard.",
+      "marca_talla": "Jessica Simpson M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9209.jpg",
+          "n": 1,
+          "bbox": [
+            0.183,
+            0.158,
+            0.793,
+            0.822
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "chaleco de tejido de punto blanco crema sin mangas, cuello redondo acanalado, pretina y sisas acanaladas, con diseño central de naranjas y hojas verdes en punto jacquard",
+          "crop": "crops/P23/IMG_9209_1.jpg"
+        },
+        {
+          "foto": "IMG_9210.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento al cuello acanalado de un sweater tejido de punto grueso color blanco crema con etiqueta cosida en el interior.",
+          "crop": "crops/P23/IMG_9210_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco crema con diseño de naranjas y hojas verdes",
+        "estilo": "Chaleco tejido sin mangas, corte recto",
+        "material": "Tejido de punto",
+        "detalles": "Cuello redondo acanalado, pretina y sisas acanaladas",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P24",
+      "categoria": "blusa",
+      "descripcion": "Blusa lisa color crema de manga larga con puños, escote cuadrado adornado con pliegues, olanes fruncidos y resorte nido de abeja en la cintura.",
+      "marca_talla": "MNG S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9211.jpg",
+          "n": 1,
+          "bbox": [
+            0.077,
+            0.188,
+            0.907,
+            0.806
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa lisa color crema de manga larga con puños, escote cuadrado adornado con pliegues y holanes fruncidos en la parte frontal del torso, confeccionada en tejido ligero de algodón.",
+          "crop": "crops/P24/IMG_9211_1.jpg"
+        },
+        {
+          "foto": "IMG_9212.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.16,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento al cuello y etiqueta interna de una prenda ligera de tela lisa color crema o blanco hueso, colgada en un gancho negro.",
+          "crop": "crops/P24/IMG_9212_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Crema liso",
+        "estilo": "Blusa romántica de escote cuadrado",
+        "material": "Algodón aparente",
+        "detalles": "Manga larga abullonada con puños, escote con olán y cintura fruncida nido de abeja",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P25",
+      "categoria": "blusa",
+      "descripcion": "Blusa semitransparente de tul de manga larga con estampado/bordado de margaritas blancas con centro amarillo, cuello camisero y botones frontales.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9213.jpg",
+          "n": 1,
+          "bbox": [
+            0.116,
+            0.128,
+            0.904,
+            0.796
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "blusa semitransparente de tul de manga larga con estampado o bordado de margaritas blancas con centro amarillo, cuello Camisero y botones frontales",
+          "crop": "crops/P25/IMG_9213_1.jpg"
+        },
+        {
+          "foto": "IMG_9214.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.95,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a blusa o top semitransparente con estampado/bordado de margaritas blancas con centros amarillos, tela tipo malla u organza y etiqueta en el cuello",
+          "crop": "crops/P25/IMG_9214_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco semitransparente con estampado de margaritas blancas y amarillas",
+        "estilo": "Blusa holgada de estilo romántico",
+        "material": "Tul semitransparente",
+        "detalles": "Manga larga abullonada, cuello alto con olanes y botones frontales",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P26",
+      "categoria": "top",
+      "descripcion": "Bodysuit acanalado de manga larga en color café/marrón, corte entallado, cuello redondo y cierre con broches.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9215.jpg",
+          "n": 1,
+          "bbox": [
+            0.12,
+            0.198,
+            0.788,
+            0.88
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Bodysuit acanalado de manga larga en color café, corte entallado, cuello redondo y cierre con broches a presión en la entrepierna.",
+          "crop": "crops/P26/IMG_9215_1.jpg"
+        },
+        {
+          "foto": "IMG_9216.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.694,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista en detalle del cuello redondo de un top acanalado de tela de tejido de punto en tono marrón o rosa terracota, con etiqueta interior visible.",
+          "crop": "crops/P26/IMG_9216_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Marrón liso",
+        "estilo": "Bodysuit entallado de manga larga",
+        "material": "Tejido de punto acanalado",
+        "detalles": "Manga larga, cuello redondo y cierre con broches en la entrepierna",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P27",
+      "categoria": "sweater",
+      "descripcion": "Suéter de tejido fino metalizado brillante en tono gris plateado, manga larga, cuello redondo acanalado y detalle de olán en el dobladillo.",
+      "marca_talla": "ZARA KNIT S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9217.jpg",
+          "n": 1,
+          "bbox": [
+            0.059,
+            0.098,
+            0.902,
+            0.884
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "sweater de tejido fino metalizado brillante en tono gris plateado, de manga larga, cuello redondo acanalado y detalle de olanes en el dobladillo",
+          "crop": "crops/P27/IMG_9217_1.jpg"
+        },
+        {
+          "foto": "IMG_9218.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento al cuello de un sweater de tejido de punto negro con hilos brillantes metalizados en tono plateado y etiqueta interior visible.",
+          "crop": "crops/P27/IMG_9218_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Gris plateado con acabado metalizado brillante",
+        "estilo": "Suéter de corte recto",
+        "material": "Tejido de punto fino metalizado",
+        "detalles": "Manga larga, cuello redondo acanalado y dobladillo con olán",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P28",
+      "categoria": "blusa",
+      "descripcion": "Blusa asimétrica de una sola manga larga con estampado de rayas en blanco y negro, con detalles de olanes y tirantes finos.",
+      "marca_talla": "CQ by CQ S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9219.jpg",
+          "n": 1,
+          "bbox": [
+            0.082,
+            0.26,
+            0.887,
+            0.908
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa o top asimétrico de una sola manga larga con estampado de rayas verticales y horizontales en blanco y negro, con diseño estructurado y tirantes finos",
+          "crop": "crops/P28/IMG_9219_1.jpg"
+        },
+        {
+          "foto": "IMG_9220.jpg",
+          "n": 1,
+          "bbox": [
+            0.116,
+            0.173,
+            0.782,
+            0.919
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top o blusa ligera a rayas horizontales y diagonales en color negro y blanco, con detalles de olanes, sin mangas de un lado y holgada.",
+          "crop": "crops/P28/IMG_9220_1.jpg"
+        },
+        {
+          "foto": "IMG_9221.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a prenda con patrón de rayas en blanco y negro, tela ligera suave, mostrando la etiqueta interior de marca y talla.",
+          "crop": "crops/P28/IMG_9221_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco y negro con estampado de rayas",
+        "estilo": "Blusa asimétrica de un solo hombro y corte corto",
+        "material": "Poliéster ligero con textura suave",
+        "detalles": "Manga larga abullonada con puño elástico, escote asimétrico, tirante fino y lazo en el hombro",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P29",
+      "categoria": "top",
+      "descripcion": "Top de tejido acanalado color negro, manga larga con leve abullonado en los hombros y cuello medio alzado.",
+      "marca_talla": "George. CH",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9222.jpg",
+          "n": 1,
+          "bbox": [
+            0.152,
+            0.162,
+            0.845,
+            0.902
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "top de tejidode canalé acanalado color negro, manga larga con leve abullonado en los hombros y cuello medio alzado",
+          "crop": "crops/P29/IMG_9222_1.jpg"
+        },
+        {
+          "foto": "IMG_9223.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.962,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento al cuello de un top acanalado de color negro con textura tejida en canale y etiqueta interior visible",
+          "crop": "crops/P29/IMG_9223_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Top de manga larga y corte ajustado",
+        "material": "Tejido acanalado",
+        "detalles": "Manga larga con abullonado en los hombros y cuello medio alzado",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P30",
+      "categoria": "top",
+      "descripcion": "Chaleco/vest sin mangas de color rojo brillante, confeccionado en tela de lana/paño con forro interior rojo satinado, escote en V, cierre frontal con botones forrados y bolsillos de ribete.",
+      "marca_talla": "",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9224.jpg",
+          "n": 1,
+          "bbox": [
+            0.102,
+            0.127,
+            0.894,
+            0.887
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Chaleco o vest sin mangas de color rojo brillante, confeccionado en tela de lana/paño con forro interior rojo satinado, escote en V, cierre frontal con botones forrados de tela y bolsillos ribeteados.",
+          "crop": "crops/P30/IMG_9224_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Rojo brillante",
+        "estilo": "Chaleco sin mangas de corte recto",
+        "material": "Paño de lana con forro satinado",
+        "detalles": "Escote en V, cierre frontal con botones forrados y bolsillos de ribete",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P31",
+      "categoria": "top",
+      "descripcion": "Body acanalado sin mangas en color verde menta, corte ajustado con tirantes anchos, escote recto y tejido elástico de canalé.",
+      "marca_talla": "QQQ M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9225.jpg",
+          "n": 1,
+          "bbox": [
+            0.018,
+            0.27,
+            0.912,
+            0.758
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Body acanalado sin mangas en color verde menta, de corte ajustado, con tirantes anchos, escote recto y tejido elástico de punto de canalé.",
+          "crop": "crops/P31/IMG_9225_1.jpg"
+        },
+        {
+          "foto": "IMG_9226.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Top acanalado de color verde menta claro, sin mangas, tejido elástico acanalado con etiqueta impresa en el interior",
+          "crop": "crops/P31/IMG_9226_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Verde menta liso",
+        "estilo": "Body de corte ajustado",
+        "material": "Tejido elástico de canalé",
+        "detalles": "Sin mangas, tirantes anchos y escote recto",
+        "composicion": "Poliamida 80% / Elastano 20%",
+        "composicion_etiqueta": "90% nylon 10% spandex"
+      }
+    },
+    {
+      "id": "P32",
+      "categoria": "sweater",
+      "descripcion": "Suéter tejido de punto fino color azul con patrón de rombos estilo argyle en blanco, azul menta y azul rey, cuello en V y manga larga.",
+      "marca_talla": "TOMMY HILFIGER XS",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9227.jpg",
+          "n": 1,
+          "bbox": [
+            0.098,
+            0.088,
+            0.835,
+            0.89
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Sweater tejido de punto fino color azul con patron de rombos estilo argyle en blanco, azul menta y azul rey, cuello en V y manga larga",
+          "crop": "crops/P32/IMG_9227_1.jpg"
+        },
+        {
+          "foto": "IMG_9228.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.767,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a cuello en V de sweater tejido de punto con patrón argyle (rombos) en tonos azul, azul claro y blanco, confeccionado en algodón",
+          "crop": "crops/P32/IMG_9228_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Azul rey con patrón de rombos estilo argyle en blanco y azul menta",
+        "estilo": "Suéter tejido de punto estilo argyle",
+        "material": "Tejido de punto fino de algodón Pima",
+        "detalles": "Manga larga, cuello en V y bordes acanalados",
+        "composicion": "Algodón 100%",
+        "composicion_etiqueta": "100% Pima Cotton 100% Coton Pima"
+      }
+    },
+    {
+      "id": "P33",
+      "categoria": "sweater",
+      "descripcion": "Suéter tejido de punto de manga corta con patrón microtexturizado bicolor negro y beige, cuello redondo, botones decorativos en el hombro y pretina acanalada a rayas.",
+      "marca_talla": "",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9229.jpg",
+          "n": 1,
+          "bbox": [
+            0.158,
+            0.105,
+            0.775,
+            0.863
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "suéter tejido de punto de manga corta, patrón texturizado bicolor negro y beige, cuello redondo ajustado y pretina acanalada con diseño a rayas en el dobladillo",
+          "crop": "crops/P33/IMG_9229_1.jpg"
+        },
+        {
+          "foto": "IMG_9230.jpg",
+          "n": 1,
+          "bbox": [
+            0.108,
+            0.068,
+            0.845,
+            0.952
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Sweater o top tejido de manga corta con patrón micro-texturizado en color negro y beige, pretina elástica acanalada a rayas en la cintura y cierre de botones en el hombro.",
+          "crop": "crops/P33/IMG_9230_1.jpg"
+        },
+        {
+          "foto": "IMG_9231.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.71,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Sweater de tejido de punto acanalado con patron jacquard repetitivo en tonos negro, beige y blanco, cuello redondo y detalle de botones negros en el hombro.",
+          "crop": "crops/P33/IMG_9231_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro y beige con patrón microtexturizado y pretina a rayas",
+        "estilo": "Suéter de tejido de punto de corte recto",
+        "material": "Tejido de punto",
+        "detalles": "Manga corta, cuello redondo acanalado y pretina inferior a rayas",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P34",
+      "categoria": "sweater",
+      "descripcion": "Suéter tejido de punto azul marino con patrones geométricos en beige y crema, cuello acanalado.",
+      "marca_talla": "GAP S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9232.jpg",
+          "n": 1,
+          "bbox": [
+            0.219,
+            0.395,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a cuello y etiqueta de suéter tejido de punto azul marino con patrones geométricos en beige y crema",
+          "crop": "crops/P34/IMG_9232_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Azul marino con patrones geométricos en beige y crema",
+        "estilo": "Suéter tejido de punto",
+        "material": "Tejido de punto elástico",
+        "detalles": "Cuello acanalado y diseño geométrico",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P35",
+      "categoria": "sweater",
+      "descripcion": "Suéter de manga larga en color gris jaspeado, textura suave estilo deportivo, cuello redondo, puños anchos y patrón liso.",
+      "marca_talla": "OFFLINE By Aerie M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9233.jpg",
+          "n": 1,
+          "bbox": [
+            0.08,
+            0.09,
+            0.89,
+            0.94
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Sweater de manga larga en color gris jaspeado, textura suave estilo deportivo, cuello redondo, punos anchos ajustados y patron liso",
+          "crop": "crops/P35/IMG_9233_1.jpg"
+        },
+        {
+          "foto": "IMG_9234.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.88,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Top o playera de cuello redondo color gris jaspeado, tejido suave de algodon o mezcla sintetica con etiqueta impresa en el interior del cuello",
+          "crop": "crops/P35/IMG_9234_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Gris jaspeado",
+        "estilo": "Suéter deportivo de manga larga y corte holgado",
+        "material": "Tejido de punto suave y elástico",
+        "detalles": "Manga larga raglán, cuello redondo, puños anchos y detalle fruncido lateral en el dobladillo",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P36",
+      "categoria": "blusa",
+      "descripcion": "Blusa sin mangas color amarillo mostaza, cuello alto con detalle corrugado/nido de abeja y pretina elastizada corrugada.",
+      "marca_talla": "BCBGENERATION",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9235.jpg",
+          "n": 1,
+          "bbox": [
+            0.148,
+            0.108,
+            0.845,
+            0.828
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa sin mangas color amarillo, cuello alto con detalle corrugado/nido de abeja y pretina elastizada corrugada.",
+          "crop": "crops/P36/IMG_9235_1.jpg"
+        },
+        {
+          "foto": "IMG_9236.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Blusa de color amarillo mostaza con cuello fruncido elástico en tejido plisado y bordes con holanes, vista cercana de la parte posterior del cuello",
+          "crop": "crops/P36/IMG_9236_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Amarillo mostaza liso",
+        "estilo": "Blusa sin mangas de corte holgado",
+        "material": "Tela ligera fluida tipo crepé",
+        "detalles": "Cuello alto fruncido tipo nido de abeja, sin mangas y pretina elástica corrugada",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P37",
+      "categoria": "top",
+      "descripcion": "Top de tejido de punto calado color blanco hueso, manga corta, cuello redondo con detalle de cordón cruzado en el escote.",
+      "marca_talla": "LOFT",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9237.jpg",
+          "n": 1,
+          "bbox": [
+            0.01,
+            0.07,
+            0.818,
+            0.98
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top tejido de punto calado color blanco hueso, de manga corta, cuello redondo, con detalle de cordón cruzado al frente",
+          "crop": "crops/P37/IMG_9237_1.jpg"
+        },
+        {
+          "foto": "IMG_9238.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.97,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a un sweater de tejido de punto calado de color crema o blanco hueso, con etiqueta interior visible.",
+          "crop": "crops/P37/IMG_9238_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Blanco hueso",
+        "estilo": "Top corto de tejido de punto",
+        "material": "Tejido de punto calado",
+        "detalles": "Manga corta, cuello redondo y detalle de cordón cruzado al frente",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P38",
+      "categoria": "camisa",
+      "descripcion": "Chamarra/camisa ligera de manga larga color beige lino, con cuello de solapa, detalles de olanes en el cuerpo, puños elásticos y ajuste al frente con cintas para amarrar.",
+      "marca_talla": "RUFINA",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9239.jpg",
+          "n": 1,
+          "bbox": [
+            0.133,
+            0.171,
+            0.835,
+            0.898
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Chamarra ligera de estilo blusa de manga larga, color beige liso, material aparente de lino o algodón, con cuello de solapa, detalles de olanes en el cuerpo y puños elásticos, se ajusta al frente con cintas para amarrar",
+          "crop": "crops/P38/IMG_9239_1.jpg"
+        },
+        {
+          "foto": "IMG_9240.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.712,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa o top de tela ligera apariencia lino color beige, lisa, con cuello solapa, detalle de nudo al frente y etiqueta interna visible",
+          "crop": "crops/P38/IMG_9240_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Beige liso",
+        "estilo": "Blusa ligera tipo chaqueta de corte holgado",
+        "material": "Tejido ligero de apariencia lino",
+        "detalles": "Manga larga con puños elásticos, cuello con solapa, amarrado frontal con cintas y olanes en el cuerpo",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P39",
+      "categoria": "top",
+      "descripcion": "Top estilo chaleco sin mangas, color gris con patrón de rayas verticales delgadas blancas, escote en V profundo, botones al frente y forro interior azul marino.",
+      "marca_talla": "ODA",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9241.jpg",
+          "n": 1,
+          "bbox": [
+            0.215,
+            0.198,
+            0.756,
+            0.923
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top estilo chaleco sin mangas, color gris con patron de rayas verticales delgadas en color blanco, escote en V profundo, botones al frente y forro interior liso azul marino.",
+          "crop": "crops/P39/IMG_9241_1.jpg"
+        },
+        {
+          "foto": "IMG_9242.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.22,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la parte superior de chaleco o top sin mangas, color gris con estampado de rayas verticales blancas finas, cuello en V profundo con forro interno textil gris oscuro y etiqueta rectangular clara en el escote",
+          "crop": "crops/P39/IMG_9242_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Gris con rayas verticales blancas y forro interior azul marino",
+        "estilo": "Chaleco sin mangas con escote en V profundo",
+        "material": "Lino aparente con forro sintético",
+        "detalles": "Cierre de botones al frente, bolsillos aplicados y dobladillo abombado",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P40",
+      "categoria": "sweater",
+      "descripcion": "Chaleco tejido sin mangas de color naranja intenso con estampado gráfico multicolor, cuello en V y acabados acanalados en color negro.",
+      "marca_talla": "Desigual MAITREPIERRE",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9243.jpg",
+          "n": 1,
+          "bbox": [
+            0.177,
+            0.232,
+            0.743,
+            0.838
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "chaleco tejido sin mangas de color naranja intenso con estampado gráfico multicolor, cuello en V y acabados acanalados en color negro en cuello, sisas y pretina",
+          "crop": "crops/P40/IMG_9243_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Naranja con estampado gráfico multicolor y contraste negro",
+        "estilo": "Chaleco tejido sin mangas de corte recto",
+        "material": "Tejido de punto afelpado aparente",
+        "detalles": "Cuello en V, sin mangas y acabados acanalados",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P41",
+      "categoria": "top",
+      "descripcion": "Chaleco sin mangas con estampado de rayas verticales/horizontales en tonos rosa, amarillo, gris y blanco, escote en V, abotonadura frontal y forro claro.",
+      "marca_talla": "gimaguas",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9244.jpg",
+          "n": 1,
+          "bbox": [
+            0.148,
+            0.26,
+            0.748,
+            0.787
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Chaleco sin mangas de rayas horizontales/verticales en tonos rosa, amarillo, gris y blanco, escote en V profundo, abotonadura frontal con botones claros, forro interior claro y etiqueta visible de tela",
+          "crop": "crops/P41/IMG_9244_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Multicolor con estampado de rayas verticales en rosa, amarillo, gris y blanco",
+        "estilo": "Chaleco corto sin mangas",
+        "material": "Tejido de lino o algodón rugoso con forro claro",
+        "detalles": "Escote en V, cierre frontal de botones y bolsillos de ribete",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P42",
+      "categoria": "top",
+      "descripcion": "Top verde oliva de diseño holgado/ampón, textura de gamuza ligera, sin mangas con escote y borde inferior fruncido con elástico.",
+      "marca_talla": "ZARA",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9245.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.91,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Prenda ligera de color verde oliva con detalle elástico fruncido y etiqueta interna de color oscuro, vista borrosa y de cerca.",
+          "crop": "crops/P42/IMG_9245_1.jpg"
+        },
+        {
+          "foto": "IMG_9246.jpg",
+          "n": 1,
+          "bbox": [
+            0.19,
+            0.19,
+            0.73,
+            0.89
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top verde oliva de estilo liso con textura aparente de gamuza, sin mangas, cuello o borde fruncido con elástico y forro interior suave.",
+          "crop": "crops/P42/IMG_9246_1.jpg"
+        },
+        {
+          "foto": "IMG_9247.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.874,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento desenfocado por movimiento de una prenda lisa de color verde oliva en un gancho con tirantes o pliegues.",
+          "crop": "crops/P42/IMG_9247_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Verde oliva liso",
+        "estilo": "Top abullonado sin mangas de corte amplio",
+        "material": "Gamuza sintética",
+        "detalles": "Cuello redondo fruncido y bajo elástico abullonado",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P43",
+      "categoria": "top",
+      "descripcion": "Top de manga larga en color marrón/café oscuro, de diseño drapeado con cuello redondo amplio y tela suave de punto liso.",
+      "marca_talla": "EUR/USA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9248.jpg",
+          "n": 1,
+          "bbox": [
+            0.175,
+            0.158,
+            0.802,
+            0.88
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Top de manga larga en color marrón oscuro, de diseño drapeado con cuello redondo amplio y tela suave de punto liso.",
+          "crop": "crops/P43/IMG_9248_1.jpg"
+        },
+        {
+          "foto": "IMG_9249.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento al escote y etiqueta de un top de tejido de punto fino color café o marrón, con ribete en el cuello y etiqueta de tela negra con texto blanco.",
+          "crop": "crops/P43/IMG_9249_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Marrón café oscuro liso",
+        "estilo": "Top drapeado de corte holgado",
+        "material": "Tela suave de punto liso",
+        "detalles": "Manga larga, cuello redondo amplio y diseño fruncido drapeado",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P44",
+      "categoria": "top",
+      "descripcion": "Top de tejido de punto sin mangas, color verde oscuro oliva, cuello redondo elevado/halter, acanalado fino.",
+      "marca_talla": "Love, Bonito S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9250.jpg",
+          "n": 1,
+          "bbox": [
+            0.12,
+            0.18,
+            0.88,
+            0.82
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "top de tejido de punto sin mangas, color verde oscuro, patron liso, cuello redondo estilo halter, material acanalado de tejido fino",
+          "crop": "crops/P44/IMG_9250_1.jpg"
+        },
+        {
+          "foto": "IMG_9251.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.201,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "acercamiento a cuello de sweater de tejido de punto fino color verde oliva, con textura acanalada sutil y etiqueta interior blanca",
+          "crop": "crops/P44/IMG_9251_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Verde oscuro oliva",
+        "estilo": "Top sin mangas de corte recto",
+        "material": "Tejido de punto fino aparente",
+        "detalles": "Sin mangas, cuello alto estilo chimenea y bajo acanalado",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P45",
+      "categoria": "top",
+      "descripcion": "Top corto de manga larga acampanada, color café con textura arrugada/plegada en tiras horizontales y cuello recto.",
+      "marca_talla": "UMARANI BEACHWEAR",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9252.jpg",
+          "n": 1,
+          "bbox": [
+            0.099,
+            0.136,
+            0.842,
+            0.86
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "top corto de manga larga acampanada, color café con textura arrugada/corrugada, cuello recto y ajuste holgado",
+          "crop": "crops/P45/IMG_9252_1.jpg"
+        },
+        {
+          "foto": "IMG_9253.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.272,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de detalle/acercamiento de prenda de playa en tono cafe claro o marron con textura arrugada/plegada en tiras horizontales y etiqueta cosida en el borde.",
+          "crop": "crops/P45/IMG_9253_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Café liso",
+        "estilo": "Top corto de corte holgado",
+        "material": "Tela ligera de aspecto arrugado con textura",
+        "detalles": "Manga larga acampanada, largo corto y cuello recto",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P46",
+      "categoria": "cardigan",
+      "descripcion": "Cárdigan corto de manga larga color rosa claro, tejido de punto fino ligero, frente abierto con cintas largas para anudar.",
+      "marca_talla": "CSB",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9254.jpg",
+          "n": 1,
+          "bbox": [
+            0.001,
+            0.221,
+            0.835,
+            0.798
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "cardigan de manga larga color rosa claro, tejido punto fino ligero, frente abierto con cintas largas para anudar",
+          "crop": "crops/P46/IMG_9254_1.jpg"
+        },
+        {
+          "foto": "IMG_9255.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de detalle de top o blusa rosa claro lisa, confeccionada en tela suave y ligera, con escote redondo y etiqueta interior visible.",
+          "crop": "crops/P46/IMG_9255_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Rosa claro",
+        "estilo": "Cárdigan corto de frente abierto",
+        "material": "Tejido de punto fino y ligero",
+        "detalles": "Manga larga, capucha y cintas largas al frente para anudar",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P47",
+      "categoria": "top",
+      "descripcion": "Chaleco ajustado sin mangas en color coral/terracota, textura crepé, escote en V pronunciado, cierre frontal con botones negros y bolsillos simulados.",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9256.jpg",
+          "n": 1,
+          "bbox": [
+            0.142,
+            0.185,
+            0.774,
+            0.862
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Chaleco ajustado sin mangas en color coral o terracota, con textura rugosa tipo crepé, escote pronunciado en V, cierre frontal con botones negros, bolsillos de ribete simulados y forro interior al tono.",
+          "crop": "crops/P47/IMG_9256_1.jpg"
+        },
+        {
+          "foto": "IMG_9257.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.89,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de cerca del cuello y etiqueta de prenda color coral de textura ligera acanalada tipo lino o algodon, con forro interno al tono y etiqueta de tela blanca",
+          "crop": "crops/P47/IMG_9257_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Coral",
+        "estilo": "Chaleco de vestir ajustado con escote en V",
+        "material": "Tejido de punto o algodón con textura crepé",
+        "detalles": "Sin mangas, cierre frontal con cinco botones negros y bolsillos simulados",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P48",
+      "categoria": "blusa",
+      "descripcion": "Blusa holgada de color azul marino liso en tejido fluido, cuello fruncido/plisado, mangas largas abullonadas con puños elásticos.",
+      "marca_talla": "ZARA M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9258.jpg",
+          "n": 1,
+          "bbox": [
+            0.094,
+            0.165,
+            0.871,
+            0.852
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa holgada de color azul marino liso, con cuello fruncido plisado, mangas largas abullonadas con puños elásticos fruncidos, tela fluida ligera sin botones ni cierres visibles.",
+          "crop": "crops/P48/IMG_9258_1.jpg"
+        },
+        {
+          "foto": "IMG_9259.jpg",
+          "n": 1,
+          "bbox": [
+            0.077,
+            0.131,
+            0.871,
+            0.868
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Blusa lisa en color azul marino de tejido fluido, manga larga abullonada con puños elásticos, diseño drapeado y etiqueta colgante blanca de ZARA.",
+          "crop": "crops/P48/IMG_9259_1.jpg"
+        },
+        {
+          "foto": "IMG_9260.jpg",
+          "n": 1,
+          "bbox": [
+            0.05,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a tela suave de color azul marino liso con etiqueta de carton colgada",
+          "crop": "crops/P48/IMG_9260_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Azul marino liso",
+        "estilo": "Blusa holgada de corte fluido",
+        "material": "Tejido fluido suave",
+        "detalles": "Cuello fruncido, mangas largas abullonadas y puños elásticos",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    }
+  ],
+  "descartadas": [
+    {
+      "foto": "IMG_9184.jpg",
+      "n": 2,
+      "motivo": "Prenda de mezclilla en la esquina inferior izquierda parcialmente visible y amontonada en el fondo."
+    },
+    {
+      "foto": "IMG_9185.jpg",
+      "n": 2,
+      "motivo": "Prenda de mezclilla al fondo sobre la cama, objeto no principal."
+    },
+    {
+      "foto": "IMG_9187.jpg",
+      "n": 2,
+      "motivo": "Prenda de color negro parcialmente visible colgada en ganchos en la orilla del encuadre."
+    },
+    {
+      "foto": "IMG_9202.jpg",
+      "n": 1,
+      "motivo": "Captura extremadamente desenfocada por movimiento de prenda verde oliva."
+    },
+    {
+      "foto": "IMG_9202.jpg",
+      "n": 2,
+      "motivo": "Captura extremadamente desenfocada por movimiento de cobija/colcha naranja al fondo."
+    },
+    {
+      "foto": "IMG_9203.jpg",
+      "n": 2,
+      "motivo": "Jeans de mezclilla en la esquina parcialmente visibles en el fondo."
+    },
+    {
+      "foto": "IMG_9205.jpg",
+      "n": 2,
+      "motivo": "Shorts de mezclilla visibles en la esquina superior del fondo."
+    },
+    {
+      "foto": "IMG_9207.jpg",
+      "n": 2,
+      "motivo": "Shorts de mezclilla doblados en la esquina superior izquierda del fondo."
+    }
+  ]
+}
