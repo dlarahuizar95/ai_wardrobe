@@ -309,7 +309,7 @@
     {
       "id": "P05",
       "categoria": "pantalon",
-      "descripcion": "pantalon holgado de pana acanalada fina en color cafe marron, tiro alto y pierna ancha recta; pretina PLANA y lisa de la misma pana, sin fruncido elastico visible por fuera, con un cordon fino ajustable que sale del interior de la pretina; sin botones ni cierres",
+      "descripcion": "pantalon holgado de pana acanalada fina en color cafe chocolate oscuro, tiro alto y pierna ancha recta; pretina de resorte (elastico) cubierta con la misma pana, lisa; sin cordon, sin hilos, sin lazos, sin botones ni cierres",
       "marca_talla": "OYSHO EUR M USA M MEX M",
       "posible_duplicado_de": "",
       "dudas": "",
@@ -397,11 +397,11 @@
         "color": "Café marrón liso",
         "estilo": "Pantalón holgado de tiro alto y pierna ancha",
         "material": "Pana acanalada",
-        "detalles": "Pretina elástica fina, sin cierres ni botones",
+        "detalles": "Pretina de resorte cubierta, sin cordón, sin cierres ni botones",
         "composicion": "",
         "composicion_etiqueta": ""
       },
-      "nota_maniqui": "La pretina debe verse plana y lisa al frente, igual que en la primera foto, no fruncida ni arrugada como un elastico. Solo se asoma un cordon delgado del mismo color. El color es cafe chocolate oscuro, exactamente el tono de las fotos de referencia, no mas claro ni anaranjado. La pana acanalada fina debe notarse."
+      "nota_maniqui": "La pretina es SOLO de resorte, cubierta con la misma pana. NO pongas cordon, NO hilos colgando, NO lazos, NO nada que se amarre. Color cafe chocolate oscuro exacto al de las fotos, no mas claro ni anaranjado. Pana acanalada fina visible."
     },
     {
       "id": "P06",
