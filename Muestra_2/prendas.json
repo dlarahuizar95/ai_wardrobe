@@ -1,0 +1,1217 @@
+{
+  "prendas": [
+    {
+      "id": "P01",
+      "categoria": "pantalon",
+      "descripcion": "pantalon/leggings negro liso de tiro alto y pierna acampanada, confeccionado en tela elastica ligera acanalada fina, sin botones ni cierres",
+      "marca_talla": "ZARA EUR M USA M MEX 28",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9447.jpg",
+          "n": 1,
+          "bbox": [
+            0.082,
+            0.283,
+            0.817,
+            0.824
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalon largo liso de color negro, corte recto y amplio, estilo casual/deportivo de tela elastica",
+          "crop": "crops/P01/IMG_9447_1.jpg"
+        },
+        {
+          "foto": "IMG_9448.jpg",
+          "n": 1,
+          "bbox": [
+            0.051,
+            0.248,
+            0.826,
+            0.825
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón largo negro liso de tiro alto y pierna ancha, de material sintético suave",
+          "crop": "crops/P01/IMG_9448_1.jpg"
+        },
+        {
+          "foto": "IMG_9449.jpg",
+          "n": 1,
+          "bbox": [
+            0.328,
+            0.0,
+            1.0,
+            0.655
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "acercamiento a pretina o costura de prenda ajustada lisa de color negro sostenida con la mano",
+          "crop": "crops/P01/IMG_9449_1.jpg"
+        },
+        {
+          "foto": "IMG_9450.jpg",
+          "n": 1,
+          "bbox": [
+            0.378,
+            0.0,
+            1.0,
+            0.738
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalon o mallas ajustadas de color negro liso, extendido sobre la cobija",
+          "crop": "crops/P01/IMG_9450_1.jpg"
+        },
+        {
+          "foto": "IMG_9451.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.052,
+            0.892,
+            0.952
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalón liso de color azul marino con cintura elástica, sin botones ni cierres visibles",
+          "crop": "crops/P01/IMG_9451_1.jpg"
+        },
+        {
+          "foto": "IMG_9452.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.252,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina elastizada de un pantalon de tela acanalada o tergal con etiqueta de marca",
+          "crop": "crops/P01/IMG_9452_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Pantalón de tiro alto y pierna acampanada",
+        "material": "Tela elástica acanalada fina",
+        "detalles": "Cintura elástica de largo completo, sin botones ni cierres",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P02",
+      "categoria": "pantalon",
+      "descripcion": "pantalon de vestir negro/azul marino oscuro de tiro alto y corte holgado de pierna ancha, con pretina con trabillas, pinzas frontales, boton y cierre",
+      "marca_talla": "Stradivarius EUR 36 USA 4 MEX 26 UK 8",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9453.jpg",
+          "n": 1,
+          "bbox": [
+            0.058,
+            0.187,
+            0.914,
+            0.967
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón de vestir de corte holgado, liso de color negro/azul marino con presillas en la pretina",
+          "crop": "crops/P02/IMG_9453_1.jpg"
+        },
+        {
+          "foto": "IMG_9454.jpg",
+          "n": 1,
+          "bbox": [
+            0.097,
+            0.201,
+            0.884,
+            0.906
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalon holgado de tiro alto, color negro liso, tela fluida de vestir con pretina y presillas",
+          "crop": "crops/P02/IMG_9454_1.jpg"
+        },
+        {
+          "foto": "IMG_9455.jpg",
+          "n": 1,
+          "bbox": [
+            0.015,
+            0.151,
+            1.0,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalón de vestir de color negro, liso, con presillas para cinturón, pinzas en la pretina, cierre y botón frontal",
+          "crop": "crops/P02/IMG_9455_1.jpg"
+        },
+        {
+          "foto": "IMG_9456.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.18,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Pantalón de vestir de color azul marino oscuro, vista de pretina con trabillas para cinturón, botón, cierre frontal y pinzas frontales.",
+          "crop": "crops/P02/IMG_9456_1.jpg"
+        },
+        {
+          "foto": "IMG_9457.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.22,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina interior de un pantalón color negro con etiqueta de marca y talla, con ojal para botón en la solapa superior",
+          "crop": "crops/P02/IMG_9457_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro liso",
+        "estilo": "Pantalón de vestir de tiro alto y pierna ancha",
+        "material": "Tela de vestir",
+        "detalles": "Pretina con trabillas, pinzas frontales y cierre con botón",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P03",
+      "categoria": "falda",
+      "descripcion": "falda larga de mezclilla negro deslavado con abertura central frontal, tiro alto, pretina con boton y cremallera, estilo cinco bolsillos y dobladillo deshilachado",
+      "marca_talla": "STRADIVARIUS 36 USA 04 MEX 26 UK 08",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9458.jpg",
+          "n": 1,
+          "bbox": [
+            0.035,
+            0.158,
+            0.849,
+            0.842
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Falda larga de mezclilla negra con abertura frontal, pretina con boton y cremallera, estilo cinco bolsillos y dobladillo deshilachado",
+          "crop": "crops/P03/IMG_9458_1.jpg"
+        },
+        {
+          "foto": "IMG_9459.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.161,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la parte superior de unos jeans de mezclilla azul marino oscuro, mostrando pretina con presillas, botón metálico, cierre de cremallera y etiqueta interna.",
+          "crop": "crops/P03/IMG_9459_1.jpg"
+        },
+        {
+          "foto": "IMG_9460.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.19,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina, cierre metálico y etiqueta de unos jeans de mezclilla gris oscuro con acabado deslavado.",
+          "crop": "crops/P03/IMG_9460_1.jpg"
+        },
+        {
+          "foto": "IMG_9461.jpg",
+          "n": 1,
+          "bbox": [
+            0.058,
+            0.209,
+            0.902,
+            0.854
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Falda larga de mezclilla color negro deslavado, tiro alto con boton y cremallera frontal, abertura central larga y bastilla deshilachada.",
+          "crop": "crops/P03/IMG_9461_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Negro deslavado",
+        "estilo": "Falda larga de tiro alto con abertura frontal",
+        "material": "Mezclilla",
+        "detalles": "Pretina con boton y cremallera, estilo de cinco bolsillos y abertura central",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P04",
+      "categoria": "falda",
+      "descripcion": "falda plisada midi de velour o terciopelo beige/dorado satinado con pretina elastica ancha de color negro",
+      "marca_talla": "Jambi",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9462.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.115,
+            0.95,
+            0.898
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "falda plisada de velour o terciopelo en tono dorado o beige con pretina elastica de color negro, largo midi",
+          "crop": "crops/P04/IMG_9462_1.jpg"
+        },
+        {
+          "foto": "IMG_9463.jpg",
+          "n": 1,
+          "bbox": [
+            0.139,
+            0.063,
+            0.842,
+            0.957
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "falda plisada midi de terciopelo beige satinado con pretina elástica negra",
+          "crop": "crops/P04/IMG_9463_1.jpg"
+        },
+        {
+          "foto": "IMG_9464.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.285,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina de una prenda en color negro con elástico interno fruncido en tejido satinado beige y etiqueta dorada cosida.",
+          "crop": "crops/P04/IMG_9464_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Beige dorado satinado con pretina negra",
+        "estilo": "Falda midi plisada de tiro alto",
+        "material": "Terciopelo o velour satinado",
+        "detalles": "Pretina elástica ancha de color negro y diseño plisado",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P05",
+      "categoria": "pantalon",
+      "descripcion": "pantalon holgado de pana acanalada en color cafe marron, tiro alto con pretina elastica acordonada fina sin botones ni cierres",
+      "marca_talla": "OYSHO EUR M USA M MEX M",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9465.jpg",
+          "n": 1,
+          "bbox": [
+            0.072,
+            0.043,
+            0.849,
+            0.896
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón de pierna ancha confeccionado en pana acanalada color café marrón sin estampados",
+          "crop": "crops/P05/IMG_9465_1.jpg"
+        },
+        {
+          "foto": "IMG_9466.jpg",
+          "n": 1,
+          "bbox": [
+            0.108,
+            0.063,
+            0.819,
+            0.938
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalón de pana de corte recto en color café marrón sin estampados",
+          "crop": "crops/P05/IMG_9466_1.jpg"
+        },
+        {
+          "foto": "IMG_9467.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.88,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalon acanalado de pana color cafe oscuro con textura de rayas verticales, tiro alto y pretina elastica",
+          "crop": "crops/P05/IMG_9467_1.jpg"
+        },
+        {
+          "foto": "IMG_9468.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de detalle del interior de una prenda acanalada de color marrón con forro grisaceo y texto de marca impreso en el interior.",
+          "crop": "crops/P05/IMG_9468_1.jpg"
+        },
+        {
+          "foto": "IMG_9469.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.867,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón de tela acanalada tipo pana acordonada fina en color café, corte recto/ajustado con pretina sencilla sin botones ni cierres visibles",
+          "crop": "crops/P05/IMG_9469_1.jpg"
+        },
+        {
+          "foto": "IMG_9470.jpg",
+          "n": 1,
+          "bbox": [
+            0.102,
+            0.09,
+            0.839,
+            0.923
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón holgado de pana en color café, de pierna ancha y tiro alto.",
+          "crop": "crops/P05/IMG_9470_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Café marrón liso",
+        "estilo": "Pantalón holgado de tiro alto y pierna ancha",
+        "material": "Pana acanalada",
+        "detalles": "Pretina elástica fina, sin cierres ni botones",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P06",
+      "categoria": "pantalon",
+      "descripcion": "pantalon de vestir marron/cafe oscuro liso de tiro alto y pierna ancha, con pretina, pliegues frontales, boton al tono y cierre",
+      "marca_talla": "Stradivarius EUR 38 USA 6 MEX 28 UK 10",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9471.jpg",
+          "n": 1,
+          "bbox": [
+            0.094,
+            0.207,
+            0.907,
+            0.918
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalón de tiro alto color marrón café de corte holgado con pretina, botón frontal y cierre",
+          "crop": "crops/P06/IMG_9471_1.jpg"
+        },
+        {
+          "foto": "IMG_9472.jpg",
+          "n": 1,
+          "bbox": [
+            0.001,
+            0.158,
+            0.95,
+            0.923
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalon de vestir marron obscuro liso de pierna ancha y tiro alto",
+          "crop": "crops/P06/IMG_9472_1.jpg"
+        },
+        {
+          "foto": "IMG_9473.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.08,
+            0.99,
+            0.99
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón de vestir tiro alto y corte ancho color marrón, liso, con pretina, botón y cierre frontal",
+          "crop": "crops/P06/IMG_9473_1.jpg"
+        },
+        {
+          "foto": "IMG_9474.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.82,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Vista de detalle de la parte superior de un pantalón formal liso de color azul marino oscuro, con cierre de cremallera frontal, botón al tono y pretina con elástico lateral.",
+          "crop": "crops/P06/IMG_9474_1.jpg"
+        },
+        {
+          "foto": "IMG_9475.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina e interior de un pantalón color café oscuro, de tejido plano liso, con botón pequeño transparente y etiqueta de marca cosida en la cintura",
+          "crop": "crops/P06/IMG_9475_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Marrón oscuro liso",
+        "estilo": "Pantalón de vestir de tiro alto y pierna ancha",
+        "material": "Tela de vestir lisa",
+        "detalles": "Pretina con botón al tono, cierre frontal y pliegues en la cintura",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P07",
+      "categoria": "jeans",
+      "descripcion": "jeans de mezclilla gris oscuro con lavado deslavado, diseño de pierna ancha tipo cargo con bolsillos amplios parche al frente y laterales, tiro alto con boton y cierre",
+      "marca_talla": "MANGO EUR 36 USA 4 MEX 3",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9476.jpg",
+          "n": 1,
+          "bbox": [
+            0.053,
+            0.166,
+            0.907,
+            0.985
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón de mezclilla gris oscuro con lavado deslavado, diseño de pierna ancha con costuras decorativas y bolsillos amplios estilo parche en los laterales, pretina elástica con botón y cierre frontal.",
+          "crop": "crops/P07/IMG_9476_1.jpg"
+        },
+        {
+          "foto": "IMG_9477.jpg",
+          "n": 1,
+          "bbox": [
+            0.031,
+            0.106,
+            0.839,
+            0.992
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Jeans de mezclilla en color gris oscuro lavado, corte de pierna ancha con bolsillos grandes tipo cargo al frente, tiro alto con boton y cierre metalico",
+          "crop": "crops/P07/IMG_9477_1.jpg"
+        },
+        {
+          "foto": "IMG_9478.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.129,
+            1.0,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "jeans de mezclilla gris oscuro lavado, tiro alto con bolsillos parche grandes enfrente, pretina con presillas, cierre de cremallera metalica y boton metalico",
+          "crop": "crops/P07/IMG_9478_1.jpg"
+        },
+        {
+          "foto": "IMG_9479.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.804,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a jeans de mezclilla gris deslavado, pretina con trabillas, botón metálico, cierre de cremallera frontal y etiqueta interior.",
+          "crop": "crops/P07/IMG_9479_1.jpg"
+        },
+        {
+          "foto": "IMG_9480.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.66,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Detalle de pretina de jeans en mezclilla gris oscuro con trabillas, boton metalico y etiqueta interior.",
+          "crop": "crops/P07/IMG_9480_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Gris oscuro deslavado",
+        "estilo": "Jeans tipo cargo de tiro alto y pierna ancha",
+        "material": "Mezclilla",
+        "detalles": "Bolsillos parche frontales, costuras de adorno, botón y cierre de cremallera",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P08",
+      "categoria": "jeans",
+      "descripcion": "jeans de mezclilla azul claro de pierna ancha (wide leg) y tiro alto, con presillas, boton metalico dorado y cierre frontal",
+      "marca_talla": "ZARA USA 6 MEX 28",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9481.jpg",
+          "n": 1,
+          "bbox": [
+            0.008,
+            0.193,
+            0.896,
+            0.908
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "jeans de mezclilla azul claro de corte ancho, tiro alto, con boton de metal y cierre frontal",
+          "crop": "crops/P08/IMG_9481_1.jpg"
+        },
+        {
+          "foto": "IMG_9482.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.149,
+            0.935,
+            0.887
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalón de mezclilla azul claro de pierna ancha estilo wide leg, lisa, sin manga, tiro alto, corte largo, de mezclilla de algodón, con botón y cierre frontal",
+          "crop": "crops/P08/IMG_9482_1.jpg"
+        },
+        {
+          "foto": "IMG_9483.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.79,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Jeans de mezclilla azul claro deslavado, pretina con presillas para cinturón, botón metálico color dorado y cierre de cremallera frontal.",
+          "crop": "crops/P08/IMG_9483_1.jpg"
+        },
+        {
+          "foto": "IMG_9484.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.663,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina y parte superior de unos jeans de mezclilla azul con costuras contraste en tono beige/amarillo, trabilla para cinturon, boton metalico y etiqueta de talla visible.",
+          "crop": "crops/P08/IMG_9484_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Azul claro deslavado",
+        "estilo": "Jeans de tiro alto y pierna ancha",
+        "material": "Mezclilla de algodón",
+        "detalles": "Cierre frontal con botón metálico dorado y presillas",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P09",
+      "categoria": "pantalon",
+      "descripcion": "pantalon de vestir estilo culotte de pierna ancha color verde esmeralda/verde azulado, de tiro alto y confeccionado en tela ligera lisa",
+      "marca_talla": "ZARA WOMAN EUR L USA L MEX 30",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9485.jpg",
+          "n": 1,
+          "bbox": [
+            0.071,
+            0.082,
+            0.793,
+            0.967
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón de vestir estilo culotte o de pierna ancha, color verde esmeralda, de tiro alto y tela ligera sin estampados",
+          "crop": "crops/P09/IMG_9485_1.jpg"
+        },
+        {
+          "foto": "IMG_9486.jpg",
+          "n": 1,
+          "bbox": [
+            0.097,
+            0.106,
+            0.802,
+            0.932
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón holgado de corte ancho y tiro alto, de color verde esmeralda uniforme, confeccionado en tela ligera sin estampados ni detalles visibles de botones al frente.",
+          "crop": "crops/P09/IMG_9486_1.jpg"
+        },
+        {
+          "foto": "IMG_9487.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.157,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Pantalón de vestir de tiro alto color verde azulado, con pretina ancha, liso, de material sintético liviano sin estampados ni botones visibles",
+          "crop": "crops/P09/IMG_9487_1.jpg"
+        },
+        {
+          "foto": "IMG_9488.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la etiqueta de una prenda de tela lisa color verde oscuro, se aprecia una costura en la orilla y material liviano.",
+          "crop": "crops/P09/IMG_9488_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Verde esmeralda liso",
+        "estilo": "Pantalón de vestir estilo culotte de tiro alto y pierna ancha",
+        "material": "Tela ligera lisa y fluida",
+        "detalles": "Pretina alta ajustada y caida holgada",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P10",
+      "categoria": "pantalon",
+      "descripcion": "pantalon de vestir holgado de tiro alto con patron a cuadros estilo plaid en tonos verde oliva, cafe, beige y gris, con pliegues frontales y trabillas",
+      "marca_talla": "ZARA EUR S USA S MEX 26",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9489.jpg",
+          "n": 1,
+          "bbox": [
+            0.07,
+            0.15,
+            0.9,
+            0.94
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalón holgado de tiro alto con patrón a cuadros en tonos verde oliva, café y crema, elaborado en tela tejida con pretina recta",
+          "crop": "crops/P10/IMG_9489_1.jpg"
+        },
+        {
+          "foto": "IMG_9490.jpg",
+          "n": 1,
+          "bbox": [
+            0.039,
+            0.141,
+            0.866,
+            0.857
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalon de vestir con patron a cuadros en tonos verde oliva, beige y cafe, holgado de tiro alto",
+          "crop": "crops/P10/IMG_9490_1.jpg"
+        },
+        {
+          "foto": "IMG_9491.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.155,
+            1.0,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalon de vestir a cuadros estilo plaid en tonos verde oliva, gris, blanco y beige, de tiro alto con trabillas en la cintura y pliegues frontales, de confeccion tipo lana o tela sastre",
+          "crop": "crops/P10/IMG_9491_1.jpg"
+        },
+        {
+          "foto": "IMG_9492.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.336,
+            1.0,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina y etiqueta interior de un pantalón a cuadros en tonos beige, café y líneas amarillas/azules, con cinta interior de refuerzo color café oscuro y ojal visible",
+          "crop": "crops/P10/IMG_9492_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Verde oliva, café, beige y gris con patrón a cuadros",
+        "estilo": "Pantalón de vestir holgado de tiro alto",
+        "material": "Tela tejida de vestir",
+        "detalles": "Pliegues frontales, pretina con trabillas y largo completo",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P11",
+      "categoria": "jeans",
+      "descripcion": "jeans de mezclilla azul medio con deslavado ligero, corte acampanado (flare), tiro alto con bolsillos frontales, boton metalico y cremallera",
+      "marca_talla": "MNG FLARE EUR 36 USA 4 MEX 3",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9493.jpg",
+          "n": 1,
+          "bbox": [
+            0.097,
+            0.122,
+            0.838,
+            0.888
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Jeans de mezclilla azul con corte acampanado, deslavado ligero, tiro medio, cierre metálico y botón frontal.",
+          "crop": "crops/P11/IMG_9493_1.jpg"
+        },
+        {
+          "foto": "IMG_9494.jpg",
+          "n": 1,
+          "bbox": [
+            0.129,
+            0.106,
+            0.83,
+            0.812
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón de mezclilla azul estilo acampanado con pretina, trabillas para cinturón y botón metálico frontal.",
+          "crop": "crops/P11/IMG_9494_1.jpg"
+        },
+        {
+          "foto": "IMG_9495.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.35,
+            0.96,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Jeans de mezclilla azul de tiro alto y corte acampanado (flare), con bolsillos frontales, boton metálico plateado, cierre de cremallera y presillas para cinturón.",
+          "crop": "crops/P11/IMG_9495_1.jpg"
+        },
+        {
+          "foto": "IMG_9496.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.74,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la parte superior y pretina de jeans de mezclilla azul con costuras contrastantes en tono amarillo, presillas para cinturon, boton metalico y etiqueta textil blanca.",
+          "crop": "crops/P11/IMG_9496_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Azul medio con deslavado ligero",
+        "estilo": "Pantalón de mezclilla corte acampanado (flare)",
+        "material": "Mezclilla de algodón",
+        "detalles": "Bolsillos frontales, botón metálico y cierre de cremallera",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P12",
+      "categoria": "jeans",
+      "descripcion": "jeans de mezclilla azul claro deslavado de tiro alto y corte recto amplio, con bragueta de botones metalicos expuestos y aberturas en los tobillos",
+      "marca_talla": "kur.kuma 26",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9497.jpg",
+          "n": 1,
+          "bbox": [
+            0.108,
+            0.158,
+            0.83,
+            0.941
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalón de mezclilla azul claro de tiro alto, corte recto amplio, con cierre de botones expuestos en la parte frontal y aberturas pequeñas en los tobillos",
+          "crop": "crops/P12/IMG_9497_1.jpg"
+        },
+        {
+          "foto": "IMG_9498.jpg",
+          "n": 1,
+          "bbox": [
+            0.14,
+            0.151,
+            0.797,
+            0.903
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Pantalón de mezclilla azul claro de tiro alto, corte recto con ligeras aberturas en el dobladillo inferior.",
+          "crop": "crops/P12/IMG_9498_1.jpg"
+        },
+        {
+          "foto": "IMG_9499.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.103,
+            1.0,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Jeans de mezclilla tono azul claro deslavado con bragueta de botones metálicos, bolsillos frontales, presillas para cinturón y acabado con deslavado suave.",
+          "crop": "crops/P12/IMG_9499_1.jpg"
+        },
+        {
+          "foto": "IMG_9500.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.72,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina e interior de unos jeans de mezclilla azul claro, se observa la etiqueta cosida en el interior con costuras en hilo color ocre.",
+          "crop": "crops/P12/IMG_9500_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Azul claro deslavado",
+        "estilo": "Jeans de tiro alto y corte recto amplio",
+        "material": "Mezclilla",
+        "detalles": "Bragueta de botones metálicos expuestos y aberturas en los tobillos",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    },
+    {
+      "id": "P13",
+      "categoria": "jeans",
+      "descripcion": "jeans de mezclilla azul claro deslavado, tiro alto de pierna ancha tipo wide leg, con bolsillos delanteros, boton metalico y cierre",
+      "marca_talla": "ZARA EUR 36 USA 4 MEX 26",
+      "posible_duplicado_de": "",
+      "dudas": "",
+      "apariciones": [
+        {
+          "foto": "IMG_9501.jpg",
+          "n": 1,
+          "bbox": [
+            0.068,
+            0.081,
+            0.839,
+            0.95
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "jeans de mezclilla en tono azul claro con deslavado, tiro alto, pierna ancha, bolsillos delanteros y costuras en contraste",
+          "crop": "crops/P13/IMG_9501_1.jpg"
+        },
+        {
+          "foto": "IMG_9502.jpg",
+          "n": 1,
+          "bbox": [
+            0.143,
+            0.158,
+            0.755,
+            0.908
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "jeans de mezclilla azul claro con lavado deslavado, tiro alto y pierna ancha tipo wide leg",
+          "crop": "crops/P13/IMG_9502_1.jpg"
+        },
+        {
+          "foto": "IMG_9503.jpg",
+          "n": 1,
+          "bbox": [
+            0.008,
+            0.198,
+            1.0,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "pantalón de mezclilla azul claro lavado, corte holgado de pierna ancha, tiro alto con pretina, bolsillos laterales y cierre con botón",
+          "crop": "crops/P13/IMG_9503_1.jpg"
+        },
+        {
+          "foto": "IMG_9504.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.797,
+            1.0
+          ],
+          "es_detalle": false,
+          "descripcion_foto": "Jeans de mezclilla en color azul claro deslavado, tiro alto, con bolsillos delanteros, presillas para cinturón, botón metálico y etiqueta blanca interior visible.",
+          "crop": "crops/P13/IMG_9504_1.jpg"
+        },
+        {
+          "foto": "IMG_9505.jpg",
+          "n": 1,
+          "bbox": [
+            0.0,
+            0.0,
+            0.631,
+            1.0
+          ],
+          "es_detalle": true,
+          "descripcion_foto": "Acercamiento a la pretina de unos jeans de mezclilla en tono azul medio, con boton metalico central, trabillas para cinturon, remaches metalicos y etiqueta de marca cosida en la pretina interior.",
+          "crop": "crops/P13/IMG_9505_1.jpg"
+        }
+      ],
+      "atributos": {
+        "color": "Azul claro deslavado",
+        "estilo": "Pantalón de mezclilla de tiro alto y pierna ancha corte wide leg",
+        "material": "Mezclilla aparente",
+        "detalles": "Bolsillos frontales, pretina con trabillas, cierre de cremallera y botón metálico",
+        "composicion": "",
+        "composicion_etiqueta": ""
+      }
+    }
+  ],
+  "descartadas": [
+    {
+      "foto": "IMG_9447.jpg",
+      "n": 2,
+      "motivo": "prenda doblada en el fondo de la cama"
+    },
+    {
+      "foto": "IMG_9447.jpg",
+      "n": 3,
+      "motivo": "prendas dobladas amontonadas en el fondo"
+    },
+    {
+      "foto": "IMG_9448.jpg",
+      "n": 2,
+      "motivo": "prendas dobladas amontonadas en el fondo"
+    },
+    {
+      "foto": "IMG_9448.jpg",
+      "n": 3,
+      "motivo": "prenda doblada en el fondo de la cama"
+    },
+    {
+      "foto": "IMG_9449.jpg",
+      "n": 2,
+      "motivo": "prenda doblada amontonada en la orilla"
+    },
+    {
+      "foto": "IMG_9449.jpg",
+      "n": 3,
+      "motivo": "manga de la prenda blanca que viste la persona/fondo"
+    },
+    {
+      "foto": "IMG_9450.jpg",
+      "n": 2,
+      "motivo": "prendas dobladas amontonadas en la esquina"
+    },
+    {
+      "foto": "IMG_9450.jpg",
+      "n": 3,
+      "motivo": "manga de la prenda blanca que viste la persona/fondo"
+    },
+    {
+      "foto": "IMG_9453.jpg",
+      "n": 2,
+      "motivo": "sudadera gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9453.jpg",
+      "n": 3,
+      "motivo": "blusa doblada amontonada en la orilla"
+    },
+    {
+      "foto": "IMG_9454.jpg",
+      "n": 2,
+      "motivo": "top gris doblado en la orilla"
+    },
+    {
+      "foto": "IMG_9454.jpg",
+      "n": 3,
+      "motivo": "prenda doblada en la esquina inferior"
+    },
+    {
+      "foto": "IMG_9458.jpg",
+      "n": 2,
+      "motivo": "prenda doblada en la esquina inferior de la cama"
+    },
+    {
+      "foto": "IMG_9461.jpg",
+      "n": 2,
+      "motivo": "sudadera gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9462.jpg",
+      "n": 2,
+      "motivo": "sudadera/chamarra gris doblada en la esquina"
+    },
+    {
+      "foto": "IMG_9463.jpg",
+      "n": 2,
+      "motivo": "sudadera/chamarra gris doblada en la esquina"
+    },
+    {
+      "foto": "IMG_9465.jpg",
+      "n": 2,
+      "motivo": "sudadera gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9465.jpg",
+      "n": 3,
+      "motivo": "prenda beige doblada en la esquina"
+    },
+    {
+      "foto": "IMG_9466.jpg",
+      "n": 2,
+      "motivo": "sueter gris doblado en la orilla"
+    },
+    {
+      "foto": "IMG_9466.jpg",
+      "n": 3,
+      "motivo": "prenda beige doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9470.jpg",
+      "n": 2,
+      "motivo": "sudadera gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9470.jpg",
+      "n": 3,
+      "motivo": "prenda beige doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9471.jpg",
+      "n": 2,
+      "motivo": "chamarra gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9471.jpg",
+      "n": 3,
+      "motivo": "prenda beige doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9472.jpg",
+      "n": 2,
+      "motivo": "sudadera gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9472.jpg",
+      "n": 3,
+      "motivo": "pantalon beige doblado en la orilla"
+    },
+    {
+      "foto": "IMG_9473.jpg",
+      "n": 2,
+      "motivo": "prenda gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9476.jpg",
+      "n": 2,
+      "motivo": "prenda gris doblada en la esquina"
+    },
+    {
+      "foto": "IMG_9477.jpg",
+      "n": 2,
+      "motivo": "prenda gris doblada parcialmente visible"
+    },
+    {
+      "foto": "IMG_9481.jpg",
+      "n": 2,
+      "motivo": "chamarra gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9482.jpg",
+      "n": 2,
+      "motivo": "sudadera gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9485.jpg",
+      "n": 2,
+      "motivo": "chamarra gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9486.jpg",
+      "n": 2,
+      "motivo": "sudadera gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9489.jpg",
+      "n": 2,
+      "motivo": "chamarra gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9490.jpg",
+      "n": 2,
+      "motivo": "sudadera gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9493.jpg",
+      "n": 2,
+      "motivo": "chamarra gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9494.jpg",
+      "n": 2,
+      "motivo": "chamarra gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9497.jpg",
+      "n": 2,
+      "motivo": "chamarra gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9498.jpg",
+      "n": 2,
+      "motivo": "prenda gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9501.jpg",
+      "n": 2,
+      "motivo": "chamarra gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9502.jpg",
+      "n": 2,
+      "motivo": "prenda gris doblada en la orilla"
+    },
+    {
+      "foto": "IMG_9503.jpg",
+      "n": 2,
+      "motivo": "chamarra gris doblada en la orilla"
+    }
+  ]
+}

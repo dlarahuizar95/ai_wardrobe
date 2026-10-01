@@ -14,7 +14,7 @@ run() { echo "\n=== $1 ==="; "$PY" -W ignore "$P/$1" "${@:2}" 2>&1 | grep -v -e 
 if [[ "$FASE" == "preparar" ]]; then
   mkdir -p jpg
   n=0
-  for f in *.HEIC *.heic *.JPG *.jpeg(N); do
+  for f in *.HEIC(N) *.heic(N) *.JPG(N) *.jpeg(N); do
     out="jpg/${f:r}.jpg"
     [[ -f "$out" ]] && continue
     sips -s format jpeg -s formatOptions 85 --resampleHeightWidthMax 2048 "$f" --out "$out" >/dev/null && n=$((n+1))

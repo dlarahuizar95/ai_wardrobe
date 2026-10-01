@@ -1,0 +1,1829 @@
+[
+  {
+    "foto": "IMG_9447.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.183,
+          0.283,
+          0.918,
+          0.824
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "pantalon largo liso de color negro, corte recto y amplio, estilo casual/deportivo de tela elastica",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.237,
+          0.8,
+          0.371,
+          0.998
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "sudadera o sweater gris jaspeado doblado en la parte inferior",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.353,
+          0.783,
+          0.685,
+          0.998
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "prendas de vestir negras dobladas, incluyendo pantalon/jeans de mezclilla con deshilachado",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9448.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.174,
+          0.248,
+          0.949,
+          0.825
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "Pantalón largo negro liso de tiro alto y pierna ancha, de material sintético suave",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.351,
+          0.805,
+          0.703,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "Prendas negras dobladas, incluye pantalón de mezclilla desgastada y ropa lusa",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.272,
+          0.821,
+          0.371,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o suéter gris doblado con gorro y cierre",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9449.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          0.672,
+          0.655
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "acercamiento a pretina o costura de prenda ajustada lisa de color negro sostenida con la mano",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.671,
+          0.0,
+          1.0,
+          0.191
+        ],
+        "categoria": "jeans",
+        "color_principal": "negro",
+        "descripcion": "detalle de prenda de mezclilla negra con bordes deshilachados",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.342,
+          0.846,
+          0.771,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "blanco",
+        "descripcion": "manga de sweater o prenda felpada de textura suave color blanco",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9450.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          0.622,
+          0.738
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "pantalon o mallas ajustadas de color negro liso, extendido sobre la cobija",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.548,
+          0.0,
+          1.0,
+          0.438
+        ],
+        "categoria": "jeans",
+        "color_principal": "negro",
+        "descripcion": "pantalon de mezclilla negro deslavado doblado con bordo superior deshilachado y forro estampado",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.472,
+          0.862,
+          0.798,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "blanco",
+        "descripcion": "manga de abrigo o sweater afelpado de color blanco",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9451.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.108,
+          0.052,
+          1.0,
+          0.952
+        ],
+        "categoria": "pantalon",
+        "color_principal": "azul marino",
+        "descripcion": "pantalón liso de color azul marino con cintura elástica, sin botones ni cierres visibles",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9452.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.252,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento a la pretina elastizada de un pantalon de tela acanalada o tergal con etiqueta de marca",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28 MADE IN TURKEY",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9453.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.086,
+          0.187,
+          0.942,
+          0.967
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "Pantalón de vestir de corte holgado, liso de color negro/azul marino con presillas en la pretina",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.742,
+          0.207,
+          1.0,
+          0.395
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "Prenda de manga larga de tela tipo sudadera de color gris jaspeado con cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.825,
+          0.354,
+          1.0,
+          0.72
+        ],
+        "categoria": "blusa",
+        "color_principal": "negro",
+        "descripcion": "Blusa o top de color negro con patrón de pequeños puntos blancos",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9454.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.116,
+          0.201,
+          0.903,
+          0.906
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "pantalon holgado de tiro alto, color negro liso, tela fluida de vestir con pretina y presillas",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.728,
+          0.231,
+          1.0,
+          0.384
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "top gris claro de tela suave de algodon",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.803,
+          0.334,
+          1.0,
+          0.655
+        ],
+        "categoria": "blusa",
+        "color_principal": "negro",
+        "descripcion": "blusa negra con patron de pequenos puntos o manchas blancas, tela ligera",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9455.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.151,
+          0.985,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "pantalón de vestir de color negro, liso, con presillas para cinturón, pinzas en la pretina, cierre y botón frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9456.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.18,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "azul marino",
+        "descripcion": "Pantalón de vestir de color azul marino oscuro, vista de pretina con trabillas para cinturón, botón, cierre frontal y pinzas frontales.",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9457.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.22,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento a la pretina interior de un pantalón color negro con etiqueta de marca y talla, con ojal para botón en la solapa superior",
+        "es_detalle": true,
+        "etiqueta_texto": "Stradivarius EUR 36 USA 4 MEX 26 UK 8",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9458.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.151,
+          0.158,
+          0.965,
+          0.842
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "Falda larga de mezclilla negra con abertura frontal, pretina con boton y cremallera, estilo cinco bolsillos y dobladillo deshilachado",
+        "es_detalle": false,
+        "etiqueta_texto": "Stradivarius 36",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.186,
+          0.808,
+          0.388,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Prenda de punto/sudadera color gris liso doblada en la esquina inferior",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9459.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.161,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul marino",
+        "descripcion": "Acercamiento a la parte superior de unos jeans de mezclilla azul marino oscuro, mostrando pretina con presillas, botón metálico, cierre de cremallera y etiqueta interna.",
+        "es_detalle": true,
+        "etiqueta_texto": "STRADIVARIUS 36 USA 04 MEX 26 UK 08",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9460.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.19,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "gris oscuro",
+        "descripcion": "Acercamiento a la pretina, cierre metálico y etiqueta de unos jeans de mezclilla gris oscuro con acabado deslavado.",
+        "es_detalle": true,
+        "etiqueta_texto": "STRADIVARIUS 36 USA 04 MEX 26 UK 08",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9461.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.098,
+          0.209,
+          0.942,
+          0.854
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "Falda larga de mezclilla color negro deslavado, tiro alto con boton y cremallera frontal, abertura central larga y bastilla deshilachada.",
+        "es_detalle": false,
+        "etiqueta_texto": "STRADIVARIUS 36",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.129,
+          0.796,
+          0.339,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "Sudadera de tela suave color gris claro con cierre de cremallera.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9462.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.05,
+          0.115,
+          1.0,
+          0.898
+        ],
+        "categoria": "falda",
+        "color_principal": "beige",
+        "descripcion": "falda plisada de velour o terciopelo en tono dorado o beige con pretina elastica de color negro, largo midi",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.791,
+          0.108,
+          1.0,
+          0.345
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera de felpa gris con cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9463.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.158,
+          0.063,
+          0.861,
+          0.957
+        ],
+        "categoria": "falda",
+        "color_principal": "beige",
+        "descripcion": "falda plisada midi de terciopelo beige satinado con pretina elástica negra",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.134,
+          0.751,
+          0.358,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera deportiva de color gris con cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9464.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.285,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "beige",
+        "descripcion": "Acercamiento a la pretina de una prenda en color negro con elástico interno fruncido en tejido satinado beige y etiqueta dorada cosida.",
+        "es_detalle": true,
+        "etiqueta_texto": "Jambi",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9465.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.151,
+          0.043,
+          0.928,
+          0.896
+        ],
+        "categoria": "pantalon",
+        "color_principal": "café",
+        "descripcion": "Pantalón de pierna ancha confeccionado en pana acanalada color café marrón sin estampados",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.177,
+          0.777,
+          0.383,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Chamarra o sudadera doblada en color gris claro con cierre frontal visible",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.412,
+          0.843,
+          0.678,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "beige",
+        "descripcion": "Prenda doblada de textura aterciopelada o acanalada en color beige claro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9466.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.181,
+          0.063,
+          0.892,
+          0.938
+        ],
+        "categoria": "pantalon",
+        "color_principal": "café",
+        "descripcion": "pantalón de pana de corte recto en color café marrón sin estampados",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.217,
+          0.803,
+          0.369,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "suéter de manga larga de color gris claro con cierre corto al frente",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.379,
+          0.867,
+          0.605,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "beige",
+        "descripcion": "prenda doblada de tela suave en color beige crema",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9467.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.12,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "cafe",
+        "descripcion": "Pantalon acanalado de pana color cafe oscuro con textura de rayas verticales, tiro alto y pretina elastica",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9468.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "marrón",
+        "descripcion": "Vista de detalle del interior de una prenda acanalada de color marrón con forro grisaceo y texto de marca impreso en el interior.",
+        "es_detalle": true,
+        "etiqueta_texto": "OYSHO EUR M USA M MEX M MADE IN CHINA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9469.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.133,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "café",
+        "descripcion": "Pantalón de tela acanalada tipo pana acordonada fina en color café, corte recto/ajustado con pretina sencilla sin botones ni cierres visibles",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9470.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.161,
+          0.09,
+          0.898,
+          0.923
+        ],
+        "categoria": "pantalon",
+        "color_principal": "café",
+        "descripcion": "Pantalón holgado de pana en color café, de pierna ancha y tiro alto.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.208,
+          0.812,
+          0.392,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o chamarra gris jaspeada doblada, de tela suave con medio cierre frontal.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.414,
+          0.868,
+          0.672,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "beige",
+        "descripcion": "Prenda de tela lisa tipo terciopelo o velour en color beige doblada.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9471.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.093,
+          0.207,
+          0.906,
+          0.918
+        ],
+        "categoria": "pantalon",
+        "color_principal": "marrón",
+        "descripcion": "pantalón de tiro alto color marrón café de corte holgado con pretina, botón frontal y cierre",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.738,
+          0.203,
+          1.0,
+          0.376
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera de felpa gris melange con cierre frontal completo",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.787,
+          0.366,
+          1.0,
+          0.603
+        ],
+        "categoria": "incierto",
+        "color_principal": "beige",
+        "descripcion": "prenda doblada de pana o terciopelo color beige",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9472.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.05,
+          0.158,
+          0.999,
+          0.923
+        ],
+        "categoria": "pantalon",
+        "color_principal": "marron",
+        "descripcion": "pantalon de vestir marron obscuro liso de pierna ancha y tiro alto",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.793,
+          0.163,
+          1.0,
+          0.306
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "sudadera o sueter gris liso de manga larga con cierre medio",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      },
+      {
+        "bbox": [
+          0.829,
+          0.301,
+          1.0,
+          0.54
+        ],
+        "categoria": "pantalon",
+        "color_principal": "beige",
+        "descripcion": "pantalon de pana doblado color beige claro liso",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 3
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9473.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.01,
+          0.08,
+          1.0,
+          0.99
+        ],
+        "categoria": "pantalon",
+        "color_principal": "marrón",
+        "descripcion": "Pantalón de vestir tiro alto y corte ancho color marrón, liso, con pretina, botón y cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.8,
+          0.09,
+          1.0,
+          0.32
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Prenda de manga larga o sudadera gris claro visible parcialmente",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9474.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.18,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "azul marino",
+        "descripcion": "Vista de detalle de la parte superior de un pantalón formal liso de color azul marino oscuro, con cierre de cremallera frontal, botón al tono y pretina con elástico lateral.",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9475.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "cafe",
+        "descripcion": "Acercamiento a la pretina e interior de un pantalón color café oscuro, de tejido plano liso, con botón pequeño transparente y etiqueta de marca cosida en la cintura",
+        "es_detalle": true,
+        "etiqueta_texto": "Stradivarius EUR 38 USA 6 MEX 28 UK 10",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9476.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.093,
+          0.166,
+          0.947,
+          0.985
+        ],
+        "categoria": "jeans",
+        "color_principal": "gris oscuro",
+        "descripcion": "Pantalón de mezclilla gris oscuro con lavado deslavado, diseño de pierna ancha con costuras decorativas y bolsillos amplios estilo parche en los laterales, pretina elástica con botón y cierre frontal.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.796,
+          0.237,
+          1.0,
+          0.428
+        ],
+        "categoria": "incierto",
+        "color_principal": "gris claro",
+        "descripcion": "Prenda de color gris claro parcialmente visible en la esquina inferior.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9477.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.161,
+          0.106,
+          0.969,
+          0.992
+        ],
+        "categoria": "jeans",
+        "color_principal": "gris",
+        "descripcion": "Jeans de mezclilla en color gris oscuro lavado, corte de pierna ancha con bolsillos grandes tipo cargo al frente, tiro alto con boton y cierre metalico",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.221,
+          0.812,
+          0.395,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris claro",
+        "descripcion": "Prenda tejida o sudadera en tono gris claro azulado, parcialmente visible en la parte inferior",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9478.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.129,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "gris oscuro",
+        "descripcion": "jeans de mezclilla gris oscuro lavado, tiro alto con bolsillos parche grandes enfrente, pretina con presillas, cierre de cremallera metalica y boton metalico",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9479.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.196,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "gris",
+        "descripcion": "Acercamiento a jeans de mezclilla gris deslavado, pretina con trabillas, botón metálico, cierre de cremallera frontal y etiqueta interior.",
+        "es_detalle": true,
+        "etiqueta_texto": "MANGO",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9480.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.34,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "gris",
+        "descripcion": "Detalle de pretina de jeans en mezclilla gris oscuro con trabillas, boton metalico y etiqueta interior.",
+        "es_detalle": true,
+        "etiqueta_texto": "MNG EUR 36 USA 4 MEX 3",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9481.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.104,
+          0.193,
+          0.992,
+          0.908
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "jeans de mezclilla azul claro de corte ancho, tiro alto, con boton de metal y cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.773,
+          0.213,
+          1.0,
+          0.407
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera de felpa gris con cierre frontal y gorro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9482.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.065,
+          0.149,
+          1.0,
+          0.887
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "pantalón de mezclilla azul claro de pierna ancha estilo wide leg, lisa, sin manga, tiro alto, corte largo, de mezclilla de algodón, con botón y cierre frontal",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.795,
+          0.183,
+          1.0,
+          0.342
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "sudadera o sweater gris de manga larga, lisa, tela suave aparente",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9483.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.21,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "Jeans de mezclilla azul claro deslavado, pretina con presillas para cinturón, botón metálico color dorado y cierre de cremallera frontal.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9484.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.337,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "Acercamiento a la pretina y parte superior de unos jeans de mezclilla azul con costuras contraste en tono beige/amarillo, trabilla para cinturon, boton metalico y etiqueta de talla visible.",
+        "es_detalle": true,
+        "etiqueta_texto": "USA 6 MEX 28 MADE IN TURKEY",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9485.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.207,
+          0.082,
+          0.929,
+          0.967
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "Pantalón de vestir estilo culotte o de pierna ancha, color verde esmeralda, de tiro alto y tela ligera sin estampados",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.274,
+          0.771,
+          0.485,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Chamarra o prenda exterior de tela de sudadera gris claro con cierre de cremallera y asas o tirantes de bolsa encima",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9486.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.198,
+          0.106,
+          0.903,
+          0.932
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "Pantalón holgado de corte ancho y tiro alto, de color verde esmeralda uniforme, confeccionado en tela ligera sin estampados ni detalles visibles de botones al frente.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.258,
+          0.748,
+          0.477,
+          1.0
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o chamarra deportiva con cierre, de color gris jaspeado, confeccionada en tejido suave.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9487.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.157,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde azulado",
+        "descripcion": "Pantalón de vestir de tiro alto color verde azulado, con pretina ancha, liso, de material sintético liviano sin estampados ni botones visibles",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9488.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "verde",
+        "descripcion": "Acercamiento a la etiqueta de una prenda de tela lisa color verde oscuro, se aprecia una costura en la orilla y material liviano.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA WOMAN EUR L USA L MEX 30",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9489.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.1,
+          0.15,
+          0.93,
+          0.94
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "pantalón holgado de tiro alto con patrón a cuadros en tonos verde oliva, café y crema, elaborado en tela tejida con pretina recta",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.744,
+          0.215,
+          1.0,
+          0.43
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera gris con cierre frontal y detalles de cintas",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9490.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.134,
+          0.141,
+          0.961,
+          0.857
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "pantalon de vestir con patron a cuadros en tonos verde oliva, beige y cafe, holgado de tiro alto",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.781,
+          0.198,
+          0.999,
+          0.392
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "sudadera o sueter de color gris con cierre parcial visible",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9491.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.155,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde oliva",
+        "descripcion": "pantalon de vestir a cuadros estilo plaid en tonos verde oliva, gris, blanco y beige, de tiro alto con trabillas en la cintura y pliegues frontales, de confeccion tipo lana o tela sastre",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9492.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.336,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "café",
+        "descripcion": "Acercamiento a la pretina y etiqueta interior de un pantalón a cuadros en tonos beige, café y líneas amarillas/azules, con cinta interior de refuerzo color café oscuro y ojal visible",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR S USAS MEX 26 MADE IN VIETNAM",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9493.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.162,
+          0.122,
+          0.903,
+          0.888
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "Jeans de mezclilla azul con corte acampanado, deslavado ligero, tiro medio, cierre metálico y botón frontal.",
+        "es_detalle": false,
+        "etiqueta_texto": "MNG",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.709,
+          0.21,
+          1.0,
+          0.457
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Chamarra de tela suave en color gris claro con cierre frontal.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9494.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.17,
+          0.106,
+          0.871,
+          0.812
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "Pantalón de mezclilla azul estilo acampanado con pretina, trabillas para cinturón y botón metálico frontal.",
+        "es_detalle": false,
+        "etiqueta_texto": "MNG",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.708,
+          0.198,
+          0.999,
+          0.413
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "Chamarra ligera o sudadera de tela de algodón o sudadera gris con cierre frontal y capucha.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9495.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.04,
+          0.35,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "Jeans de mezclilla azul de tiro alto y corte acampanado (flare), con bolsillos frontales, boton metálico plateado, cierre de cremallera y presillas para cinturón.",
+        "es_detalle": false,
+        "etiqueta_texto": "MNG FLARE",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9496.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.26,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul mezclilla",
+        "descripcion": "Acercamiento a la parte superior y pretina de jeans de mezclilla azul con costuras contrastantes en tono amarillo, presillas para cinturon, boton metalico y etiqueta textil blanca.",
+        "es_detalle": true,
+        "etiqueta_texto": "EUR 36 USA 4 MEX 3",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9497.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.17,
+          0.158,
+          0.892,
+          0.941
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "pantalón de mezclilla azul claro de tiro alto, corte recto amplio, con cierre de botones expuestos en la parte frontal y aberturas pequeñas en los tobillos",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.741,
+          0.207,
+          1.0,
+          0.431
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera deportiva de color gris claro, de manga larga con cierre metálico frontal y detalles de cierres en contraste",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9498.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.203,
+          0.151,
+          0.86,
+          0.903
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul claro",
+        "descripcion": "Pantalón de mezclilla azul claro de tiro alto, corte recto con ligeras aberturas en el dobladillo inferior.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.231,
+          0.702,
+          0.386,
+          1.0
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Prenda superior de tela lisa gris doblada con cierre/agujeta visible.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9499.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.103,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul claro",
+        "descripcion": "Jeans de mezclilla tono azul claro deslavado con bragueta de botones metálicos, bolsillos frontales, presillas para cinturón y acabado con deslavado suave.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9500.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.28,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "Acercamiento a la pretina e interior de unos jeans de mezclilla azul claro, se observa la etiqueta cosida en el interior con costuras en hilo color ocre.",
+        "es_detalle": true,
+        "etiqueta_texto": "kur.kuma 26",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9501.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.161,
+          0.081,
+          0.932,
+          0.95
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul claro",
+        "descripcion": "jeans de mezclilla en tono azul claro con deslavado, tiro alto, pierna ancha, bolsillos delanteros y costuras en contraste",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.187,
+          0.729,
+          0.407,
+          1.0
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra o sudadera deportiva de color gris claro con cierre frontal y capucha",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9502.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.245,
+          0.158,
+          0.857,
+          0.908
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul claro",
+        "descripcion": "jeans de mezclilla azul claro con lavado deslavado, tiro alto y pierna ancha tipo wide leg",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.252,
+          0.695,
+          0.413,
+          0.999
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "prenda de punto o sudadera color gris jaspeado doblada debajo de un gancho",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9503.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.198,
+          0.992,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul",
+        "descripcion": "pantalón de mezclilla azul claro lavado, corte holgado de pierna ancha, tiro alto con pretina, bolsillos laterales y cierre con botón",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.748,
+          0.228,
+          1.0,
+          0.468
+        ],
+        "categoria": "chamarra",
+        "color_principal": "gris",
+        "descripcion": "chamarra ligera gris de manga larga con cierre frontal y detalles de broches o alamares",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9504.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.203,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul claro",
+        "descripcion": "Jeans de mezclilla en color azul claro deslavado, tiro alto, con bolsillos delanteros, presillas para cinturón, botón metálico y etiqueta blanca interior visible.",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA EUR 36 USA 4 MEX 26 MADE IN TURKEY",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9505.jpg",
+    "ancho": 2048,
+    "alto": 1536,
+    "prendas": [
+      {
+        "bbox": [
+          0.369,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "jeans",
+        "color_principal": "azul mezclilla",
+        "descripcion": "Acercamiento a la pretina de unos jeans de mezclilla en tono azul medio, con boton metalico central, trabillas para cinturon, remaches metalicos y etiqueta de marca cosida en la pretina interior.",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR 36 USA 4 MEX 26 MADE IN TURKEY",
+        "n": 1
+      }
+    ]
+  }
+]
