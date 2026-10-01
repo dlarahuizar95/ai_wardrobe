@@ -708,12 +708,12 @@
       }
     },
     {
-      "id": "P15",
+      "id": "P16",
       "categoria": "top",
-      "descripcion": "Top halter de tejido de punto fino en tono beige claro melange, largo medio, estilo acanalado sin mangas.",
-      "marca_talla": "",
-      "posible_duplicado_de": "P16",
-      "dudas": "Similar corte halter que la prenda 16 pero en tono beige melange en lugar de gris plateado hilado metálico.",
+      "descripcion": "Top halter de tejido de punto fino acanalado en beige claro melange con destellos sutiles, cuello halter, largo medio",
+      "marca_talla": "ZARA S",
+      "posible_duplicado_de": "",
+      "dudas": "P15 (foto 9192) era la misma prenda; fusionado.",
       "apariciones": [
         {
           "foto": "IMG_9192.jpg",
@@ -726,26 +726,8 @@
           ],
           "es_detalle": false,
           "descripcion_foto": "top halter de punto fino en tono beige claro melange, largo medio, estilo tejido acanalado sin mangas",
-          "crop": "crops/P15/IMG_9192_1.jpg"
-        }
-      ],
-      "atributos": {
-        "color": "Beige claro melange",
-        "estilo": "Top halter de corte fluido",
-        "material": "Tejido de punto fino",
-        "detalles": "Cuello halter, sin mangas y largo medio",
-        "composicion": "",
-        "composicion_etiqueta": ""
-      }
-    },
-    {
-      "id": "P16",
-      "categoria": "top",
-      "descripcion": "Top estilo halter de tejido de punto fino color gris plateado con destellos brillantes de hilo metalizado, de corte ajustado sin mangas.",
-      "marca_talla": "ZARA S",
-      "posible_duplicado_de": "P15",
-      "dudas": "",
-      "apariciones": [
+          "crop": "crops/P16/IMG_9192_1.jpg"
+        },
         {
           "foto": "IMG_9193.jpg",
           "n": 1,
