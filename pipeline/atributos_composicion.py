@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Paso 5b - COMPOSICION. Lee las fotos de etiqueta de cada prenda y, SOLO si se ve la composicion con porcentajes,
 elige la opcion mas cercana de materiales.MATERIALES. Si no se ve, deja ''. Escribe atributos.composicion en prendas.json."""
-import os, json
+import os, json, time
 from PIL import Image
 from google import genai
 from google.genai import types
@@ -17,6 +17,13 @@ PROMPT = ("Estas son fotos de una prenda y sus etiquetas. Busca una etiqueta de 
           "(ej. '95% algodon 5% elastano'). Si la ves, transcribela y elige la opcion mas cercana de la lista. "
           "Si NO se ve ninguna composicion con porcentajes, responde visible=false y opcion='Sin dato'. No adivines por la apariencia.")
 
+def con_reintentos(fn, intentos=4):
+    for i in range(intentos):
+        try: return fn()
+        except Exception as e:
+            if i == intentos - 1: raise
+            print(f"   reintento {i+1}: {str(e)[:80]}"); time.sleep(5 * (i + 1))
+
 def main():
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     datos = json.load(open("prendas.json", encoding="utf-8"))
@@ -26,8 +33,8 @@ def main():
             print(f"{p['id']}  ya revisada ({at['composicion'] or 'en blanco'}), salto"); continue
         detalles = [a for a in p["apariciones"] if a.get("es_detalle")] or p["apariciones"][:1]
         imgs = [Image.open(a["crop"]).convert("RGB") for a in detalles[:4]]
-        resp = client.models.generate_content(model=MODEL, contents=imgs + [PROMPT],
-            config=types.GenerateContentConfig(response_mime_type="application/json", response_schema=SCHEMA))
+        resp = con_reintentos(lambda: client.models.generate_content(model=MODEL, contents=imgs + [PROMPT],
+            config=types.GenerateContentConfig(response_mime_type="application/json", response_schema=SCHEMA)))
         r = json.loads(resp.text)
         at["composicion"] = r["opcion"] if r["visible"] and r["opcion"] in MATERIALES else ""
         at["composicion_etiqueta"] = r["texto_etiqueta"] if r["visible"] else ""
