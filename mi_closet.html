@@ -13,31 +13,34 @@
   select, button, textarea { font:inherit; font-size:14px; border:1px solid var(--gris); background:#fff; border-radius:6px; padding:7px 10px; color:#222 }
   button { cursor:pointer } button:hover { border-color:#999 } button:disabled { opacity:.5; cursor:default }
   #aviso { display:none; background:#fff6d6; color:var(--warn); padding:10px 28px; font-size:14px; border-bottom:1px solid #f0e2a0 }
-  main { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; padding:24px 28px; max-width:1700px; margin:0 auto }
+  main { display:grid; grid-template-columns:repeat(4,1fr); grid-auto-rows:1fr; gap:20px; padding:24px 28px; max-width:1700px; margin:0 auto }
   @media (max-width:1200px) { main { grid-template-columns:repeat(3,1fr) } }
   @media (max-width:900px) { main { grid-template-columns:repeat(2,1fr) } }
   @media (max-width:560px) { main { grid-template-columns:1fr; padding:16px } }
-  .card { border:1px solid var(--gris); border-radius:10px; overflow:hidden; display:flex; flex-direction:column; background:#fff; position:relative }
+  .card { border:1px solid var(--gris); border-radius:10px; overflow:hidden; display:flex; flex-direction:column; background:#fff; position:relative; height:100% }
   .card.aprobada { box-shadow:0 0 0 2px var(--ok) inset }
   .card.cambiada { box-shadow:0 0 0 2px var(--no) inset }
   .pill { position:absolute; top:10px; left:10px; font-size:12px; padding:3px 8px; border-radius:99px; background:#fff; border:1px solid var(--gris); color:var(--sec) }
   .card.aprobada .pill { background:var(--ok); color:#fff; border-color:var(--ok) }
   .card.cambiada .pill { background:var(--no); color:#fff; border-color:var(--no) }
-  .maniqui { background:#f3f3f3; aspect-ratio:4/5; display:flex; align-items:center; justify-content:center; position:relative }
+  .maniqui { background:#f3f3f3; aspect-ratio:4/5; flex:none; display:flex; align-items:center; justify-content:center; position:relative }
   .maniqui img { width:100%; height:100%; object-fit:contain }
   .maniqui .velo { position:absolute; inset:0; background:rgba(255,255,255,.75); display:none; align-items:center; justify-content:center; color:var(--sec); font-size:14px }
   .card.trabajando .velo { display:flex }
-  .crops { display:flex; gap:5px; padding:8px 10px 0; overflow-x:auto }
-  .crops img { height:60px; width:auto; border-radius:4px; border:1px solid var(--gris); display:block }
-  .meta { padding:10px 12px 4px }
+  .crops { display:flex; gap:5px; padding:8px 10px 0; overflow-x:auto; height:68px; flex:none; scrollbar-width:none }
+  .crops img { height:52px; width:auto; border-radius:4px; border:1px solid var(--gris); display:block }
+  .meta { padding:10px 12px 4px; height:168px; flex:none; overflow:hidden }
+  .chips { display:flex; gap:4px; flex-wrap:wrap; margin-bottom:6px; height:22px; overflow:hidden }
+  .chip { font-size:11px; padding:2px 7px; border-radius:99px; background:#f3f3f3; color:#333; white-space:nowrap }
   .fila { display:flex; gap:8px; align-items:baseline; margin-bottom:6px; font-size:13px }
   .id { font-weight:600; font-size:14px } .cat { color:var(--sec); text-transform:capitalize } .lote { color:var(--sec); margin-left:auto } .marca { color:var(--sec) }
-  dl { margin:0; display:grid; grid-template-columns:auto 1fr; row-gap:3px; column-gap:10px; font-size:13px }
-  dl div { display:contents } dt { color:var(--sec) } dd { margin:0; color:#222 }
+  dl { margin:0; display:grid; grid-template-columns:62px 1fr; row-gap:3px; column-gap:8px; font-size:13px }
+  dl div { display:contents } dt { color:var(--sec) }
+  dd { margin:0; color:#222; white-space:nowrap; overflow:hidden; text-overflow:ellipsis }
   dd select { width:100%; padding:3px 6px; font-size:13px }
-  .comentario { margin:8px 12px 0; font-size:13px; color:var(--no); background:#fdf1f0; border-radius:6px; padding:6px 8px; display:none }
-  .card.cambiada .comentario { display:block }
-  .acciones { display:flex; gap:6px; padding:8px 12px 12px; margin-top:auto }
+  .comentario { margin:0 12px; font-size:12px; color:var(--no); background:#fdf1f0; border-radius:6px; padding:4px 8px; height:24px; line-height:16px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; visibility:hidden }
+  .card.cambiada .comentario { visibility:visible }
+  .acciones { display:flex; gap:6px; padding:8px 12px 12px; margin-top:auto; flex:none }
   .acciones button { flex:1; font-size:13px; padding:6px 8px }
   .card.aprobada .ok { background:var(--ok); color:#fff; border-color:var(--ok) }
   .card.cambiada .no { background:var(--no); color:#fff; border-color:var(--no) }
@@ -47,16 +50,25 @@
   .form textarea { width:100%; min-height:64px; resize:vertical }
   .form .botones { display:flex; gap:6px } .form .botones button { flex:1; font-size:13px }
   #estado { padding:40px; color:var(--sec); grid-column:1/-1; text-align:center }
-  .msg { font-size:12px; color:var(--sec); padding:0 12px 8px; min-height:16px }
+  .msg { font-size:12px; color:var(--sec); padding:4px 12px 0; height:20px; overflow:hidden; white-space:nowrap; text-overflow:ellipsis }
+  .filtros { display:flex; gap:6px; margin-left:auto; flex-wrap:wrap; align-items:center }
+  .filtros select, .filtros input { font-size:13px; padding:6px 8px; max-width:150px }
+  .filtros .limpiar { font-size:13px; color:var(--sec); background:none; border:none; text-decoration:underline; cursor:pointer }
 </style></head>
 <body>
 <header>
   <h1>Mi closet</h1>
   <div class="conteo"><span>Prendas <b id="c-total">0</b></span><span>Aprobadas <b id="c-ok">0</b></span><span>Cambiadas <b id="c-no">0</b></span><span>Pendientes <b id="c-pend">0</b></span></div>
   <div class="filtros">
-    <select id="f-lote"><option value="">Todos los lotes</option></select>
-    <select id="f-cat"><option value="">Todas las categorías</option></select>
-    <select id="f-est"><option value="">Todos los estados</option><option value="pendiente">Pendientes</option><option value="aprobada">Aprobadas</option><option value="cambiada">Cambiadas</option></select>
+    <input id="f-q" type="search" placeholder="Buscar…">
+    <select id="f-tipo"><option value="">Tipo de prenda</option></select>
+    <select id="f-color"><option value="">Color</option></select>
+    <select id="f-talla"><option value="">Talla</option></select>
+    <select id="f-marca"><option value="">Marca</option></select>
+    <select id="f-lote"><option value="">Lote</option></select>
+    <select id="f-est"><option value="">Estado</option><option value="pendiente">Pendientes</option><option value="aprobada">Aprobadas</option><option value="cambiada">Cambiadas</option></select>
+    <button class="limpiar" onclick="limpiar()">Limpiar</button>
+    <span id="c-vis" style="color:var(--sec);font-size:13px"></span>
     <button onclick="exportar()">Exportar CSV</button>
   </div>
 </header>
@@ -64,7 +76,8 @@
 <main id="grid"><div id="estado">Cargando desde Supabase…</div></main>
 <script>
 const URL_SB = "https://nsbvxuvoybhnlcyzcjcp.supabase.co", KEY_SB = "sb_publishable_NfDzNL-vL3CLZO9t6kpC4Q_YG9GDdS1";
-const MATERIALES = ["Algodón 100%", "Algodón 95% / Elastano 5%", "Algodón 98% / Elastano 2% (mezclilla)", "Algodón 80% / Poliéster 20%", "Algodón 60% / Poliéster 40%", "Poliéster 100%", "Poliéster 95% / Elastano 5%", "Poliéster 65% / Algodón 35%", "Poliéster 70% / Viscosa 30%", "Viscosa 100%", "Viscosa 95% / Elastano 5%", "Lino 100%", "Lino 55% / Algodón 45%", "Lana 100%", "Lana 80% / Poliamida 20%", "Seda 100%", "Cashmere 100%", "Lana 90% / Cashmere 10%", "Poliamida (nylon) 100%", "Poliamida 80% / Elastano 20%", "Acrílico 100%", "Poliuretano 100% (piel sintética)", "Cuero 100%"];
+const MATERIALES = ["Algodón 100%", "Algodón 95% / Elastano 5%", "Algodón 98% / Elastano 2% (mezclilla)", "Algodón 80% / Poliéster 20%", "Algodón 60% / Poliéster 40%", "Poliéster 100%", "Poliéster 95% / Elastano 5%", "Poliéster 65% / Algodón 35%", "Poliéster 70% / Viscosa 30%", "Viscosa 100%", "Viscosa 95% / Elastano 5%", "Lino 100%", "Lino 55% / Algodón 45%", "Lana 100%", "Lana 80% / Poliamida 20%", "Seda 100%", "Cashmere 100%", "Lana 90% / Cashmere 10%", "Poliamida (nylon) 100%", "Poliamida 80% / Elastano 20%", "Acrílico 100%", "Poliuretano 100% (piel sintética)", "Cuero 100%"], TIPOS = [["top", "Top"], ["blusa", "Blusa"], ["camisa", "Camisa"], ["sweater", "Sweater"], ["cardigan", "Cardigan"], ["blazer", "Blazer"], ["chamarra", "Chamarra"], ["abrigo", "Abrigo"], ["vestido", "Vestido"], ["falda", "Falda"], ["pantalon", "Pantalón"], ["jeans", "Jeans"], ["shorts", "Shorts"], ["zapatos", "Zapatos"], ["bolsa", "Bolsa"], ["cinturon", "Cinturón"], ["accesorio", "Accesorio"]], COLORES = [["negro", "Negro"], ["blanco", "Blanco"], ["beige", "Beige"], ["gris", "Gris"], ["cafe", "Café"], ["azul", "Azul"], ["verde", "Verde"], ["rojo", "Rojo"], ["rosa", "Rosa"], ["morado", "Morado"], ["amarillo", "Amarillo"], ["naranja", "Naranja"], ["dorado", "Dorado"], ["plateado", "Plateado"], ["multicolor", "Multicolor"]], TALLAS = ["XS", "S", "M", "L", "XL", "XXL"];
+const etTipo = Object.fromEntries(TIPOS), etColor = Object.fromEntries(COLORES);
 const H = { "apikey": KEY_SB, "Authorization": "Bearer " + KEY_SB };
 const EN_VIVO = location.protocol.startsWith("http");
 if (!EN_VIVO) document.getElementById("aviso").style.display = "block";
@@ -82,15 +95,25 @@ async function cargar() {
   prendas = await rp.json();
   const aps = await ra.json();
   for (const p of prendas) p.crops = aps.filter(a => a.prenda_id === p.id);
-  const lotes = [...new Set(prendas.map(p => p.lote))], cats = [...new Set(prendas.map(p => p.categoria))].sort();
-  document.getElementById("f-lote").innerHTML += lotes.map(l => `<option value="${esc(l)}">${esc(l)}</option>`).join("");
-  document.getElementById("f-cat").innerHTML += cats.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join("");
+  const cnt = (f) => { const c = {}; for (const p of prendas) { const v = f(p); if (v) c[v] = (c[v] || 0) + 1; } return c; };
+  const cTipo = cnt(p => p.tipo || p.categoria), cColor = cnt(p => p.color_base), cTalla = cnt(p => p.talla), cMarca = cnt(p => p.marca), cLote = cnt(p => p.lote);
+  const op = (v, et, n) => `<option value="${esc(v)}">${esc(et)} (${n || 0})</option>`;
+  document.getElementById("f-tipo").innerHTML += TIPOS.map(([v, et]) => op(v, et, cTipo[v])).join("");
+  document.getElementById("f-color").innerHTML += COLORES.map(([v, et]) => op(v, et, cColor[v])).join("");
+  const tallas = [...TALLAS.filter(t => cTalla[t]), ...Object.keys(cTalla).filter(t => !TALLAS.includes(t)).sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))];
+  document.getElementById("f-talla").innerHTML += tallas.map(t => op(t, t, cTalla[t])).join("");
+  document.getElementById("f-marca").innerHTML += Object.keys(cMarca).sort((a, b) => a.localeCompare(b)).map(m => op(m, m, cMarca[m])).join("");
+  document.getElementById("f-lote").innerHTML += Object.keys(cLote).sort().map(l => op(l, l, cLote[l])).join("");
   pintar();
 }
+const val = id => document.getElementById(id).value;
 function visibles() {
-  const fl = document.getElementById("f-lote").value, fc = document.getElementById("f-cat").value, fe = document.getElementById("f-est").value;
-  return prendas.filter(p => (!fl || p.lote === fl) && (!fc || p.categoria === fc) && (!fe || (p.estado || "pendiente") === fe));
+  const q = val("f-q").trim().toLowerCase(), ft = val("f-tipo"), fc = val("f-color"), fta = val("f-talla"), fm = val("f-marca"), fl = val("f-lote"), fe = val("f-est");
+  return prendas.filter(p => (!ft || (p.tipo || p.categoria) === ft) && (!fc || p.color_base === fc) && (!fta || p.talla === fta)
+    && (!fm || p.marca === fm) && (!fl || p.lote === fl) && (!fe || (p.estado || "pendiente") === fe)
+    && (!q || [p.codigo, p.categoria, p.tipo, p.color, p.color_base, p.estilo, p.detalles, p.marca, p.talla, p.marca_talla, p.material, p.descripcion].join(" ").toLowerCase().includes(q)));
 }
+function limpiar() { for (const id of ["f-q", "f-tipo", "f-color", "f-talla", "f-marca", "f-lote", "f-est"]) document.getElementById(id).value = ""; pintar(); }
 function imgUrl(p) { return p.maniqui_url ? `${p.maniqui_url}?v=${p.version || 1}` : ""; }
 function tarjeta(p) {
   const est = p.estado || "pendiente";
@@ -100,15 +123,16 @@ function tarjeta(p) {
   <div class="maniqui">${p.maniqui_url ? `<img src="${esc(imgUrl(p))}" loading="lazy">` : ""}<div class="velo">Corrigiendo con Gemini…</div></div>
   <div class="crops">${p.crops.map(c => `<a href="${esc(c.crop_url)}" target="_blank" title="${esc(c.foto)}${c.es_detalle ? " (detalle)" : ""}"><img src="${esc(c.crop_url)}" loading="lazy"></a>`).join("")}</div>
   <div class="meta">
-    <div class="fila"><span class="id">${esc(p.codigo)}</span><span class="cat">${esc(p.categoria)}</span>${p.marca_talla ? `<span class="marca">${esc(p.marca_talla)}</span>` : ""}<span class="lote">${esc(p.lote)}</span></div>
+    <div class="fila"><span class="id">${esc(p.codigo)}</span><span class="cat">${esc(etTipo[p.tipo] || p.categoria)}</span><span class="lote">${esc(p.lote)}</span></div>
+    <div class="chips">${[p.color_base && etColor[p.color_base], p.talla && "Talla " + p.talla, p.marca].filter(Boolean).map(c => `<span class="chip">${esc(c)}</span>`).join("")}</div>
     <dl>
-      <div><dt>Color</dt><dd>${esc(p.color || "—")}</dd></div>
-      <div><dt>Estilo</dt><dd>${esc(p.estilo || "—")}</dd></div>
+      <div><dt>Color</dt><dd title="${esc(p.color || "")}">${esc(p.color || "—")}</dd></div>
+      <div><dt>Estilo</dt><dd title="${esc(p.estilo || "")}">${esc(p.estilo || "—")}</dd></div>
       <div><dt>Material</dt><dd><select onchange="material('${esc(p.id)}', this.value)"><option value="">—</option>${MATERIALES.map(m => `<option value="${esc(m)}"${m === p.material ? " selected" : ""}>${esc(m)}</option>`).join("")}</select></dd></div>
-      <div><dt>Detalles</dt><dd>${esc(p.detalles || "—")}</dd></div>
+      <div><dt>Detalles</dt><dd title="${esc(p.detalles || "")}">${esc(p.detalles || "—")}</dd></div>
     </dl>
   </div>
-  <div class="comentario">${esc(p.comentario || "")}</div>
+  <div class="comentario" title="${esc(p.comentario || "")}">${esc(p.comentario || "")}</div>
   <div class="msg"></div>
   <div class="acciones">
     <button class="ok" onclick="aprobar('${esc(p.id)}')">Aprobar</button>
@@ -130,6 +154,7 @@ function pintar() {
   document.getElementById("c-ok").textContent = ok;
   document.getElementById("c-no").textContent = no;
   document.getElementById("c-pend").textContent = prendas.length - ok - no;
+  document.getElementById("c-vis").textContent = lista.length === prendas.length ? "" : `${lista.length} de ${prendas.length}`;
 }
 function repintar(p) { const c = card(p.id); if (c) c.outerHTML = tarjeta(p); pintar(); }
 function msg(id, texto, error) { const c = card(id); if (!c) return; const m = c.querySelector(".msg"); m.textContent = texto; m.style.color = error ? "var(--no)" : "var(--sec)"; }
@@ -169,12 +194,13 @@ async function material(id, valor) {
 }
 function csv(v) { v = String(v ?? ""); return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; }
 function exportar() {
-  const filas = [["id", "lote", "codigo", "categoria", "marca_talla", "color", "estilo", "material", "detalles", "estado", "comentario", "maniqui"]];
-  for (const p of prendas) filas.push([p.id, p.lote, p.codigo, p.categoria, p.marca_talla, p.color, p.estilo, p.material, p.detalles, p.estado || "pendiente", p.comentario, p.maniqui_url]);
+  const filas = [["id", "lote", "codigo", "tipo", "color_base", "talla", "marca", "marca_talla", "color", "estilo", "material", "detalles", "estado", "comentario", "maniqui"]];
+  for (const p of prendas) filas.push([p.id, p.lote, p.codigo, p.tipo || p.categoria, p.color_base, p.talla, p.marca, p.marca_talla, p.color, p.estilo, p.material, p.detalles, p.estado || "pendiente", p.comentario, p.maniqui_url]);
   const blob = new Blob(["﻿" + filas.map(f => f.map(csv).join(",")).join("\n")], { type: "text/csv;charset=utf-8" });
   const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "mi_closet_revision.csv"; a.click();
 }
-for (const id of ["f-lote", "f-cat", "f-est"]) document.getElementById(id).addEventListener("change", pintar);
+for (const id of ["f-tipo", "f-color", "f-talla", "f-marca", "f-lote", "f-est"]) document.getElementById(id).addEventListener("change", pintar);
+document.getElementById("f-q").addEventListener("input", pintar);
 cargar();
 </script>
 </body></html>

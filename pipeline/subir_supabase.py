@@ -36,7 +36,8 @@ def main():
         filas_p.append({"id": pid, "lote": LOTE, "codigo": p["id"], "categoria": p["categoria"],
                         "marca_talla": p.get("marca_talla") or None, "descripcion": p["descripcion"],
                         "color": at.get("color"), "estilo": at.get("estilo"), "material": at.get("composicion") or None,
-                        "detalles": at.get("detalles"), "maniqui_url": url_man})
+                        "detalles": at.get("detalles"), "maniqui_url": url_man,
+                        "tipo": at.get("tipo"), "color_base": at.get("color_base"), "marca": at.get("marca") or None, "talla": at.get("talla") or None})
         for a in p["apariciones"]:
             filas_a.append({"prenda_id": pid, "foto": a["foto"], "n": a["n"], "bbox": a["bbox"],
                             "es_detalle": a.get("es_detalle", False), "descripcion_foto": a.get("descripcion_foto"),

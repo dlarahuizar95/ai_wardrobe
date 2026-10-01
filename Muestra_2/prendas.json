@@ -93,7 +93,11 @@
         "material": "Tela elástica acanalada fina",
         "detalles": "Cintura elástica de largo completo, sin botones ni cierres",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -176,7 +180,11 @@
         "material": "Tela de vestir",
         "detalles": "Pretina con trabillas, pinzas frontales y cierre con botón",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "negro",
+        "marca": "Stradivarius",
+        "talla": "26"
       }
     },
     {
@@ -246,7 +254,11 @@
         "material": "Mezclilla",
         "detalles": "Pretina con boton y cremallera, estilo de cinco bolsillos y abertura central",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "falda",
+        "color_base": "negro",
+        "marca": "Stradivarius",
+        "talla": "26"
       }
     },
     {
@@ -303,7 +315,11 @@
         "material": "Terciopelo o velour satinado",
         "detalles": "Pretina elástica ancha de color negro y diseño plisado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "falda",
+        "color_base": "beige",
+        "marca": "Jambi",
+        "talla": ""
       }
     },
     {
@@ -399,7 +415,11 @@
         "material": "Pana acanalada",
         "detalles": "Pretina de resorte cubierta, sin cordón, sin cierres ni botones",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "cafe",
+        "marca": "Oysho",
+        "talla": "M"
       },
       "nota_maniqui": "La pretina es SOLO de resorte, cubierta con la misma pana. NO pongas cordon, NO hilos colgando, NO lazos, NO nada que se amarre. Color cafe chocolate oscuro exacto al de las fotos, no mas claro ni anaranjado. Pana acanalada fina visible.",
       "estado": "pendiente"
@@ -484,7 +504,11 @@
         "material": "Tela de vestir lisa",
         "detalles": "Pretina con botón al tono, cierre frontal y pliegues en la cintura",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "cafe",
+        "marca": "Stradivarius",
+        "talla": "28"
       }
     },
     {
@@ -567,7 +591,11 @@
         "material": "Mezclilla",
         "detalles": "Bolsillos parche frontales, costuras de adorno, botón y cierre de cremallera",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "jeans",
+        "color_base": "gris",
+        "marca": "Mango",
+        "talla": "3"
       }
     },
     {
@@ -637,7 +665,11 @@
         "material": "Mezclilla de algodón",
         "detalles": "Cierre frontal con botón metálico dorado y presillas",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "jeans",
+        "color_base": "azul",
+        "marca": "Zara",
+        "talla": "28"
       }
     },
     {
@@ -707,7 +739,11 @@
         "material": "Tela ligera lisa y fluida",
         "detalles": "Pretina alta ajustada y caida holgada",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "verde",
+        "marca": "Zara",
+        "talla": "L"
       }
     },
     {
@@ -777,7 +813,11 @@
         "material": "Tela tejida de vestir",
         "detalles": "Pliegues frontales, pretina con trabillas y largo completo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "multicolor",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -847,7 +887,11 @@
         "material": "Mezclilla de algodón",
         "detalles": "Bolsillos frontales, botón metálico y cierre de cremallera",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "jeans",
+        "color_base": "azul",
+        "marca": "Mango",
+        "talla": "3"
       }
     },
     {
@@ -917,7 +961,11 @@
         "material": "Mezclilla",
         "detalles": "Bragueta de botones metálicos expuestos y aberturas en los tobillos",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "jeans",
+        "color_base": "azul",
+        "marca": "Kur.kuma",
+        "talla": "26"
       }
     },
     {
@@ -1000,7 +1048,11 @@
         "material": "Mezclilla aparente",
         "detalles": "Bolsillos frontales, pretina con trabillas, cierre de cremallera y botón metálico",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "jeans",
+        "color_base": "azul",
+        "marca": "Zara",
+        "talla": "26"
       }
     }
   ],

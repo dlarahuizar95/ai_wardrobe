@@ -67,7 +67,11 @@
         "material": "Tela ligera y fluida",
         "detalles": "Pretina elástica y largo completo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "negro",
+        "marca": "Blu Pepper",
+        "talla": "M"
       }
     },
     {
@@ -150,7 +154,11 @@
         "material": "Tela plana mate de vestir",
         "detalles": "Pliegues frontales, botones decorativos a los lados de la cintura y cierre frontal",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "naranja",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -259,7 +267,11 @@
         "material": "Piel sintética con forro textil afelpado",
         "detalles": "Largo completo, pretina con presillas y cierre frontal oculto con corchete",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "verde",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -316,7 +328,11 @@
         "material": "Tela elástica lisa",
         "detalles": "Cuello cerrado con fruncido central y mangas drapeadas",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "morado",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -347,7 +363,11 @@
         "material": "Tul transparente",
         "detalles": "Pretina elastica negra y niveles de volantes",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "falda",
+        "color_base": "negro",
+        "marca": "",
+        "talla": ""
       }
     }
   ],

@@ -28,7 +28,11 @@
         "material": "Gasa o chifón semitransparente",
         "detalles": "Manga larga, largo maxi, fruncidos laterales y bajo con vuelo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -85,7 +89,11 @@
         "material": "Gasa ligera o tela semitransparente",
         "detalles": "Manga larga con puños elásticos, cuello en V con holanes y tiras delgadas con adorno de perla",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "beige",
+        "marca": "Zara",
+        "talla": "L"
       }
     },
     {
@@ -129,7 +137,11 @@
         "material": "Lino o algodón ligero",
         "detalles": "Tirantes anchos elásticos fruncidos y escote recto",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "beige",
+        "marca": "Primark",
+        "talla": "42"
       }
     },
     {
@@ -173,7 +185,11 @@
         "material": "Tela satinada",
         "detalles": "Tirantes delgados, escote drapeado y largo corto",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "beige",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -217,7 +233,11 @@
         "material": "Tela sintética de tipo rompevientos con forro interior de malla",
         "detalles": "Manga larga, cuello alto, cierre frontal de cremallera y bolsillos laterales",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "amarillo",
+        "marca": "Nautica",
+        "talla": "S"
       }
     },
     {
@@ -274,7 +294,11 @@
         "material": "Sintético impermeable con forro de malla",
         "detalles": "Manga larga, cuello alto, gorro con jaretas ajustables, cierre frontal y logotipo en el pecho",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "amarillo",
+        "marca": "Helly Hansen",
+        "talla": "M"
       }
     },
     {
@@ -305,7 +329,11 @@
         "material": "Tejido elástico acanalado de nylon y spandex",
         "detalles": "Escote recto, tirantes anchos y textura de canalé",
         "composicion": "Poliamida 80% / Elastano 20%",
-        "composicion_etiqueta": "90% nylon 10% spandex"
+        "composicion_etiqueta": "90% nylon 10% spandex",
+        "tipo": "top",
+        "color_base": "beige",
+        "marca": "",
+        "talla": "M"
       }
     },
     {
@@ -349,7 +377,11 @@
         "material": "Tela elástica lisa",
         "detalles": "Tirantes medianos, escote holgado y laterales fruncidos",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "verde",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -406,7 +438,11 @@
         "material": "Tejido acanalado",
         "detalles": "Escote recto y corte de pierna alto",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "negro",
+        "marca": "QQQ",
+        "talla": "S"
       }
     },
     {
@@ -450,7 +486,11 @@
         "material": "Tela fluida y encaje",
         "detalles": "Tirantes delgados, borde de encaje de pestañas en el escote y elástico en la cintura",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -494,7 +534,11 @@
         "material": "Encaje y malla semitransparente",
         "detalles": "Cuello redondo, detalles calados, bordes festoneados y forro interior",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -525,7 +569,11 @@
         "material": "Chifón ligero con forro interior opaco",
         "detalles": "Sin mangas, cuello en V, largo medio y capa semitransparente",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -569,7 +617,11 @@
         "material": "Tela sintética elástica",
         "detalles": "Cuello alto tipo cisne y pinzas laterales en el busto",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -613,7 +665,11 @@
         "material": "Tejido acanalado con encaje",
         "detalles": "Escote pronunciado en V con encaje, fruncido en busto y broches en entrepierna",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -657,7 +713,11 @@
         "material": "Tejido de punto acanalado",
         "detalles": "Manga corta y cuello redondo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "beige",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -701,7 +761,11 @@
         "material": "Tela suave y elástica",
         "detalles": "Cuello redondo, manga corta y bajo curvado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "gris",
+        "marca": "Uniqlo",
+        "talla": "M"
       }
     },
     {
@@ -745,7 +809,11 @@
         "material": "Tela suave elástica",
         "detalles": "Manga corta, cuello redondo y dobladillo recto",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "Uniqlo",
+        "talla": "M"
       }
     },
     {
@@ -789,7 +857,11 @@
         "material": "Tela elástica lisa",
         "detalles": "Escote cuadrado y broches en la entrepierna",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "Contour",
+        "talla": ""
       }
     },
     {
@@ -846,7 +918,11 @@
         "material": "Algodon suave",
         "detalles": "Manga corta tipo cap, cuello redondo, costura posterior central y aberturas laterales en el dobladillo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "A New Day",
+        "talla": ""
       }
     },
     {
@@ -890,7 +966,11 @@
         "material": "Tela de punto suave",
         "detalles": "Tirantes finos tipo espagueti y cuello recto alto",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -934,7 +1014,11 @@
         "material": "Tela de punto elástica y suave",
         "detalles": "Manga larga, escote en V pronunciado y cierre con broches de presión en el tiro",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "Contour Aritzia",
+        "talla": "M"
       }
     },
     {
@@ -978,7 +1062,11 @@
         "material": "Tejido de punto fino",
         "detalles": "Manga larga raglán, cuello redondo y acabados acanalados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "sweater",
+        "color_base": "cafe",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1022,7 +1110,11 @@
         "material": "Tela sintetica elastica metalizada",
         "detalles": "Escote cuadrado, manga larga y broches de presion en la entrepierna",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "dorado",
+        "marca": "Babaton",
+        "talla": "XS"
       }
     },
     {
@@ -1066,7 +1158,11 @@
         "material": "Tejido elástico satinado",
         "detalles": "Manga larga, escote cuadrado y cierre de broches en la entrepierna",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "plateado",
+        "marca": "Contour Aritzia",
+        "talla": "M"
       }
     }
   ],

@@ -41,7 +41,11 @@
         "material": "Poliéster sintético con forro satinado",
         "detalles": "Manga larga, cuello de solapa amplia, doble abotonadura metálica plateada y holanes plisados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "abrigo",
+        "color_base": "rosa",
+        "marca": "Burberry",
+        "talla": "4"
       }
     },
     {
@@ -85,7 +89,11 @@
         "material": "Gasa fluida",
         "detalles": "Escote en V profundo drapeado, cintura fruncida y mangas largas abullonadas",
         "composicion": "Poliéster 100%",
-        "composicion_etiqueta": "TECIDO PRINCIPAL 100% POLIÉSTER FORRO 100% POLIÉSTER"
+        "composicion_etiqueta": "TECIDO PRINCIPAL 100% POLIÉSTER FORRO 100% POLIÉSTER",
+        "tipo": "vestido",
+        "color_base": "rojo",
+        "marca": "Majeste",
+        "talla": "S"
       }
     },
     {
@@ -129,7 +137,11 @@
         "material": "Tejido de punto acanalado",
         "detalles": "Sin mangas, escote en V profundo y dobladillo asimétrico",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "rosa",
+        "marca": "Lpa",
+        "talla": "M"
       }
     },
     {
@@ -173,7 +185,11 @@
         "material": "Tela de sastre aparente con forro satinado",
         "detalles": "Manga larga, cuello mandarín sin solapa, cierre de un botón y bolsillos laterales con solapa",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "abrigo",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "L"
       }
     },
     {
@@ -217,7 +233,11 @@
         "material": "Mezclilla",
         "detalles": "Escote en V profundo, tirantes, costuras verticales destacadas y bordes deshilachados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "azul",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -261,7 +281,11 @@
         "material": "Tela elástica con textura jacquard",
         "detalles": "Escote de un solo hombro y manga larga",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "amarillo",
+        "marca": "H&M",
+        "talla": "M"
       }
     },
     {
@@ -305,7 +329,11 @@
         "material": "Gasa ligera fluida con forro",
         "detalles": "Sin mangas, cuello halter con pliegues fruncidos y tirantes de ajuste",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "amarillo",
+        "marca": "Lovers and Friends",
+        "talla": "M"
       }
     },
     {
@@ -349,7 +377,11 @@
         "material": "Tela plana sintética de aspecto crepé",
         "detalles": "Sin mangas, tirantes anchos, escote redondo y detalle de vista clara en el cuello",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "H&M",
+        "talla": "38"
       }
     },
     {
@@ -393,7 +425,11 @@
         "material": "Tejido satinado de jacquard",
         "detalles": "Escote en V, tirantes con holanes y abertura en la falda con volantes",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "amarillo",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -437,7 +473,11 @@
         "material": "Gasa fluida con detalles satinados",
         "detalles": "Sin mangas, pechera drapeada con pliegues texturizados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "cafe",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -494,7 +534,11 @@
         "material": "Algodon o poliester aparente",
         "detalles": "Cuello con solapas amplias, manga larga con tiras en puños, cinturon a juego y botones a contraste",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "abrigo",
+        "color_base": "beige",
+        "marca": "Michael Kors",
+        "talla": ""
       }
     },
     {
@@ -551,7 +595,11 @@
         "material": "Tela ligera plisada con textura arrugada",
         "detalles": "Escote con holanes fruncidos y tirantes delgados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "rojo",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -595,7 +643,11 @@
         "material": "Tela ligera y fluida de aspecto suave",
         "detalles": "Tirantes delgados ajustables, escote fruncido y panel de olán en el bajo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "rosa",
+        "marca": "Uniqlo",
+        "talla": "M"
       }
     },
     {
@@ -639,7 +691,11 @@
         "material": "Tejido ligero aparente",
         "detalles": "Escote en V cruzado con nudo frontal, manga corta caída y largo maxi",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "Springfield",
+        "talla": "XS"
       }
     },
     {
@@ -683,7 +739,11 @@
         "material": "Gasa o tela ligera",
         "detalles": "Un solo hombro, manga larga, fruncidos laterales y holanes en la falda",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "ASTR the Label",
+        "talla": "M"
       }
     },
     {
@@ -727,7 +787,11 @@
         "material": "Algodón ligero con detalles de encaje",
         "detalles": "Sin mangas, escote en V, bordados calados y pliegues en talle y falda",
         "composicion": "Lino 55% / Algodón 45%",
-        "composicion_etiqueta": "OUTERSHELL 55% LINEN 45% COTTON LINING 100% COTTON"
+        "composicion_etiqueta": "OUTERSHELL 55% LINEN 45% COTTON LINING 100% COTTON",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -758,7 +822,11 @@
         "material": "Algodón suave",
         "detalles": "Sin mangas, tirantes anchos, escote en V pronunciado, fruncido bajo el pecho y cordones para atar",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "verde",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -815,7 +883,11 @@
         "material": "Tejido tipo tweed o espiga",
         "detalles": "Tirantes ajustables, pretina entallada con pliegues y bolsillos laterales",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "gris",
+        "marca": "Free People",
+        "talla": "S"
       }
     },
     {
@@ -898,7 +970,11 @@
         "material": "Tela ligera aparente",
         "detalles": "Tirantes delgados, escote recto y falda larga plisada",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "blanco",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -942,7 +1018,11 @@
         "material": "Popelina de algodón",
         "detalles": "Mangas cortas abullonadas, escote profundo fruncido y tirantes cruzados en la espalda",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "rosa",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -973,7 +1053,11 @@
         "material": "Tela plana de apariencia de algodón",
         "detalles": "Tirantes anchos, sin mangas y falda larga dividida en tres niveles con olanes",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1017,7 +1101,11 @@
         "material": "Tela ligera tipo lino con textura arrugada",
         "detalles": "Escote en V, tirantes finos y costuras decorativas horizontales",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "beige",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1061,7 +1149,11 @@
         "material": "Gasa o tela ligera aparente",
         "detalles": "Escote halter, cintura elástica en nido de abeja y falda fluida",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "Fate",
+        "talla": "S"
       }
     },
     {
@@ -1092,7 +1184,11 @@
         "material": "Tela ligera y fluida",
         "detalles": "Sin mangas, cuello redondo y largo maxi",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1123,7 +1219,11 @@
         "material": "Tela ligera fluida aparente de poliéster",
         "detalles": "Sin mangas, escote redondo y olán superpuesto en el pecho",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1167,7 +1267,11 @@
         "material": "Satinado brillante",
         "detalles": "Escote en V profundo y tirantes finos",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1211,7 +1315,11 @@
         "material": "Tela suave satinada elástica con forro",
         "detalles": "Cuello drapeado estilo halter, sin mangas y largo maxi",
         "composicion": "Poliamida 80% / Elastano 20%",
-        "composicion_etiqueta": "80% nylon/poliamida 20% elastane/elastano 89% polyester/poliester 11% elastane/elastano"
+        "composicion_etiqueta": "80% nylon/poliamida 20% elastane/elastano 89% polyester/poliester 11% elastane/elastano",
+        "tipo": "vestido",
+        "color_base": "cafe",
+        "marca": "Baobab",
+        "talla": "S"
       }
     },
     {
@@ -1242,7 +1350,11 @@
         "material": "Tela sintética ligera",
         "detalles": "Sin mangas, cuello redondo y largo hasta los tobillos",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "verde",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1273,7 +1385,11 @@
         "material": "Cuero o piel con apariencia envejecida",
         "detalles": "Múltiples correas con hebillas metálicas, ojetes y arnés decorativo en el tobillo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "zapatos",
+        "color_base": "cafe",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1330,7 +1446,11 @@
         "material": "Goma con forro interior de tela",
         "detalles": "Correas decorativas superiores, hebillas doradas y cierre posterior",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "zapatos",
+        "color_base": "negro",
+        "marca": "Burberry",
+        "talla": ""
       }
     },
     {
@@ -1374,7 +1494,11 @@
         "material": "Tejido plisado con acabado satinado",
         "detalles": "Escote en V, manga corta y cinta ajustable en cintura",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "beige",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1418,7 +1542,11 @@
         "material": "Pelo sintético afelpado",
         "detalles": "Manga larga, largo corto, cuello redondo y frente abierto",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "cafe",
+        "marca": "Kiss & Love Collection",
+        "talla": "L"
       }
     },
     {
@@ -1475,7 +1603,11 @@
         "material": "Mezclilla de algodón con contraste en tela textil",
         "detalles": "Manga larga, cuello camisero, botones metálicos dorados, puños y pretina elásticos",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "azul",
+        "marca": "Torino",
+        "talla": "38"
       }
     },
     {
@@ -1519,7 +1651,11 @@
         "material": "Poliester o tela sintetica acolchada",
         "detalles": "Manga larga, cuello camisero, cierre de botones de presion metalicos y bolsillos de parche",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "L"
       }
     },
     {
@@ -1563,7 +1699,11 @@
         "material": "Poliéster o nylon sintético acolchado",
         "detalles": "Manga larga, cuello corto, cierre frontal de cremallera metálica y costuras horizontales",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "gris",
+        "marca": "Geox",
+        "talla": "46"
       }
     },
     {
@@ -1620,7 +1760,11 @@
         "material": "Mezclilla de algodon y tejido de punto",
         "detalles": "Manga larga, capucha, botones metalicos y bolsillos de parche en pecho",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "azul",
+        "marca": "American Eagle",
+        "talla": ""
       }
     },
     {
@@ -1677,7 +1821,11 @@
         "material": "Pelo sintético afelpado con forro satinado",
         "detalles": "Manga larga, solapa amplia y cierre frontal",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "abrigo",
+        "color_base": "gris",
+        "marca": "Mango",
+        "talla": "M"
       }
     },
     {
@@ -1734,7 +1882,11 @@
         "material": "Tejido de lana o poliéster con forro satinado",
         "detalles": "Manga larga, solapa con muesca, cierre de dos botones y bolsillos con solapa",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blazer",
+        "color_base": "gris",
+        "marca": "Calderoni",
+        "talla": ""
       }
     },
     {
@@ -1791,7 +1943,11 @@
         "material": "Lana bouclé de textura gruesa y afelpada",
         "detalles": "Manga larga, cuello redondo sin solapa y cierre de botones frontales",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "abrigo",
+        "color_base": "gris",
+        "marca": "Zara",
+        "talla": ""
       }
     },
     {
@@ -1835,7 +1991,11 @@
         "material": "Tweed de textura rugosa con lentejuelas y forro interior",
         "detalles": "Manga larga, cuello con solapa, botones metálicos plateados grabados y bolsillos simulados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blazer",
+        "color_base": "blanco",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1866,7 +2026,11 @@
         "material": "Mezclilla de algodón",
         "detalles": "Manga larga, cuello camisero, tachuelas metálicas plateadas, bolsillos frontales y bordes deshilachados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "gris",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1923,7 +2087,11 @@
         "material": "Nylon sintético acolchado",
         "detalles": "Manga larga, cuello alto, cierre frontal con solapa, bolsillo en la manga y cordones ajustables en la cintura",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "multicolor",
+        "marca": "Profile",
+        "talla": ""
       }
     },
     {
@@ -1980,7 +2148,11 @@
         "material": "Tejido de punto grueso aparente",
         "detalles": "Cuello redondo, sin mangas y bordes con relieve trenzado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "sweater",
+        "color_base": "beige",
+        "marca": "LoveShackFancy",
+        "talla": "S"
       }
     },
     {
@@ -2037,7 +2209,11 @@
         "material": "Piel o piel sintética con forro textil negro",
         "detalles": "Manga larga, cuello de solapa lisa, botones ocultos y bolsillos laterales",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "negro",
+        "marca": "",
+        "talla": "M"
       }
     },
     {
@@ -2081,7 +2257,11 @@
         "material": "Tejido plano de aspecto estructurado",
         "detalles": "Manga larga, cuello de solapa, bolsillos frontales con tapa y botones",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blazer",
+        "color_base": "blanco",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -2138,7 +2318,11 @@
         "material": "Franela gruesa aparente",
         "detalles": "Manga larga, cuello camisero, bolsillos de parche al frente y cierre de broches de presión",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "chamarra",
+        "color_base": "multicolor",
+        "marca": "For The Republic",
+        "talla": "M"
       }
     },
     {
@@ -2195,7 +2379,11 @@
         "material": "Pana acanalada",
         "detalles": "Manga larga, cuello camisero, bolsillo frontal de parche y botones",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "rosa",
+        "marca": "Momokrom",
+        "talla": ""
       }
     }
   ],

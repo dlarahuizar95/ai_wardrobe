@@ -41,7 +41,11 @@
         "material": "Poliéster fluido de aspecto crepé",
         "detalles": "Manga larga con puños, cuello asimétrico y botones tipo perla",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "azul",
+        "marca": "Zara",
+        "talla": ""
       }
     },
     {
@@ -72,7 +76,11 @@
         "material": "Gasa ligera de poliéster",
         "detalles": "Manga larga, escote en V, talle ajustado con lazo y falda escalonada con volantes",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "verde",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -116,7 +124,11 @@
         "material": "Tejido arrugado aparente de algodón o doble gasa",
         "detalles": "Escote en V con tres botones frontales y falda escalonada",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "rosa",
+        "marca": "Pull&Bear",
+        "talla": ""
       }
     },
     {
@@ -160,7 +172,11 @@
         "material": "Tela fluida ligeramente satinada",
         "detalles": "Manga larga con olanes decorativos a los lados y cuello redondo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "rosa",
+        "marca": "Zara",
+        "talla": ""
       }
     },
     {
@@ -230,7 +246,11 @@
         "material": "Tela suave de algodón con acabado mate",
         "detalles": "Escote en V, mangas tres cuartos abullonadas y elástico con jareta en la cintura",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "gris",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -313,7 +333,11 @@
         "material": "Tela con textura crepe y encaje",
         "detalles": "Manga larga, largo corto y detalle de encaje floral calado en el cuello",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -357,7 +381,11 @@
         "material": "Tejido estructurado con forro interior",
         "detalles": "Manga larga, escote en V sin solapa y botones metálicos plateados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blazer",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -401,7 +429,11 @@
         "material": "Tejido de punto acanalado",
         "detalles": "Sin mangas, cuello polo y escote en V profundo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -458,7 +490,11 @@
         "material": "Tejido ligero con apariencia de lino",
         "detalles": "Tirantes anudados con cinta morada teñida y escote drapeado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "verde",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -502,7 +538,11 @@
         "material": "Chifón de poliéster ligero plisado",
         "detalles": "Cuello alto redondo con encaje calado en el borde y sin mangas",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "blanco",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -546,7 +586,11 @@
         "material": "Tela sintética elástica con panel superpuesto de gasa o chifón",
         "detalles": "Manga larga, cuello redondo y capa frontal plisada con bajo asimétrico",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -603,7 +647,11 @@
         "material": "Tela ligera y fluida",
         "detalles": "Pliegues en la parte superior y pretina ajuste cómodo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -660,7 +708,11 @@
         "material": "Tejido ligero y vaporoso",
         "detalles": "Pretina elástica en la cintura y pliegues verticales",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "falda",
+        "color_base": "negro",
+        "marca": "Made In China",
+        "talla": "M"
       }
     },
     {
@@ -704,7 +756,11 @@
         "material": "Gasa de chifón con pechera de satén aparente",
         "detalles": "Sin mangas, pechera fruncida con textura satinada y faldón plisado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "gris",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -774,7 +830,11 @@
         "material": "Tejido de punto fino con hilo metalizado",
         "detalles": "Escote en V profundo, cuello halter y sin mangas",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "gris",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -818,7 +878,11 @@
         "material": "Gabardina o mezcla de algodón aparente",
         "detalles": "Cuello camisero, manga larga con puños doblados, bolsillos y botones frontales",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "abrigo",
+        "color_base": "cafe",
+        "marca": "Andy & Lucy",
+        "talla": "M"
       }
     },
     {
@@ -849,7 +913,11 @@
         "material": "Terciopelo plisado aparente",
         "detalles": "Cuello en V, manga corta, cierre metálico frontal y elástico con olanes",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "beige",
+        "marca": "Zara",
+        "talla": ""
       }
     },
     {
@@ -906,7 +974,11 @@
         "material": "Mezclilla de algodón",
         "detalles": "Manga larga, botones metálicos dorados y olanes en el pecho",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "azul",
+        "marca": "Zara",
+        "talla": "XS"
       }
     },
     {
@@ -950,7 +1022,11 @@
         "material": "Tejido ligero aparente de lino",
         "detalles": "Escote recto, sin mangas y tirantes elásticos",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "verde",
+        "marca": "Primark",
+        "talla": "42"
       }
     },
     {
@@ -994,7 +1070,11 @@
         "material": "Tejido de sarga diagonal",
         "detalles": "Tirantes delgados con argollas decorativas y escote sutil en V",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "rosa",
+        "marca": "Topshop",
+        "talla": "42"
       }
     },
     {
@@ -1038,7 +1118,11 @@
         "material": "Tejido aparente de lino o algodón",
         "detalles": "Cuello redondo, sin mangas y ligera abertura posterior en el cuello",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "Cuidado Con El Perro",
+        "talla": "S"
       }
     },
     {
@@ -1082,7 +1166,11 @@
         "material": "Tejido de punto",
         "detalles": "Cuello redondo acanalado, pretina y sisas acanaladas",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "sweater",
+        "color_base": "blanco",
+        "marca": "Jessica Simpson",
+        "talla": "M"
       }
     },
     {
@@ -1126,7 +1214,11 @@
         "material": "Algodón aparente",
         "detalles": "Manga larga abullonada con puños, escote con olán y cintura fruncida nido de abeja",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "beige",
+        "marca": "Mango",
+        "talla": "S"
       }
     },
     {
@@ -1170,7 +1262,11 @@
         "material": "Tul semitransparente",
         "detalles": "Manga larga abullonada, cuello alto con olanes y botones frontales",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "blanco",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -1214,7 +1310,11 @@
         "material": "Tejido de punto acanalado",
         "detalles": "Manga larga, cuello redondo y cierre con broches en la entrepierna",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "cafe",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -1258,7 +1358,11 @@
         "material": "Tejido de punto fino metalizado",
         "detalles": "Manga larga, cuello redondo acanalado y dobladillo con olán",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "sweater",
+        "color_base": "gris",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -1315,7 +1419,11 @@
         "material": "Poliéster ligero con textura suave",
         "detalles": "Manga larga abullonada con puño elástico, escote asimétrico, tirante fino y lazo en el hombro",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "blanco",
+        "marca": "Cq By Cq",
+        "talla": "S"
       }
     },
     {
@@ -1359,7 +1467,11 @@
         "material": "Tejido acanalado",
         "detalles": "Manga larga con abullonado en los hombros y cuello medio alzado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "negro",
+        "marca": "George",
+        "talla": "S"
       }
     },
     {
@@ -1390,7 +1502,11 @@
         "material": "Paño de lana con forro satinado",
         "detalles": "Escote en V, cierre frontal con botones forrados y bolsillos de ribete",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "rojo",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1434,7 +1550,11 @@
         "material": "Tejido elástico de canalé",
         "detalles": "Sin mangas, tirantes anchos y escote recto",
         "composicion": "Poliamida 80% / Elastano 20%",
-        "composicion_etiqueta": "90% nylon 10% spandex"
+        "composicion_etiqueta": "90% nylon 10% spandex",
+        "tipo": "top",
+        "color_base": "verde",
+        "marca": "Qqq",
+        "talla": "M"
       }
     },
     {
@@ -1478,7 +1598,11 @@
         "material": "Tejido de punto fino de algodón Pima",
         "detalles": "Manga larga, cuello en V y bordes acanalados",
         "composicion": "Algodón 100%",
-        "composicion_etiqueta": "100% Pima Cotton 100% Coton Pima"
+        "composicion_etiqueta": "100% Pima Cotton 100% Coton Pima",
+        "tipo": "sweater",
+        "color_base": "azul",
+        "marca": "Tommy Hilfiger",
+        "talla": "XS"
       }
     },
     {
@@ -1535,7 +1659,11 @@
         "material": "Tejido de punto",
         "detalles": "Manga corta, cuello redondo acanalado y pretina inferior a rayas",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "sweater",
+        "color_base": "negro",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1566,7 +1694,11 @@
         "material": "Tejido de punto elástico",
         "detalles": "Cuello acanalado y diseño geométrico",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "sweater",
+        "color_base": "azul",
+        "marca": "Gap",
+        "talla": "S"
       }
     },
     {
@@ -1610,7 +1742,11 @@
         "material": "Tejido de punto suave y elástico",
         "detalles": "Manga larga raglán, cuello redondo, puños anchos y detalle fruncido lateral en el dobladillo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "sweater",
+        "color_base": "gris",
+        "marca": "Offline By Aerie",
+        "talla": "M"
       }
     },
     {
@@ -1654,7 +1790,11 @@
         "material": "Tela ligera fluida tipo crepé",
         "detalles": "Cuello alto fruncido tipo nido de abeja, sin mangas y pretina elástica corrugada",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "amarillo",
+        "marca": "Bcbgeneration",
+        "talla": ""
       }
     },
     {
@@ -1698,7 +1838,11 @@
         "material": "Tejido de punto calado",
         "detalles": "Manga corta, cuello redondo y detalle de cordón cruzado al frente",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "Loft",
+        "talla": ""
       }
     },
     {
@@ -1742,7 +1886,11 @@
         "material": "Tejido ligero de apariencia lino",
         "detalles": "Manga larga con puños elásticos, cuello con solapa, amarrado frontal con cintas y olanes en el cuerpo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "beige",
+        "marca": "Rufina",
+        "talla": ""
       }
     },
     {
@@ -1786,7 +1934,11 @@
         "material": "Lino aparente con forro sintético",
         "detalles": "Cierre de botones al frente, bolsillos aplicados y dobladillo abombado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "gris",
+        "marca": "Oda",
+        "talla": ""
       }
     },
     {
@@ -1817,7 +1969,11 @@
         "material": "Tejido de punto afelpado aparente",
         "detalles": "Cuello en V, sin mangas y acabados acanalados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "sweater",
+        "color_base": "naranja",
+        "marca": "Desigual",
+        "talla": ""
       }
     },
     {
@@ -1848,7 +2004,11 @@
         "material": "Tejido de lino o algodón rugoso con forro claro",
         "detalles": "Escote en V, cierre frontal de botones y bolsillos de ribete",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "multicolor",
+        "marca": "Gimaguas",
+        "talla": ""
       }
     },
     {
@@ -1905,7 +2065,11 @@
         "material": "Gamuza sintética",
         "detalles": "Cuello redondo fruncido y bajo elástico abullonado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "verde",
+        "marca": "Zara",
+        "talla": ""
       }
     },
     {
@@ -1949,7 +2113,11 @@
         "material": "Tela suave de punto liso",
         "detalles": "Manga larga, cuello redondo amplio y diseño fruncido drapeado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "cafe",
+        "marca": "",
+        "talla": "M"
       }
     },
     {
@@ -1993,7 +2161,11 @@
         "material": "Tejido de punto fino aparente",
         "detalles": "Sin mangas, cuello alto estilo chimenea y bajo acanalado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "verde",
+        "marca": "Love, Bonito",
+        "talla": "S"
       }
     },
     {
@@ -2037,7 +2209,11 @@
         "material": "Tela ligera de aspecto arrugado con textura",
         "detalles": "Manga larga acampanada, largo corto y cuello recto",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "cafe",
+        "marca": "Umarani Beachwear",
+        "talla": ""
       }
     },
     {
@@ -2081,7 +2257,11 @@
         "material": "Tejido de punto fino y ligero",
         "detalles": "Manga larga, capucha y cintas largas al frente para anudar",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "cardigan",
+        "color_base": "rosa",
+        "marca": "CSB",
+        "talla": ""
       }
     },
     {
@@ -2125,7 +2305,11 @@
         "material": "Tejido de punto o algodón con textura crepé",
         "detalles": "Sin mangas, cierre frontal con cinco botones negros y bolsillos simulados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "naranja",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -2182,7 +2366,11 @@
         "material": "Tejido fluido suave",
         "detalles": "Cuello fruncido, mangas largas abullonadas y puños elásticos",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "azul",
+        "marca": "Zara",
+        "talla": "M"
       }
     }
   ],

@@ -54,7 +54,11 @@
         "material": "Tejido ligero con textura arrugada tipo crinkle en patron geometrico",
         "detalles": "Manga larga, cuello redondo y bordes ondulados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "Mango",
+        "talla": "M"
       }
     },
     {
@@ -98,7 +102,11 @@
         "material": "Tejido de punto texturizado en relieve",
         "detalles": "Manga corta tipo casquillo, textura acanalada trenzada y cintas finas cruzadas",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "",
+        "talla": "S"
       }
     },
     {
@@ -142,7 +150,11 @@
         "material": "Tela sintetica elastica",
         "detalles": "Manga larga raglan, cuello redondo, puños anchos y laterales fruncidos",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "negro",
+        "marca": "Offline by Aerie",
+        "talla": "M"
       },
       "estado": "pendiente",
       "comentario": "Todavía se ve el torso blanco del maniquí debajo del top. No debe verse NINGUNA parte del maniquí: donde termina el top, abajo solo hay fondo gris.",
@@ -176,7 +188,11 @@
         "material": "Tejido de punto de algodón",
         "detalles": "Manga larga, escote amplio y broches de presión en la entrepierna",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "top",
+        "color_base": "verde",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -246,7 +262,11 @@
         "material": "Tela elástica y malla transparente",
         "detalles": "Cuello alto, paneles geométricos traslúcidos y logo de la marca en el hombro",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "Mugler",
+        "talla": ""
       }
     },
     {
@@ -303,7 +323,11 @@
         "material": "Tejido de punto aparente",
         "detalles": "Capucha, aberturas laterales para los brazos y acabados acanalados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "sweater",
+        "color_base": "gris",
+        "marca": "J.J. Basics",
+        "talla": ""
       }
     },
     {
@@ -347,7 +371,11 @@
         "material": "Tela satinada brillante",
         "detalles": "Manga larga ancha, corte cropped, diseño abierto con holanes y tiras",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "verde",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -391,7 +419,11 @@
         "material": "Gasa ligera con brillo metalizado",
         "detalles": "Manga larga con puños, cuello camisero, botones frontales y dos bolsillos en el pecho",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "negro",
+        "marca": "Guess",
+        "talla": ""
       }
     },
     {
@@ -448,7 +480,11 @@
         "material": "Tela satinada suave",
         "detalles": "Cuello camisero, botones frontales al tono y puños abotonados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "negro",
+        "marca": "",
+        "talla": "M"
       }
     },
     {
@@ -492,7 +528,11 @@
         "material": "Tela satinada",
         "detalles": "Cuello camisero, manga larga con puños ajustados y abotonadura frontal",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "azul",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -536,7 +576,11 @@
         "material": "Algodon ligero",
         "detalles": "Manga larga, cuello camisero, botones frontales y bolsillo de parche en el pecho",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "azul",
+        "marca": "Map",
+        "talla": "L"
       }
     },
     {
@@ -580,7 +624,11 @@
         "material": "Mezcla de algodón y lino",
         "detalles": "Cuello camisero, abotonadura frontal y logotipo bordado en el pecho",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "azul",
+        "marca": "Tommy Hilfiger",
+        "talla": "M"
       }
     },
     {
@@ -637,7 +685,11 @@
         "material": "Lino",
         "detalles": "Manga larga, cuello camisero y botones frontales blancos",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "azul",
+        "marca": "Uniqlo",
+        "talla": "L"
       }
     },
     {
@@ -694,7 +746,11 @@
         "material": "Algodón ligero arrugado",
         "detalles": "Manga larga, cuello camisero, bolsillo frontal y cierre de botones",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "blanco",
+        "marca": "Mango",
+        "talla": "L"
       }
     },
     {
@@ -738,7 +794,11 @@
         "material": "Satén brillante",
         "detalles": "Manga larga con puños abotonados, cuello camisero y botones al tono",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "rosa",
+        "marca": "Primark",
+        "talla": "8"
       }
     },
     {
@@ -782,7 +842,11 @@
         "material": "Lino o algodon ligero",
         "detalles": "Cuello camisero, botones frontales blancos y puños abotonados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "rosa",
+        "marca": "Uniqlo",
+        "talla": "S"
       }
     },
     {
@@ -826,7 +890,11 @@
         "material": "Tejido ligero aparente de algodon o lino",
         "detalles": "Pretina elastica con cordon ajustable",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "shorts",
+        "color_base": "rosa",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -883,7 +951,11 @@
         "material": "Lino",
         "detalles": "Manga larga, cuello camisero y abotonadura frontal con botones claros",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "blanco",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -927,7 +999,11 @@
         "material": "Tejido de lino ligero",
         "detalles": "Manga larga con puño, cuello clásico y abotonadura frontal",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "blanco",
+        "marca": "Uniqlo",
+        "talla": "M"
       }
     },
     {
@@ -984,7 +1060,11 @@
         "material": "Tela ligera de algodón aparente",
         "detalles": "Manga corta con bastilla doblada, cuello camisero y botones al tono",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "blanco",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -1041,7 +1121,11 @@
         "material": "Algodón",
         "detalles": "Manga larga, cuello camisero, botones frontales y puños enrollados",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "camisa",
+        "color_base": "blanco",
+        "marca": "Next",
+        "talla": "16"
       }
     },
     {
@@ -1098,7 +1182,11 @@
         "material": "Gasa ligera semitransparente",
         "detalles": "Manga larga, cuello camisero, cintura fruncida y tiras ajustables para amarrar",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "blusa",
+        "color_base": "azul",
+        "marca": "Abercrombie & Fitch",
+        "talla": "XS"
       }
     },
     {
@@ -1155,7 +1243,11 @@
         "material": "Tela ligera semitransparente con encaje",
         "detalles": "Pretina elástica café, franjas de encaje calado y olán en el bajo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "falda",
+        "color_base": "multicolor",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1212,7 +1304,11 @@
         "material": "Tela ligera y fluida",
         "detalles": "Pretina con cierre frontal, elástico posterior y pliegues",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "beige",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1269,7 +1365,11 @@
         "material": "Gasa ligera semitransparente",
         "detalles": "Pretina elástica fruncida y diseño escalonado",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "falda",
+        "color_base": "negro",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1339,7 +1439,11 @@
         "material": "Tela ligera aparente de lino",
         "detalles": "Pretina elástica con cordón ajustable frontal y largo completo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "verde",
+        "marca": "Onsd",
+        "talla": "S"
       }
     },
     {
@@ -1409,7 +1513,11 @@
         "material": "Sintético con apariencia de piel o vinipiel",
         "detalles": "Largo midi, pretina elástica y abotonadura frontal con botones metálicos plateados a presión",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "falda",
+        "color_base": "negro",
+        "marca": "Stradivarius",
+        "talla": "26"
       }
     },
     {
@@ -1492,7 +1600,11 @@
         "material": "Tela satinada fluida",
         "detalles": "Largo completo, aberturas laterales y cierre posterior",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "negro",
+        "marca": "Lulus",
+        "talla": "S"
       }
     },
     {
@@ -1575,7 +1687,11 @@
         "material": "Gasa ligera con forro interior",
         "detalles": "Tejido plisado con pretina elástica y largo completo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "beige",
+        "marca": "English Rose",
+        "talla": "L"
       }
     },
     {
@@ -1645,7 +1761,11 @@
         "material": "Lino",
         "detalles": "Pretina elástica fruncida con cordón ajustable",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "blanco",
+        "marca": "",
+        "talla": "S"
       }
     },
     {
@@ -1715,7 +1835,11 @@
         "material": "Tela ligera con acabado satinado",
         "detalles": "Cintura con pretina elástica y largo completo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "multicolor",
+        "marca": "Mango",
+        "talla": "M"
       }
     },
     {
@@ -1785,7 +1909,11 @@
         "material": "Tela fluida de acabado satinado",
         "detalles": "Cintura elástica fruncida y largo completo",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "multicolor",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1868,7 +1996,11 @@
         "material": "Tejido grueso de lana o mezcla",
         "detalles": "Pinzas frontales, elástico en pretina posterior y presillas para cinturón",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "pantalon",
+        "color_base": "gris",
+        "marca": "Algo Bonito",
+        "talla": ""
       }
     },
     {
@@ -1938,7 +2070,11 @@
         "material": "Tejido de punto fluido",
         "detalles": "Largo maxi con pretina elástica morada",
         "composicion": "",
-        "composicion_etiqueta": ""
+        "composicion_etiqueta": "",
+        "tipo": "falda",
+        "color_base": "multicolor",
+        "marca": "Mango",
+        "talla": "S"
       }
     }
   ],

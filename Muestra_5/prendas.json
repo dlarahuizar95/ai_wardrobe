@@ -26,7 +26,11 @@
         "color": "Azul marino con estampado ornamental de medallones en tonos turquesa, amarillo, beige y rosa",
         "estilo": "Vestido corto de corte holgado tipo túnica",
         "material": "Tela ligera y fluida de aspecto sintético",
-        "detalles": "Manga tres cuartos con puño, cuello redondo y dobladillo curvo"
+        "detalles": "Manga tres cuartos con puño, cuello redondo y dobladillo curvo",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -68,7 +72,11 @@
         "color": "Beige y café con patrón de microcuadros",
         "estilo": "Blazer formal de corte recto",
         "material": "Tela de sastre aparente con forro satinado",
-        "detalles": "Solapa de muesca, cierre de dos botones, bolsillos con solapa y puños remangados con forro a rayas"
+        "detalles": "Solapa de muesca, cierre de dos botones, bolsillos con solapa y puños remangados con forro a rayas",
+        "tipo": "blazer",
+        "color_base": "beige",
+        "marca": "Club Room",
+        "talla": ""
       }
     },
     {
@@ -97,7 +105,11 @@
         "color": "Amarillo, negro y beige con estampado tipo pata de gallo",
         "estilo": "Blazer de vestir",
         "material": "Tejido aparente con forro satinado",
-        "detalles": "Bolsillo interno ribeteado y etiquetas decorativas"
+        "detalles": "Bolsillo interno ribeteado y etiquetas decorativas",
+        "tipo": "blazer",
+        "color_base": "multicolor",
+        "marca": "Macy's",
+        "talla": ""
       }
     },
     {
@@ -139,7 +151,11 @@
         "color": "Gris jaspeado",
         "estilo": "Blazer estructurado de corte recto",
         "material": "Tela de vestir jaspeada con forro sintético negro",
-        "detalles": "Manga larga, solapa de muesca, cierre de botones negros frontales y bolsillos con solapa"
+        "detalles": "Manga larga, solapa de muesca, cierre de botones negros frontales y bolsillos con solapa",
+        "tipo": "blazer",
+        "color_base": "gris",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -207,7 +223,11 @@
         "color": "Gris oscuro con rayas diplomáticas finas",
         "estilo": "Saco blazer formal de vestir",
         "material": "Tela de vestir con forro satinado",
-        "detalles": "Manga larga, solapa de muesca, cierre de botones, bolsillos con solapa y botones decorativos en puños"
+        "detalles": "Manga larga, solapa de muesca, cierre de botones, bolsillos con solapa y botones decorativos en puños",
+        "tipo": "blazer",
+        "color_base": "gris",
+        "marca": "Robert's",
+        "talla": ""
       }
     },
     {
@@ -262,7 +282,11 @@
         "color": "Verde oliva liso",
         "estilo": "Blazer de corte recto",
         "material": "Piel sintética con forro textil negro",
-        "detalles": "Manga larga, solapa clásica, cierre de botones negros y bolsillos de ojal"
+        "detalles": "Manga larga, solapa clásica, cierre de botones negros y bolsillos de ojal",
+        "tipo": "blazer",
+        "color_base": "verde",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -317,7 +341,11 @@
         "color": "Verde pistache claro liso",
         "estilo": "Vestido de tirantes con caída fluida y capas asimétricas",
         "material": "Tela satinada",
-        "detalles": "Tirantes delgados ajustables, escote drapeado y paneles superpuestos"
+        "detalles": "Tirantes delgados ajustables, escote drapeado y paneles superpuestos",
+        "tipo": "vestido",
+        "color_base": "verde",
+        "marca": "Baobab",
+        "talla": "M"
       }
     },
     {
@@ -359,7 +387,11 @@
         "color": "Negro liso",
         "estilo": "Blazer corto de corte recto",
         "material": "Tela tipo sastre con forro satinado",
-        "detalles": "Manga larga, cuello con solapa de muesca y botones frontales"
+        "detalles": "Manga larga, cuello con solapa de muesca y botones frontales",
+        "tipo": "blazer",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -414,7 +446,11 @@
         "color": "Negro",
         "estilo": "Chamarra tipo sobrecamisa de corte recto",
         "material": "Piel sintetica",
-        "detalles": "Manga larga, cuello camisero, bolsillos de parche y botones metalicos dorados"
+        "detalles": "Manga larga, cuello camisero, bolsillos de parche y botones metalicos dorados",
+        "tipo": "chamarra",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -469,7 +505,11 @@
         "color": "Rosa claro con rayas verticales negras y solapa crema",
         "estilo": "Blazer estructurado de corte vintage",
         "material": "Tela tejida con solapa de textura ligera y forro satinado",
-        "detalles": "Manga larga, solapa ancha de muesca, bolsillos ribeteados y cierre de botón"
+        "detalles": "Manga larga, solapa ancha de muesca, bolsillos ribeteados y cierre de botón",
+        "tipo": "blazer",
+        "color_base": "multicolor",
+        "marca": "Lady Yezmin",
+        "talla": "38"
       }
     },
     {
@@ -537,7 +577,11 @@
         "color": "Vino liso",
         "estilo": "Blazer formal de corte recto",
         "material": "Tela de sastrería con forro interior",
-        "detalles": "Manga larga, cuello con solapa de muesca, cierre de botones y bolsillos laterales con tapa"
+        "detalles": "Manga larga, cuello con solapa de muesca, cierre de botones y bolsillos laterales con tapa",
+        "tipo": "blazer",
+        "color_base": "rojo",
+        "marca": "Zara",
+        "talla": "S"
       }
     },
     {
@@ -592,7 +636,11 @@
         "color": "Verde oscuro liso con forro gris taupe",
         "estilo": "Blazer de corte clasico y recto",
         "material": "Tela de vestir con forro interior satinado",
-        "detalles": "Manga larga, solapa de muesca, cierre de botones al frente y bolsillos"
+        "detalles": "Manga larga, solapa de muesca, cierre de botones al frente y bolsillos",
+        "tipo": "blazer",
+        "color_base": "verde",
+        "marca": "Givenchy",
+        "talla": ""
       }
     },
     {
@@ -647,7 +695,11 @@
         "color": "Café, beige y terracota con patrón de cuadros tipo pata de gallo",
         "estilo": "Chamarra corta de corte holgado",
         "material": "Tejido aparente de lana con forro sintético e interior del cuello en pana",
-        "detalles": "Manga larga, cuello alto acanalado, cierre frontal de cremallera y bolsillos laterales de ojal"
+        "detalles": "Manga larga, cuello alto acanalado, cierre frontal de cremallera y bolsillos laterales de ojal",
+        "tipo": "chamarra",
+        "color_base": "multicolor",
+        "marca": "Scalpers",
+        "talla": "M"
       }
     },
     {
@@ -754,7 +806,11 @@
         "color": "Verde petróleo liso",
         "estilo": "Vestido largo de corte holgado y cintura fruncida",
         "material": "Gasa o crepé fluido aparente",
-        "detalles": "Manga larga con puños elásticos fruncidos, cuello con lazo, alforzas plisadas y ribete oscuro decorativo"
+        "detalles": "Manga larga con puños elásticos fruncidos, cuello con lazo, alforzas plisadas y ribete oscuro decorativo",
+        "tipo": "vestido",
+        "color_base": "verde",
+        "marca": "See By Chloé",
+        "talla": ""
       }
     },
     {
@@ -861,7 +917,11 @@
         "color": "Negro liso",
         "estilo": "Vestido largo multiposición de corte fluido",
         "material": "Tela ligera y fluida de apariencia suave",
-        "detalles": "Sin mangas, con escote halter y lazos largos ajustables para amarre"
+        "detalles": "Sin mangas, con escote halter y lazos largos ajustables para amarre",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -929,7 +989,11 @@
         "color": "Verde menta claro",
         "estilo": "Vestido largo de corte holgado",
         "material": "Tela ligera con textura tipo seersucker",
-        "detalles": "Sin mangas, cuello redondo, cordón ajustable en cintura y falda escalonada"
+        "detalles": "Sin mangas, cuello redondo, cordón ajustable en cintura y falda escalonada",
+        "tipo": "vestido",
+        "color_base": "verde",
+        "marca": "Uniqlo",
+        "talla": ""
       }
     },
     {
@@ -971,7 +1035,11 @@
         "color": "Azul celeste liso",
         "estilo": "Vestido largo de tirantes delgados",
         "material": "Satin fluido",
-        "detalles": "Fruncido lateral drapeado, cierre invisible lateral y abertura en la falda"
+        "detalles": "Fruncido lateral drapeado, cierre invisible lateral y abertura en la falda",
+        "tipo": "vestido",
+        "color_base": "azul",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1013,7 +1081,11 @@
         "color": "Beige caqui liso con detalles crema",
         "estilo": "Vestido corto holgado con cintura elástica fruncida",
         "material": "Tela de aspecto gamuza",
-        "detalles": "Manga corta holgada, cuello amplio con ribete de encaje tejido y cintura elástica"
+        "detalles": "Manga corta holgada, cuello amplio con ribete de encaje tejido y cintura elástica",
+        "tipo": "vestido",
+        "color_base": "beige",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1055,7 +1127,11 @@
         "color": "Negro con estampado floral pequeño en blanco y amarillo",
         "estilo": "Vestido corto holgado",
         "material": "Tela ligera y fluida",
-        "detalles": "Manga larga con puños elásticos y cuello redondo"
+        "detalles": "Manga larga con puños elásticos y cuello redondo",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1084,7 +1160,11 @@
         "color": "Negro con estampado floral en tonos rojo y rosa",
         "estilo": "Vestido corto ajustado estilo qipao o cheongsam",
         "material": "Tela satinada con acabado brillante",
-        "detalles": "Manga corta, cuello mandarin, solapa asimetrica y botones de nudo trenzado"
+        "detalles": "Manga corta, cuello mandarin, solapa asimetrica y botones de nudo trenzado",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1139,7 +1219,11 @@
         "color": "Lila lisos con patrón calado",
         "estilo": "Vestido corto asimétrico de corte ajustado",
         "material": "Tejido calado tipo broderie anglaise",
-        "detalles": "Una manga larga, olanes en el torso, fruncido central y cierre de cremallera frontal"
+        "detalles": "Una manga larga, olanes en el torso, fruncido central y cierre de cremallera frontal",
+        "tipo": "vestido",
+        "color_base": "morado",
+        "marca": "Fanco",
+        "talla": "M"
       }
     },
     {
@@ -1181,7 +1265,11 @@
         "color": "Blanco y negro en diseño de bloques de color",
         "estilo": "Vestido corto de corte recto sin mangas",
         "material": "Poliéster fluido con acabado sutilmente satinado",
-        "detalles": "Cuello redondo, sin mangas y abertura circular en la espalda"
+        "detalles": "Cuello redondo, sin mangas y abertura circular en la espalda",
+        "tipo": "vestido",
+        "color_base": "blanco",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1236,7 +1324,11 @@
         "color": "Azul marino en la parte superior y estampado patchwork étnico multicolor en la falda",
         "estilo": "Vestido corto casual con corte en la cintura",
         "material": "Poliéster y tela ligera sintética aparente",
-        "detalles": "Sin mangas, escote en V, tirantes anchos y cintura elástica con jareta ajustable"
+        "detalles": "Sin mangas, escote en V, tirantes anchos y cintura elástica con jareta ajustable",
+        "tipo": "vestido",
+        "color_base": "multicolor",
+        "marca": "Made In U.S.A.",
+        "talla": "M"
       }
     },
     {
@@ -1278,7 +1370,11 @@
         "color": "Blanco hueso con estampado de pequeños rombos negros",
         "estilo": "Top de tirantes de corte fluido",
         "material": "Tela ligera con tirantes de encaje",
-        "detalles": "Sin mangas, tirantes anchos de encaje negro y escote recto"
+        "detalles": "Sin mangas, tirantes anchos de encaje negro y escote recto",
+        "tipo": "top",
+        "color_base": "blanco",
+        "marca": "Kur.kuma",
+        "talla": ""
       }
     },
     {
@@ -1320,7 +1416,11 @@
         "color": "Negro liso",
         "estilo": "Vestido corto holgado con falda a capas",
         "material": "Tela ligera de apariencia suave",
-        "detalles": "Escote en V, tirantes delgados cruzados en la espalda y dobladillo con pompones"
+        "detalles": "Escote en V, tirantes delgados cruzados en la espalda y dobladillo con pompones",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "Forever 21",
+        "talla": ""
       }
     },
     {
@@ -1362,7 +1462,11 @@
         "color": "Gris oscuro azulado liso",
         "estilo": "Vestido corto de corte ajustado",
         "material": "Tejido de punto fino",
-        "detalles": "Sin mangas, escote barco y largo corto"
+        "detalles": "Sin mangas, escote barco y largo corto",
+        "tipo": "vestido",
+        "color_base": "gris",
+        "marca": "Zara",
+        "talla": ""
       }
     },
     {
@@ -1430,7 +1534,11 @@
         "color": "Negro con costuras de contraste en hilo blanco",
         "estilo": "Sobrecamisa larga de corte recto",
         "material": "Tela lisa aparente de poliéster",
-        "detalles": "Cuello camisero, botones blancos, bolsillos de parche con solapa y mangas tres cuartos"
+        "detalles": "Cuello camisero, botones blancos, bolsillos de parche con solapa y mangas tres cuartos",
+        "tipo": "chamarra",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": ""
       }
     },
     {
@@ -1485,7 +1593,11 @@
         "color": "Rojo brillante",
         "estilo": "Vestido largo fluido estilo halter",
         "material": "Tela fluida tipo satén",
-        "detalles": "Tirantes delgados y escote pronunciado"
+        "detalles": "Tirantes delgados y escote pronunciado",
+        "tipo": "vestido",
+        "color_base": "rojo",
+        "marca": "",
+        "talla": ""
       }
     },
     {
@@ -1540,7 +1652,11 @@
         "color": "Crema marfil liso",
         "estilo": "Vestido corto de corte fluido",
         "material": "Satin de aspecto sedoso",
-        "detalles": "Escote drapeado cowl neck, tirantes delgados spaghetti y largo corto"
+        "detalles": "Escote drapeado cowl neck, tirantes delgados spaghetti y largo corto",
+        "tipo": "vestido",
+        "color_base": "beige",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1595,7 +1711,11 @@
         "color": "Morado lavanda liso",
         "estilo": "Vestido corto con blusa blusada y falda plisada",
         "material": "Chifón aparente",
-        "detalles": "Sin mangas, cuello y sisas decorados con cuentas metálicas y falda plisada"
+        "detalles": "Sin mangas, cuello y sisas decorados con cuentas metálicas y falda plisada",
+        "tipo": "vestido",
+        "color_base": "morado",
+        "marca": "Guess",
+        "talla": "6"
       }
     },
     {
@@ -1637,7 +1757,11 @@
         "color": "Negro liso",
         "estilo": "Suéter holgado de corte largo",
         "material": "Tejido de punto fino",
-        "detalles": "Cuello redondo, manga larga y bordes acanalados en cuello, puños y dobladillo"
+        "detalles": "Cuello redondo, manga larga y bordes acanalados en cuello, puños y dobladillo",
+        "tipo": "sweater",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1679,7 +1803,11 @@
         "color": "Blanco con estampado de lunares negros",
         "estilo": "Vestido corto de corte recto",
         "material": "Algodón aparente",
-        "detalles": "Manga corta tipo cap y cuello en V con bordado negro"
+        "detalles": "Manga corta tipo cap y cuello en V con bordado negro",
+        "tipo": "vestido",
+        "color_base": "blanco",
+        "marca": "Tommy Hilfiger",
+        "talla": ""
       }
     },
     {
@@ -1721,7 +1849,11 @@
         "color": "Negro liso",
         "estilo": "Vestido corto de corte entallado",
         "material": "Algodón o tela plana",
-        "detalles": "Manga corta con olanes en los puños, escote en V y botonadura frontal"
+        "detalles": "Manga corta con olanes en los puños, escote en V y botonadura frontal",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     },
     {
@@ -1763,7 +1895,11 @@
         "color": "Negro liso",
         "estilo": "Vestido largo sin mangas de corte holgado",
         "material": "Tejido ligero de caida fluida",
-        "detalles": "Sin mangas, cuello redondo con detalle calado tipo macrame y pliegues decorativos"
+        "detalles": "Sin mangas, cuello redondo con detalle calado tipo macrame y pliegues decorativos",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "Kische",
+        "talla": "M"
       }
     },
     {
@@ -1818,7 +1954,11 @@
         "color": "Azul marino liso",
         "estilo": "Vestido corto entallado sin mangas",
         "material": "Tela estructurada aparente con paneles de malla transparente",
-        "detalles": "Paneles de malla transparente en los hombros, corte en la cintura y cierre posterior invisible"
+        "detalles": "Paneles de malla transparente en los hombros, corte en la cintura y cierre posterior invisible",
+        "tipo": "vestido",
+        "color_base": "azul",
+        "marca": "Bcbgeneration",
+        "talla": "6"
       }
     },
     {
@@ -1860,7 +2000,11 @@
         "color": "Negro liso",
         "estilo": "Vestido ajustado de corte recto y largo midi",
         "material": "Tejido de punto",
-        "detalles": "Manga corta, cuello redondo, diseno minimalista"
+        "detalles": "Manga corta, cuello redondo, diseno minimalista",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "Pull&Bear",
+        "talla": "S"
       }
     },
     {
@@ -1915,7 +2059,11 @@
         "color": "Negro liso",
         "estilo": "Vestido corto de corte ajustado",
         "material": "Tela sintética elástica",
-        "detalles": "Manga larga acampanada, largo corto, cuello barco y abertura trasera"
+        "detalles": "Manga larga acampanada, largo corto, cuello barco y abertura trasera",
+        "tipo": "vestido",
+        "color_base": "negro",
+        "marca": "Zara",
+        "talla": "M"
       }
     }
   ],
