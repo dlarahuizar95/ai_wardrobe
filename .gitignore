@@ -1,0 +1,14 @@
+# Fotos originales (pesadas y personales): nunca al repo
+*.HEIC
+*.heic
+/*.JPG
+/*.jpg
+*/jpg/
+# Entorno y secretos
+.venv/
+.env
+__pycache__/
+.DS_Store
+# Salidas intermedias viejas
+*/catalogo.*
+*/errores.log

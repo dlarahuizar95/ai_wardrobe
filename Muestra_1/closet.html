@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Closet — revisión</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root { --gris:#e5e5e5; --texto:#111; --sec:#666; --ok:#1f7a3a; --no:#b3261e; }
+  * { box-sizing:border-box }
+  body { margin:0; background:#fff; color:var(--texto); font:15px/1.45 -apple-system, "Helvetica Neue", Inter, Arial, sans-serif }
+  header { position:sticky; top:0; background:#fff; border-bottom:1px solid var(--gris); padding:14px 28px; display:flex; align-items:center; gap:24px; z-index:2 }
+  header h1 { font-size:18px; font-weight:600; margin:0 }
+  header .conteo { display:flex; gap:18px; color:var(--sec); font-size:14px }
+  header .conteo b { color:var(--texto) }
+  header .exportar { margin-left:auto }
+  button { font:inherit; border:1px solid var(--gris); background:#fff; border-radius:6px; padding:8px 14px; cursor:pointer }
+  button:hover { border-color:#999 }
+  main { display:grid; grid-template-columns:repeat(3,1fr); gap:24px; padding:28px; max-width:1500px; margin:0 auto }
+  @media (max-width:1000px) { main { grid-template-columns:repeat(2,1fr) } }
+  @media (max-width:640px) { main { grid-template-columns:1fr; padding:16px } }
+  .card { border:1px solid var(--gris); border-radius:10px; overflow:hidden; display:flex; flex-direction:column; background:#fff }
+  .card.aprobada { border-color:var(--ok); box-shadow:0 0 0 2px var(--ok) inset }
+  .card.cambiada { border-color:var(--no); box-shadow:0 0 0 2px var(--no) inset }
+  .maniqui { background:#f3f3f3; aspect-ratio:4/5; display:flex; align-items:center; justify-content:center }
+  .maniqui img { width:100%; height:100%; object-fit:contain }
+  .sin { color:var(--sec) }
+  .crops { display:flex; gap:6px; padding:10px 12px 0; overflow-x:auto }
+  .crops img { height:72px; width:auto; border-radius:4px; border:1px solid var(--gris); display:block }
+  .meta { padding:12px 14px 6px }
+  .fila { display:flex; gap:10px; align-items:baseline; margin-bottom:6px }
+  .id { font-weight:600 }
+  .cat { color:var(--sec); text-transform:capitalize }
+  .marca { color:var(--sec); font-size:13px; margin-left:auto }
+  dl { margin:0; display:grid; grid-template-columns:auto 1fr; row-gap:4px; column-gap:12px; font-size:14px }
+  dl div { display:contents }
+  dt { color:var(--sec); font-weight:500 }
+  dd { margin:0; color:#222 }
+  .acciones { display:flex; gap:8px; padding:10px 14px 14px; margin-top:auto }
+  .acciones button { flex:1 }
+  .card.aprobada .ok { background:var(--ok); color:#fff; border-color:var(--ok) }
+  .card.cambiada .no { background:var(--no); color:#fff; border-color:var(--no) }
+</style></head>
+<body>
+<header>
+  <h1>Closet · Muestra 1</h1>
+  <div class="conteo"><span>Prendas <b id="c-total">0</b></span><span>Aprobadas <b id="c-ok">0</b></span><span>Cambiadas <b id="c-no">0</b></span><span>Pendientes <b id="c-pend">0</b></span></div>
+  <button class="exportar" onclick="exportar()">Exportar CSV</button>
+</header>
+<main>
+<article class="card" data-id="P01">
+  <div class="maniqui"><img src="maniqui/P01.jpg"></div>
+  <div class="crops"><a href="crops/P01/IMG_9424_1.jpg" target="_blank" title="IMG_9424.jpg"><img src="crops/P01/IMG_9424_1.jpg" loading="lazy"></a><a href="crops/P01/IMG_9425_1.jpg" target="_blank" title="IMG_9425.jpg"><img src="crops/P01/IMG_9425_1.jpg" loading="lazy"></a><a href="crops/P01/IMG_9426_1.jpg" target="_blank" title="IMG_9426.jpg"><img src="crops/P01/IMG_9426_1.jpg" loading="lazy"></a><a href="crops/P01/IMG_9427_1.jpg" target="_blank" title="IMG_9427.jpg (detalle)"><img src="crops/P01/IMG_9427_1.jpg" loading="lazy"></a></div>
+  <div class="meta">
+    <div class="fila"><span class="id">P01</span><span class="cat">pantalon</span><span class="marca">blu pepper / M</span></div>
+    <dl><div><dt>Color</dt><dd>Negro con estampado barroco y geométrico en blanco</dd></div><div><dt>Estilo</dt><dd>Pantalón palazzo holgado de tiro alto y pierna ancha</dd></div><div><dt>Material</dt><dd>Tela ligera y fluida</dd></div><div><dt>Detalles</dt><dd>Pretina elástica y largo completo</dd></div></dl>
+  </div>
+  <div class="acciones">
+    <button class="ok" onclick="marcar('P01','aprobada')">Aprobar</button>
+    <button class="no" onclick="marcar('P01','cambiada')">Se cambió la prenda</button>
+  </div>
+</article>
+<article class="card" data-id="P02">
+  <div class="maniqui"><img src="maniqui/P02.jpg"></div>
+  <div class="crops"><a href="crops/P02/IMG_9428_1.jpg" target="_blank" title="IMG_9428.jpg"><img src="crops/P02/IMG_9428_1.jpg" loading="lazy"></a><a href="crops/P02/IMG_9429_1.jpg" target="_blank" title="IMG_9429.jpg"><img src="crops/P02/IMG_9429_1.jpg" loading="lazy"></a><a href="crops/P02/IMG_9430_1.jpg" target="_blank" title="IMG_9430.jpg (detalle)"><img src="crops/P02/IMG_9430_1.jpg" loading="lazy"></a><a href="crops/P02/IMG_9431_1.jpg" target="_blank" title="IMG_9431.jpg (detalle)"><img src="crops/P02/IMG_9431_1.jpg" loading="lazy"></a><a href="crops/P02/IMG_9432_1.jpg" target="_blank" title="IMG_9432.jpg (detalle)"><img src="crops/P02/IMG_9432_1.jpg" loading="lazy"></a></div>
+  <div class="meta">
+    <div class="fila"><span class="id">P02</span><span class="cat">pantalon</span></div>
+    <dl><div><dt>Color</dt><dd>Terracota óxido liso</dd></div><div><dt>Estilo</dt><dd>Culotte de tiro alto y pierna muy ancha</dd></div><div><dt>Material</dt><dd>Tela plana mate de vestir</dd></div><div><dt>Detalles</dt><dd>Pliegues frontales, botones decorativos a los lados de la cintura y cierre frontal</dd></div></dl>
+  </div>
+  <div class="acciones">
+    <button class="ok" onclick="marcar('P02','aprobada')">Aprobar</button>
+    <button class="no" onclick="marcar('P02','cambiada')">Se cambió la prenda</button>
+  </div>
+</article>
+<article class="card" data-id="P03">
+  <div class="maniqui"><img src="maniqui/P03.jpg"></div>
+  <div class="crops"><a href="crops/P03/IMG_9433_1.jpg" target="_blank" title="IMG_9433.jpg"><img src="crops/P03/IMG_9433_1.jpg" loading="lazy"></a><a href="crops/P03/IMG_9434_1.jpg" target="_blank" title="IMG_9434.jpg"><img src="crops/P03/IMG_9434_1.jpg" loading="lazy"></a><a href="crops/P03/IMG_9435_1.jpg" target="_blank" title="IMG_9435.jpg"><img src="crops/P03/IMG_9435_1.jpg" loading="lazy"></a><a href="crops/P03/IMG_9436_1.jpg" target="_blank" title="IMG_9436.jpg (detalle)"><img src="crops/P03/IMG_9436_1.jpg" loading="lazy"></a><a href="crops/P03/IMG_9437_1.jpg" target="_blank" title="IMG_9437.jpg (detalle)"><img src="crops/P03/IMG_9437_1.jpg" loading="lazy"></a><a href="crops/P03/IMG_9438_1.jpg" target="_blank" title="IMG_9438.jpg (detalle)"><img src="crops/P03/IMG_9438_1.jpg" loading="lazy"></a><a href="crops/P03/IMG_9439_1.jpg" target="_blank" title="IMG_9439.jpg (detalle)"><img src="crops/P03/IMG_9439_1.jpg" loading="lazy"></a></div>
+  <div class="meta">
+    <div class="fila"><span class="id">P03</span><span class="cat">pantalon</span><span class="marca">ZARA / M (MEX 28)</span></div>
+    <dl><div><dt>Color</dt><dd>Verde oliva liso</dd></div><div><dt>Estilo</dt><dd>Pantalón de tiro alto y pierna ancha recta</dd></div><div><dt>Material</dt><dd>Piel sintética con forro textil afelpado</dd></div><div><dt>Detalles</dt><dd>Largo completo, pretina con presillas y cierre frontal oculto con corchete</dd></div></dl>
+  </div>
+  <div class="acciones">
+    <button class="ok" onclick="marcar('P03','aprobada')">Aprobar</button>
+    <button class="no" onclick="marcar('P03','cambiada')">Se cambió la prenda</button>
+  </div>
+</article>
+<article class="card" data-id="P04">
+  <div class="maniqui"><img src="maniqui/P04.jpg"></div>
+  <div class="crops"><a href="crops/P04/IMG_9440_1.jpg" target="_blank" title="IMG_9440.jpg"><img src="crops/P04/IMG_9440_1.jpg" loading="lazy"></a><a href="crops/P04/IMG_9442_1.jpg" target="_blank" title="IMG_9442.jpg"><img src="crops/P04/IMG_9442_1.jpg" loading="lazy"></a><a href="crops/P04/IMG_9441_1.jpg" target="_blank" title="IMG_9441.jpg (detalle)"><img src="crops/P04/IMG_9441_1.jpg" loading="lazy"></a></div>
+  <div class="meta">
+    <div class="fila"><span class="id">P04</span><span class="cat">top</span><span class="marca">ZARA / M (MEX 28)</span></div>
+    <dl><div><dt>Color</dt><dd>Morado berenjena liso</dd></div><div><dt>Estilo</dt><dd>Top ajustado de manga larga</dd></div><div><dt>Material</dt><dd>Tela elástica lisa</dd></div><div><dt>Detalles</dt><dd>Cuello cerrado con fruncido central y mangas drapeadas</dd></div></dl>
+  </div>
+  <div class="acciones">
+    <button class="ok" onclick="marcar('P04','aprobada')">Aprobar</button>
+    <button class="no" onclick="marcar('P04','cambiada')">Se cambió la prenda</button>
+  </div>
+</article>
+<article class="card" data-id="P05">
+  <div class="maniqui"><img src="maniqui/P05.jpg"></div>
+  <div class="crops"><a href="crops/P05/IMG_9443_1.jpg" target="_blank" title="IMG_9443.jpg"><img src="crops/P05/IMG_9443_1.jpg" loading="lazy"></a></div>
+  <div class="meta">
+    <div class="fila"><span class="id">P05</span><span class="cat">falda</span></div>
+    <dl><div><dt>Color</dt><dd>Negro con estampado de puntos plumeti</dd></div><div><dt>Estilo</dt><dd>Falda midi con diseno por capas fruncidas</dd></div><div><dt>Material</dt><dd>Tul transparente</dd></div><div><dt>Detalles</dt><dd>Pretina elastica negra y niveles de volantes</dd></div></dl>
+  </div>
+  <div class="acciones">
+    <button class="ok" onclick="marcar('P05','aprobada')">Aprobar</button>
+    <button class="no" onclick="marcar('P05','cambiada')">Se cambió la prenda</button>
+  </div>
+</article></main>
+<script>
+const DATOS = [{"id": "P01", "categoria": "pantalon", "descripcion": "Pantalón holgado estilo palazzo de tiro alto y pierna ancha, color negro con estampado barroco y geométrico en blanco tipo encaje, pretina elástica.", "marca_talla": "blu pepper / M", "atributos": {"color": "Negro con estampado barroco y geométrico en blanco", "estilo": "Pantalón palazzo holgado de tiro alto y pierna ancha", "material": "Tela ligera y fluida", "detalles": "Pretina elástica y largo completo"}, "maniqui": "maniqui/P01.jpg", "maniqui_existe": true, "crops": [{"src": "crops/P01/IMG_9424_1.jpg", "foto": "IMG_9424.jpg", "detalle": false}, {"src": "crops/P01/IMG_9425_1.jpg", "foto": "IMG_9425.jpg", "detalle": false}, {"src": "crops/P01/IMG_9426_1.jpg", "foto": "IMG_9426.jpg", "detalle": false}, {"src": "crops/P01/IMG_9427_1.jpg", "foto": "IMG_9427.jpg", "detalle": true}]}, {"id": "P02", "categoria": "pantalon", "descripcion": "Pantalón de pierna ancha/culotte de tiro alto color terracota óxido, tela lisa mate con pliegues, pretina con trabillas y botones decorativos a los lados, cierre frontal y forro interior.", "marca_talla": "", "atributos": {"color": "Terracota óxido liso", "estilo": "Culotte de tiro alto y pierna muy ancha", "material": "Tela plana mate de vestir", "detalles": "Pliegues frontales, botones decorativos a los lados de la cintura y cierre frontal"}, "maniqui": "maniqui/P02.jpg", "maniqui_existe": true, "crops": [{"src": "crops/P02/IMG_9428_1.jpg", "foto": "IMG_9428.jpg", "detalle": false}, {"src": "crops/P02/IMG_9429_1.jpg", "foto": "IMG_9429.jpg", "detalle": false}, {"src": "crops/P02/IMG_9430_1.jpg", "foto": "IMG_9430.jpg", "detalle": true}, {"src": "crops/P02/IMG_9431_1.jpg", "foto": "IMG_9431.jpg", "detalle": true}, {"src": "crops/P02/IMG_9432_1.jpg", "foto": "IMG_9432.jpg", "detalle": true}]}, {"id": "P03", "categoria": "pantalon", "descripcion": "Pantalón de piel sintética color verde oliva de tiro alto y pierna ancha recta, pretina con presillas para cinturón, cierre frontal con corchete oculto y forro interior textil afelpado claro.", "marca_talla": "ZARA / M (MEX 28)", "atributos": {"color": "Verde oliva liso", "estilo": "Pantalón de tiro alto y pierna ancha recta", "material": "Piel sintética con forro textil afelpado", "detalles": "Largo completo, pretina con presillas y cierre frontal oculto con corchete"}, "maniqui": "maniqui/P03.jpg", "maniqui_existe": true, "crops": [{"src": "crops/P03/IMG_9433_1.jpg", "foto": "IMG_9433.jpg", "detalle": false}, {"src": "crops/P03/IMG_9434_1.jpg", "foto": "IMG_9434.jpg", "detalle": false}, {"src": "crops/P03/IMG_9435_1.jpg", "foto": "IMG_9435.jpg", "detalle": false}, {"src": "crops/P03/IMG_9436_1.jpg", "foto": "IMG_9436.jpg", "detalle": true}, {"src": "crops/P03/IMG_9437_1.jpg", "foto": "IMG_9437.jpg", "detalle": true}, {"src": "crops/P03/IMG_9438_1.jpg", "foto": "IMG_9438.jpg", "detalle": true}, {"src": "crops/P03/IMG_9439_1.jpg", "foto": "IMG_9439.jpg", "detalle": true}]}, {"id": "P04", "categoria": "top", "descripcion": "Top de manga larga en color morado berenjena/ciruela confeccionado en tela elástica lisa, con diseño totalmente drapeado y fruncido (ruched) a lo largo del torso y mangas, cuello cerrado.", "marca_talla": "ZARA / M (MEX 28)", "atributos": {"color": "Morado berenjena liso", "estilo": "Top ajustado de manga larga", "material": "Tela elástica lisa", "detalles": "Cuello cerrado con fruncido central y mangas drapeadas"}, "maniqui": "maniqui/P04.jpg", "maniqui_existe": true, "crops": [{"src": "crops/P04/IMG_9440_1.jpg", "foto": "IMG_9440.jpg", "detalle": false}, {"src": "crops/P04/IMG_9442_1.jpg", "foto": "IMG_9442.jpg", "detalle": false}, {"src": "crops/P04/IMG_9441_1.jpg", "foto": "IMG_9441.jpg", "detalle": true}]}, {"id": "P05", "categoria": "falda", "descripcion": "Falda de tul transparente negro con capas fruncidas en niveles, estampado plumeti de puntos y pretina elástica negra.", "marca_talla": "", "atributos": {"color": "Negro con estampado de puntos plumeti", "estilo": "Falda midi con diseno por capas fruncidas", "material": "Tul transparente", "detalles": "Pretina elastica negra y niveles de volantes"}, "maniqui": "maniqui/P05.jpg", "maniqui_existe": true, "crops": [{"src": "crops/P05/IMG_9443_1.jpg", "foto": "IMG_9443.jpg", "detalle": false}]}];
+const KEY = "closet_muestra1_estado";
+let estado = {};
+try { estado = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch (e) { estado = {}; }
+function pintar() {
+  let ok = 0, no = 0;
+  for (const d of DATOS) {
+    const card = document.querySelector(`.card[data-id="${d.id}"]`);
+    card.classList.remove("aprobada", "cambiada");
+    if (estado[d.id]) card.classList.add(estado[d.id]);
+    if (estado[d.id] === "aprobada") ok++; else if (estado[d.id] === "cambiada") no++;
+  }
+  document.getElementById("c-total").textContent = DATOS.length;
+  document.getElementById("c-ok").textContent = ok;
+  document.getElementById("c-no").textContent = no;
+  document.getElementById("c-pend").textContent = DATOS.length - ok - no;
+}
+function marcar(id, valor) {
+  estado[id] = estado[id] === valor ? undefined : valor;
+  if (!estado[id]) delete estado[id];
+  try { localStorage.setItem(KEY, JSON.stringify(estado)); } catch (e) {}
+  pintar();
+}
+function csv(v) { v = String(v ?? ""); return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; }
+function exportar() {
+  const filas = [["id", "categoria", "marca_talla", "color", "estilo", "material", "detalles", "estado", "maniqui", "fotos"]];
+  for (const d of DATOS) filas.push([d.id, d.categoria, d.marca_talla, d.atributos.color, d.atributos.estilo, d.atributos.material, d.atributos.detalles, estado[d.id] || "pendiente", d.maniqui, d.crops.map(c => c.foto).join(" ")]);
+  const blob = new Blob(["\ufeff" + filas.map(f => f.map(csv).join(",")).join("\n")], { type: "text/csv;charset=utf-8" });
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "closet_revision.csv"; a.click();
+}
+pintar();
+</script>
+</body></html>

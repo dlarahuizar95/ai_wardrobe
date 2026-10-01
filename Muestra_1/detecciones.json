@@ -1,0 +1,534 @@
+[
+  {
+    "foto": "IMG_9424.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.16,
+          0.113,
+          0.947,
+          0.952
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "falda larga de corte recto en color negro con estampado barroco e ilustrado en color blanco, tela ligera de apariencia suave",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.82,
+          0.177,
+          1.0,
+          0.384
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "prenda de punto gris doblada en la esquina inferior",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9425.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.098,
+          0.111,
+          0.98,
+          0.88
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "Pantalón holgado de pierna ancha estilo palazzo, color negro con estampado ornamental blanco geométrico y floral tipo encaje.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.785,
+          0.183,
+          1.0,
+          0.388
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "Sudadera o sweater gris jaspeado parcialmente visible doblado.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9426.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.098,
+          0.114,
+          1.0,
+          0.884
+        ],
+        "categoria": "pantalon",
+        "color_principal": "negro",
+        "descripcion": "pantalon palazzo holgado de tiro alto, color negro con patron ornamental tipo encaje/etnico estampado en color blanco",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.821,
+          0.191,
+          1.0,
+          0.381
+        ],
+        "categoria": "incierto",
+        "color_principal": "gris",
+        "descripcion": "prenda de tela color gris amontonada o doblada",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9427.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.218,
+          1.0,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "negro",
+        "descripcion": "Acercamiento a la pretina elástica de tela negra con estampado gráfico blanco en contraste, mostrando etiquetas internas con marca y talla.",
+        "es_detalle": true,
+        "etiqueta_texto": "blu pepper, M",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9428.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.198,
+          0.945,
+          0.88
+        ],
+        "categoria": "falda",
+        "color_principal": "terracota",
+        "descripcion": "falda color terracota óxido, corta/mediana, corte evasé con pliegues suaves y detalle de botón en la pretina lateral, tela lisa sin patrón",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.722,
+          0.187,
+          0.998,
+          0.395
+        ],
+        "categoria": "incierto",
+        "color_principal": "azul claro",
+        "descripcion": "prenda azul claro parcialmente visible debajo de la almohada, material de tela de algodón o chamarra ligera",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9429.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.158,
+          0.043,
+          0.835,
+          0.92
+        ],
+        "categoria": "falda",
+        "color_principal": "terracota",
+        "descripcion": "Falda corta o de longitud media de tono terracota o rojo ladrillo, de corte acampanado con tablones, con botones o broches visibles cerca de la cintura y tela lisa de vista mate.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9430.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.12,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "terracota",
+        "descripcion": "Pantalón color terracota de tiro alto con detalle de presillas con botones en la cintura y cierre frontal.",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9431.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.177,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "falda",
+        "color_principal": "vino",
+        "descripcion": "Vista de detalle de la pretina y cadera de una falda color vino o terracota, con trabillas decorativas con botones en los costados, cierre central y forro interior de tono claro.",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9432.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "terracota",
+        "descripcion": "Vista en detalle de la pretina y cierre de un pantalón de tono terracota, con forro interior en color café, botón de ajuste decorativo y cinta textil con texto impreso en el borde interno.",
+        "es_detalle": true,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9433.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.147,
+          0.17,
+          0.938,
+          0.92
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "Pantalón de pierna ancha de imitación piel, sin mangas ni patrones, corte recto, pretina lisa con pasadores para cinturón, color verde olivo vibrante",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.792,
+          0.155,
+          0.998,
+          0.352
+        ],
+        "categoria": "top",
+        "color_principal": "gris",
+        "descripcion": "Top o prenda lisa de tela gris melange, se observa parcialmente doblada",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9434.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.082,
+          0.108,
+          0.98,
+          0.91
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "pantalón verde oliva de tiro alto en material sintético tipo piel, de pierna ancha y lisa con presillas en la cintura",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.778,
+          0.093,
+          1.0,
+          0.282
+        ],
+        "categoria": "incierto",
+        "color_principal": "gris",
+        "descripcion": "prenda textil doblada de color gris claro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9435.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.145,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "Pantalón de tiro alto color verde de piel sintética lisa con trabillas para cinturón y pretina estructurada.",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9436.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.272,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "Acercamiento de pretina e interior de pantalon en piel sintetica color verde, con cierre de broche metalico, zipper y forro interior textil claro",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28 MADE IN CAMBODIA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9437.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          0.99
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "Acercamiento a la cintura y forro interno afelpado de pantalón de piel sintética tono verde olivo con etiqueta cosida",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.87,
+          0.18,
+          1.0,
+          0.52
+        ],
+        "categoria": "sweater",
+        "color_principal": "gris",
+        "descripcion": "Fragmento visible de sudadera o suéter de algodón gris claro",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9438.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.138,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde oliva",
+        "descripcion": "acercamiento a pretina de pantalon de piel sintetica verde oliva, lisa, con cierre frontal, corchetes/botones en pretina, forro textil claro y etiqueta cosida en el interior",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA EUR M USA M MEX 28 MADE IN CAMBODIA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9439.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "categoria": "pantalon",
+        "color_principal": "verde",
+        "descripcion": "Pantalón verde oliva de aspecto piel o vinipiel con pretina, presillas para cinturón y botón cubierto, tiro alto",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9440.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.082,
+          0.203,
+          0.961,
+          0.869
+        ],
+        "categoria": "top",
+        "color_principal": "morado",
+        "descripcion": "Top drapeado de manga larga en tono morado berenjena, de tela elástica lisa con fruncido central y costuras laterales rugosas, cuello redondo cerrado, sin botones ni cierres visibles.",
+        "es_detalle": false,
+        "etiqueta_texto": "ZARA",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9441.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.0,
+          0.0,
+          1.0,
+          0.98
+        ],
+        "categoria": "incierto",
+        "color_principal": "morado",
+        "descripcion": "Acercamiento a tejido liso de color morado o borgoña con etiqueta colgante de papel",
+        "es_detalle": true,
+        "etiqueta_texto": "ZARA, Talla M / MEX 28",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9442.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.101,
+          0.125,
+          0.957,
+          0.812
+        ],
+        "categoria": "top",
+        "color_principal": "morado",
+        "descripcion": "top de manga larga en color morado ciruela, confeccionado en tela elástica con diseño totalmente fruncido (ruched) a lo largo del frente y mangas",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      }
+    ]
+  },
+  {
+    "foto": "IMG_9443.jpg",
+    "ancho": 1024,
+    "alto": 768,
+    "prendas": [
+      {
+        "bbox": [
+          0.185,
+          0.05,
+          0.939,
+          0.932
+        ],
+        "categoria": "falda",
+        "color_principal": "negro",
+        "descripcion": "falda corta de tul transparente con patrón de puntos (plumeti), diseño de capas fruncidas y pretina elástica",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 1
+      },
+      {
+        "bbox": [
+          0.141,
+          0.758,
+          0.366,
+          1.0
+        ],
+        "categoria": "incierto",
+        "color_principal": "gris",
+        "descripcion": "prenda de tela gris doblada parcialmente visible en la esquina inferior izquierda",
+        "es_detalle": false,
+        "etiqueta_texto": "",
+        "n": 2
+      }
+    ]
+  }
+]
